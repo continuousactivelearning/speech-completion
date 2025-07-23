@@ -1,0 +1,876 @@
+[
+  {
+    "timestamp": "2025-06-19T15:57:52.313Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 87.5,
+    "processingTime": 18141,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T15:58:08.768Z",
+    "wordCount": 414,
+    "textLength": 2298,
+    "prediction": 52.43,
+    "processingTime": 9358,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T15:58:28.968Z",
+    "wordCount": 241,
+    "textLength": 1354,
+    "prediction": 34.94,
+    "processingTime": 8727,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T15:58:48.490Z",
+    "wordCount": 103,
+    "textLength": 565,
+    "prediction": 17.5,
+    "processingTime": 9383,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T15:59:10.521Z",
+    "wordCount": 9,
+    "textLength": 64,
+    "prediction": 20,
+    "processingTime": 8624,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:00:20.606Z",
+    "wordCount": 9,
+    "textLength": 64,
+    "prediction": 20,
+    "processingTime": 8692,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:02:04.824Z",
+    "wordCount": 809,
+    "textLength": 4336,
+    "prediction": 95,
+    "processingTime": 9461,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:02:28.372Z",
+    "wordCount": 387,
+    "textLength": 2068,
+    "prediction": 52.42,
+    "processingTime": 7925,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:04:47.730Z",
+    "wordCount": 18,
+    "textLength": 100,
+    "prediction": 5,
+    "processingTime": 10076,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:21:40.559Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 87.5,
+    "processingTime": 9906,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:22:07.752Z",
+    "wordCount": 323,
+    "textLength": 1805,
+    "prediction": 42.47,
+    "processingTime": 7966,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:24:31.639Z",
+    "wordCount": 142,
+    "textLength": 794,
+    "prediction": 12.45,
+    "processingTime": 9615,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:31:23.068Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 87.5,
+    "processingTime": 10635,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-19T16:34:32.256Z",
+    "wordCount": 414,
+    "textLength": 2298,
+    "prediction": 52.43,
+    "processingTime": 9145,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-20T11:23:42.965Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 87.5,
+    "processingTime": 16272,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-20T11:24:16.214Z",
+    "wordCount": 533,
+    "textLength": 2913,
+    "prediction": 74.99,
+    "processingTime": 7613,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-20T11:24:39.666Z",
+    "wordCount": 193,
+    "textLength": 1093,
+    "prediction": 27.46,
+    "processingTime": 7835,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-20T11:25:37.699Z",
+    "wordCount": 193,
+    "textLength": 1093,
+    "prediction": 27.46,
+    "processingTime": 7781,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-20T11:52:43.766Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 87.5,
+    "processingTime": 8881,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-20T11:53:09.193Z",
+    "wordCount": 191,
+    "textLength": 1018,
+    "prediction": 32.53,
+    "processingTime": 8158,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-20T11:53:39.264Z",
+    "wordCount": 268,
+    "textLength": 1435,
+    "prediction": 47.66,
+    "processingTime": 7380,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-20T12:15:08.628Z",
+    "wordCount": 1,
+    "textLength": 5,
+    "prediction": 5,
+    "processingTime": 8896,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-21T09:56:08.888Z",
+    "wordCount": 268,
+    "textLength": 1435,
+    "prediction": 47.66,
+    "processingTime": 15822,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-21T09:56:36.225Z",
+    "wordCount": 102,
+    "textLength": 562,
+    "prediction": 20,
+    "processingTime": 7903,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-21T09:56:51.326Z",
+    "wordCount": 33,
+    "textLength": 178,
+    "prediction": 7.5,
+    "processingTime": 7554,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-21T09:57:22.621Z",
+    "wordCount": 403,
+    "textLength": 2181,
+    "prediction": 75,
+    "processingTime": 7181,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-21T10:42:25.066Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 87.5,
+    "processingTime": 9711,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-21T10:42:59.953Z",
+    "wordCount": 571,
+    "textLength": 3090,
+    "prediction": 82.44,
+    "processingTime": 7903,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-21T10:43:26.168Z",
+    "wordCount": 566,
+    "textLength": 3053,
+    "prediction": 80.01,
+    "processingTime": 7226,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-06-21T10:44:07.239Z",
+    "wordCount": 571,
+    "textLength": 3090,
+    "prediction": 82.44,
+    "processingTime": 7530,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T20:21:18.062Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 2133,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T20:27:36.793Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 207,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T20:28:25.793Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 205,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T20:30:32.781Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 302,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T20:35:00.888Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 87.5,
+    "processingTime": 10460,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T21:44:39.236Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 5492,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T21:48:31.562Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 4339,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T21:50:23.691Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 4410,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T21:52:09.450Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 4360,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T21:56:05.191Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 4419,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:06:05.478Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 17144,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:07:26.254Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 10910,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:09:29.836Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 6443,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:10:11.949Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 6033,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:10:28.088Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 4827,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:16:28.323Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 11661,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:18:12.629Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 12868,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:22:01.684Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 12160,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-11T22:24:42.561Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 72.38,
+    "processingTime": 13411,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:26:27.446Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 12161,
+    "success": false,
+    "error": "Invalid Python response"
+  },
+  {
+    "timestamp": "2025-07-11T22:27:21.652Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 72.38,
+    "processingTime": 12390,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:28:42.579Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 74.24,
+    "processingTime": 12927,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:30:20.528Z",
+    "wordCount": 584,
+    "textLength": 3149,
+    "prediction": 74.19,
+    "processingTime": 14369,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:30:41.209Z",
+    "wordCount": 449,
+    "textLength": 2396,
+    "prediction": 74.06,
+    "processingTime": 11983,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:31:01.526Z",
+    "wordCount": 230,
+    "textLength": 1269,
+    "prediction": 72.44,
+    "processingTime": 10818,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:31:33.370Z",
+    "wordCount": 50,
+    "textLength": 286,
+    "prediction": 10,
+    "processingTime": 11946,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:32:23.016Z",
+    "wordCount": 536,
+    "textLength": 2992,
+    "prediction": 69.42,
+    "processingTime": 13076,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:32:45.785Z",
+    "wordCount": 403,
+    "textLength": 2237,
+    "prediction": 69.65,
+    "processingTime": 13246,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T22:33:07.987Z",
+    "wordCount": 298,
+    "textLength": 1651,
+    "prediction": 72.11,
+    "processingTime": 12970,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T23:10:17.324Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 74.24,
+    "processingTime": 15685,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T23:18:10.644Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 74.24,
+    "processingTime": 14121,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T23:20:43.934Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 74.24,
+    "processingTime": 12207,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-11T23:22:32.081Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 74.24,
+    "processingTime": 13638,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-12T05:38:50.961Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 74.24,
+    "processingTime": 15732,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-12T05:39:57.179Z",
+    "wordCount": 2,
+    "textLength": 14,
+    "prediction": 2.5,
+    "processingTime": 10730,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-12T05:43:23.849Z",
+    "wordCount": 8,
+    "textLength": 52,
+    "prediction": 2.5,
+    "processingTime": 12935,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-12T05:44:28.211Z",
+    "wordCount": 323,
+    "textLength": 1810,
+    "prediction": 65.97,
+    "processingTime": 12013,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-12T08:33:48.789Z",
+    "wordCount": 385,
+    "textLength": 2294,
+    "prediction": 68.62,
+    "processingTime": 15462,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-12T08:35:10.506Z",
+    "wordCount": 375,
+    "textLength": 2343,
+    "prediction": 72.89,
+    "processingTime": 12779,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-12T08:39:01.307Z",
+    "wordCount": 359,
+    "textLength": 2322,
+    "prediction": 70.69,
+    "processingTime": 13976,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-12T08:39:57.145Z",
+    "wordCount": 576,
+    "textLength": 3586,
+    "prediction": 74.76,
+    "processingTime": 15391,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T10:51:22.764Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 5903,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-13T10:53:18.730Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 3897,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-13T10:57:56.374Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 4501,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-13T10:58:19.207Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 4218,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-13T10:59:29.057Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 3957,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-13T11:04:56.767Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 8723,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-13T11:06:11.771Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 6429,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-13T11:07:22.434Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "processingTime": 5806,
+    "success": false,
+    "error": "Python script error (code 1)"
+  },
+  {
+    "timestamp": "2025-07-13T11:09:33.402Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 31.99,
+    "processingTime": 13625,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T11:14:41.483Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 31.99,
+    "processingTime": 16473,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T11:17:29.560Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 31.99,
+    "processingTime": 14187,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T11:18:28.875Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 0,
+    "processingTime": 13242,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T11:19:30.465Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 0,
+    "processingTime": 13481,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T12:25:55.056Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 0,
+    "processingTime": 17518,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T12:28:33.885Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 31.99,
+    "processingTime": 14697,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T12:31:33.172Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 31.99,
+    "processingTime": 11863,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T12:32:10.940Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 31.99,
+    "processingTime": 12353,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T12:38:56.478Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 31.99,
+    "processingTime": 14534,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T12:43:10.219Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 31.99,
+    "processingTime": 13157,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T12:52:59.994Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 1.6,
+    "processingTime": 13110,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T13:02:52.117Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 1.6,
+    "processingTime": 15576,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T13:14:25.993Z",
+    "wordCount": 637,
+    "textLength": 3457,
+    "prediction": 35.43,
+    "processingTime": 18537,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T13:17:42.409Z",
+    "wordCount": 1910,
+    "textLength": 10372,
+    "prediction": 35.52,
+    "processingTime": 18715,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T13:18:06.034Z",
+    "wordCount": 1910,
+    "textLength": 10372,
+    "prediction": 35.52,
+    "processingTime": 16947,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T14:41:11.861Z",
+    "wordCount": 633,
+    "textLength": 3425,
+    "prediction": 35.47,
+    "processingTime": 17995,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T14:42:18.599Z",
+    "wordCount": 103,
+    "textLength": 565,
+    "prediction": 33.99,
+    "processingTime": 17996,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T14:44:31.229Z",
+    "wordCount": 2316,
+    "textLength": 11556,
+    "prediction": 37.05,
+    "processingTime": 23488,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T14:45:08.332Z",
+    "wordCount": 1,
+    "textLength": 5,
+    "prediction": 2.5,
+    "processingTime": 12516,
+    "success": true,
+    "error": null
+  },
+  {
+    "timestamp": "2025-07-13T14:45:50.947Z",
+    "wordCount": 2316,
+    "textLength": 11556,
+    "prediction": 37.05,
+    "processingTime": 20058,
+    "success": true,
+    "error": null
+  }
+]
