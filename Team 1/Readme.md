@@ -8,3 +8,10 @@ The repository comtains two different types of folders:
 In case of doubts please feel free to reach out to us
 
 happy exploring!
+
+Team Members:
+
+- Janojit Chakraborty
+- Jahar Kumar Paul
+- Subhradip Bhattacharyya
+- Kinshuk Ganguly
