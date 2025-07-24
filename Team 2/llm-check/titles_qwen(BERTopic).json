@@ -1,0 +1,726 @@
+{
+  "topic_-1": {
+    "title": "Graph Theory Basics: Understanding Vertices, Edges, and Sets",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_0": {
+    "title": "Couples Handshakes at a Party: Exploring the Math Behind Handholding in Groups",
+    "top_words": "person, hands, people, shook, handshake, handshakes, shake, spouse, seven, couples"
+  },
+  "topic_1": {
+    "title": "Lecture Welcome to Graph Theory: Exploring Music and Mathematical Concepts",
+    "top_words": "music, lecture, mathematics, welcome, mooc, theory, learn, nptel, discrete, discussion"
+  },
+  "topic_2": {
+    "title": "Welcome to the NPTEL MOOC on Discrete Mathematics: Set Theory Explorations",
+    "top_words": "music, lecture, mathematics, welcome, mooc, theory, learn, nptel, discrete, discussion"
+  },
+  "topic_3": {
+    "title": "Matching Properties in Bipartite Graphs: Perfect Matchings and Maximum Matchings",
+    "top_words": "matching, perfect, halls, matched, maximum, matchings, complete, match, maximal, seven"
+  },
+  "topic_4": {
+    "title": "Exploring Set Relationships and Neighborhoods: Prime Conditions for Perfect Matching",
+    "top_words": "size, neighbors, union, subset, prime, condition, greater, portion, matched, violated"
+  },
+  "topic_5": {
+    "title": "Understanding Graphs and Bridges: A Tutorial on Vertex Relations and Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_6": {
+    "title": "Understanding Graphs and Vertices through Real-World Examples",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_7": {
+    "title": "Arithmetic Progressions: Jumping Along the Number Line from Zero",
+    "top_words": "distance, interval, progression, zero, arithmetic, jumping, points, point, right, exactly"
+  },
+  "topic_8": {
+    "title": "Matrix Representation of Vertex Orderings and Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_9": {
+    "title": "Understanding Graph Neighbors and Arrangements through Levels and Nodes",
+    "top_words": "level, neighbors, neighbor, layer, levels, drink, vertex, node, arrangement, differentiates"
+  },
+  "topic_10": {
+    "title": "Exploring the Vertex Relationships in Graph Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_11": {
+    "title": "Alternate Characterization of Bipartite Graphs: A Vertex-Based Approach",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_12": {
+    "title": "Analyzing Neighbors in Color Processing Algorithms",
+    "top_words": "neighbors, neighbor, black, processed, white, color, gray, seven, changed, processing"
+  },
+  "topic_13": {
+    "title": "Exploring Complex Paths: Avoiding Redraws and Traversals",
+    "top_words": "path, paths, drawing, intersecting, draw, crossing, cross, want, artifact, avoided"
+  },
+  "topic_14": {
+    "title": "Understanding Integer Multiples and Remainders Explained with Yampz's Perspective",
+    "top_words": "integers, plus, positive, member, integer, exist, yampz, said, multiples, comparison"
+  },
+  "topic_15": {
+    "title": "Counting Points on a Real Line: Equinumerosity with Real Numbers",
+    "top_words": "line, real, interval, semicircle, origin, countable, points, point, segment, intersect"
+  },
+  "topic_16": {
+    "title": "Understanding Fractions through Decimal Representation and Enumeration Technique",
+    "top_words": "fraction, position, enumeration, differs, pick, fractions, digit, digits, technique, second"
+  },
+  "topic_17": {
+    "title": "Understanding Vertex Relations and Edges in Graph Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_18": {
+    "title": "Understanding Planar Embeddings: Graph Theory Basics and Visualization Tools",
+    "top_words": "planar, embedding, plane, faces, face, interested, knowing, asking, tools, develop"
+  },
+  "topic_19": {
+    "title": "Understanding Phases and Boundaries in Material Regions",
+    "top_words": "phase, boundary, region, phases, conclude, simple, associate, outer, bother, regions"
+  },
+  "topic_20": {
+    "title": "Understanding DFS Ordering and its Relation to Vertices and Edges",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_21": {
+    "title": "Breadth-First Search vs. Depth-First Search: Exploring Vertex and Edge Relations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_22": {
+    "title": "Algorithm for Queue Operations: Pushing and Processing Vertices",
+    "top_words": "queue, element, deleted, added, delete, push, repeatedly, initially, algorithm, actions"
+  },
+  "topic_23": {
+    "title": "Bipartite Graphs and Cycles: Understanding Their Relationship",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_24": {
+    "title": "Understanding Equinumerous Sets and Graph Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_25": {
+    "title": "Finding Unique Prime Pairs via Contradiction",
+    "top_words": "prime, primes, larger, ordered, finding, contradiction, lower, equal, pair, divide"
+  },
+  "topic_26": {
+    "title": "Vertex Coloring Algorithm Analysis Using Induction",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_27": {
+    "title": "Understanding Real Numbers: Rational, Irrational, and Dedekind Cuts",
+    "top_words": "rational, dedekind, numbers, root, irrational, real, complement, number, cuts, member"
+  },
+  "topic_28": {
+    "title": "Understanding Dedekind Cuts: Constructing Real Numbers from Rational Ones",
+    "top_words": "rational, dedekind, numbers, root, irrational, real, complement, number, cuts, member"
+  },
+  "topic_29": {
+    "title": "Navigating Graphs with Vertices and Edges: Understanding Algorithms Through Subsets and Relations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_30": {
+    "title": "Analyzing Neighborhoods: A Color-Processing Journey in Graph Theory",
+    "top_words": "neighbors, neighbor, black, processed, white, color, gray, seven, changed, processing"
+  },
+  "topic_31": {
+    "title": "Understanding Squares and Equations: A Comprehensive Look Through Examples",
+    "top_words": "squared, square, sides, equation, thousand, squad, hand, substituting, squarefree, multiplied"
+  },
+  "topic_32": {
+    "title": "Understanding Vertex Relations in Modular Congruence Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_33": {
+    "title": "Understanding Divisibility: Common Divisors and Multiples of Integers",
+    "top_words": "divides, common, divisor, multiple, integer, implies, words, easy, divide, divided"
+  },
+  "topic_34": {
+    "title": "Understanding Vertices, Subsets, and Algorithm Relations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_35": {
+    "title": "Understanding Common Factors and Vertex Reduction Using Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_36": {
+    "title": "Analyzing Vertex Relations and Composites using a Subset Algorithm",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_37": {
+    "title": "Bipartite Graphs: Exploring Coloring with Two Colors",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_38": {
+    "title": "Summation and Conclusions: Clearing Up Confusion with Faces and Terms",
+    "top_words": "summation, conclude, faces, confused, going, definitely, times, counted, term, ticks"
+  },
+  "topic_39": {
+    "title": "Simplifying Fractions Using Vertex Algorithm: Identifying Common Factors in Vertices and Edges",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_40": {
+    "title": "Complete Residue Systems Modulo m: Understanding Reduced Integers and Equivalencies",
+    "top_words": "residue, system, complete, modulo, relatively, reduced, mode, integer, load, equivalently"
+  },
+  "topic_41": {
+    "title": "Modulo Arithmetic Basics: Understanding Congruence and Division Rules",
+    "top_words": "modem, congruent, mode, produce, remainder, divisible, minus, model, plus, divides"
+  },
+  "topic_42": {
+    "title": "Understanding Divisibility Rules: Emma's Insight into Minus, Plus, and Multiples",
+    "top_words": "minus, divides, divide, emma, means, integer, hour, plus, lefthand, multiplied"
+  },
+  "topic_43": {
+    "title": "Summation and Conclusion: Understanding Faces in Polyhedra",
+    "top_words": "summation, conclude, faces, confused, going, definitely, times, counted, term, ticks"
+  },
+  "topic_44": {
+    "title": "Solving Electric Field Equations Using Induction Hypothesis",
+    "top_words": "minus, naught, plus, find, raise, equal, substitute, seen, formula, going"
+  },
+  "topic_45": {
+    "title": "Counting Elements: Understanding Subsets and Their Relations through BFS Algorithm Exploration",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_46": {
+    "title": "Understanding Congruence through Vertex Relations in Modular Arithmetic",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_47": {
+    "title": "Modular Arithmetic: Congruence, Divisibility, and Properties of Numbers",
+    "top_words": "modem, congruent, mode, produce, remainder, divisible, minus, model, plus, divides"
+  },
+  "topic_48": {
+    "title": "Understanding Successors, Inductive Sets, and Singleton Sets",
+    "top_words": "singleton, containing, successor, inductive, turns, operator, operate, closed, subset, comparable"
+  },
+  "topic_49": {
+    "title": "Understanding Paradoxes in Graph Algorithms: A Vertex-Edge Relation Analysis",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_50": {
+    "title": "Counting Lists with Repetitions Allowed: Combinations and Size Constraints\n\nThis title encapsulates the main concepts discussed in the text, including lists, elements, size constraints, repetitions allowed, and combinations. It's clear, concise, and accurately represents the lecture topic based on the provided keywords and context.",
+    "top_words": "lists, list, elements, ways, objects, size, minus, allowing, repetitions, multiply"
+  },
+  "topic_51": {
+    "title": "Finding Larger Lower Bounds for Prime Pairs: Exploring Contradictions and Equalities",
+    "top_words": "prime, primes, larger, ordered, finding, contradiction, lower, equal, pair, divide"
+  },
+  "topic_52": {
+    "title": "Exploring Graphs with Algorithms: Understanding Vertices, Edges, and Their Relations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_53": {
+    "title": "Vertex Coloring Algorithm Explained: Visited States and Initialization",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_54": {
+    "title": "Finding GCD Using Vertices and Edges: An Algorithmic Journey",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_55": {
+    "title": "Understanding Hasse Diagrams: Immediate Predecessors and Successors",
+    "top_words": "immediate, predecessor, successor, draw, conversely, hasse, relation, sort, lines, seven"
+  },
+  "topic_56": {
+    "title": "Removing Least Valued Leaf Nodes from Trees: A Sequential Process",
+    "top_words": "leaf, node, tree, sequence, valued, unique, nodes, neighbor, leaves, disjoint"
+  },
+  "topic_57": {
+    "title": "Evaluating Linear Equations with Combinations of Positive and Negative Coefficients",
+    "top_words": "combination, linear, coefficients, values, evaluating, naught, minus, combinations, expressed, choice"
+  },
+  "topic_58": {
+    "title": "Exploring Linear Combinations with Integer Coefficients",
+    "top_words": "combination, linear, coefficients, values, evaluating, naught, minus, combinations, expressed, choice"
+  },
+  "topic_59": {
+    "title": "Understanding the Multiplication of Real Numbers Including Negative Values",
+    "top_words": "minus, naught, plus, find, raise, equal, substitute, seen, formula, going"
+  },
+  "topic_60": {
+    "title": "Counting Combinations with Repetitions: A Multiplicative Approach",
+    "top_words": "lists, list, elements, ways, objects, size, minus, allowing, repetitions, multiply"
+  },
+  "topic_61": {
+    "title": "Graph Coloring Theorem: Understanding the Maximum Number of Colors Needed",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_62": {
+    "title": "Analyzing Vertex Relationships with Edges Using a Coloring Algorithm",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_63": {
+    "title": "Consistent Enumeration Functions: Understanding Precedence and Mapping Relations",
+    "top_words": "enumeration, consistent, gets, conflict, function, precedence, easily, setting, exes, inductively"
+  },
+  "topic_64": {
+    "title": "Understanding Norms and Composite Numbers through Vertex Relations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_65": {
+    "title": "Algorithm Searches: Exploring Breadth-First and Depth-First Approaches",
+    "top_words": "search, breadthfirst, depth, algorithm, depthfirst, iterative, searches, ordering, algorithms, searching"
+  },
+  "topic_66": {
+    "title": "Maximal and Minimal Elements: Understanding Order in Set Diagrams",
+    "top_words": "element, maximal, diagram, elements, minimal, hassle, diagrams, find, everybody, exercise"
+  },
+  "topic_67": {
+    "title": "Teaching Chains, Antichains, and Longest Chains in Ordered Sets (84 Elements)",
+    "top_words": "antichain, chain, antichains, disjoint, longest, partition, elements, length, eightyfour, teaching"
+  },
+  "topic_68": {
+    "title": "The Lecture on Integers, Multiples, and the Greatest Common Divisor (GCD)",
+    "top_words": "integers, plus, positive, member, integer, exist, yampz, said, multiples, comparison"
+  },
+  "topic_69": {
+    "title": "Understanding Vertex Mappings and Relations Using Graph Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_70": {
+    "title": "Understanding Relations and Sets through Vertex Subsets and Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_71": {
+    "title": "Greedy Coloring Algorithm: A Simple and Effective Approach",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_72": {
+    "title": "Understanding Axioms in Set Theory: Extensionality and Empty Set Explained",
+    "top_words": "belongs, belong, axiom, nominee, precisely, members, member, words, rexis, sets"
+  },
+  "topic_73": {
+    "title": "Understanding the Division Algorithm Through Vertex Pairing Relations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_74": {
+    "title": "Evaluating Linear Combinations in Number Theory: Understanding GCD through Expressions and Choices\n\nThis title encapsulates the key concepts discussed in the provided text, including linear combinations, coefficients, values, evaluating expressions (like \"linear combination of r\"), and choices (as seen with x naught and y naught). It also touches on the broader topic of proving a theorem about greatest common divisors (GCD), which is central to the discussion.",
+    "top_words": "combination, linear, coefficients, values, evaluating, naught, minus, combinations, expressed, choice"
+  },
+  "topic_75": {
+    "title": "Understanding Divisibility: Key Concepts and Implications",
+    "top_words": "divides, common, divisor, multiple, integer, implies, words, easy, divide, divided"
+  },
+  "topic_76": {
+    "title": "Understanding Divisibility: Basics and Implications",
+    "top_words": "divides, common, divisor, multiple, integer, implies, words, easy, divide, divided"
+  },
+  "topic_77": {
+    "title": "The Role of Multiples in Integer Arithmetic Explained",
+    "top_words": "integers, plus, positive, member, integer, exist, yampz, said, multiples, comparison"
+  },
+  "topic_78": {
+    "title": "Solving Equations Using Substitution and Formulas",
+    "top_words": "minus, naught, plus, find, raise, equal, substitute, seen, formula, going"
+  },
+  "topic_79": {
+    "title": "Graph Coloring Fundamentals: Defining Valid Colorings for Graphs",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_80": {
+    "title": "Understanding Colorings and Coloring Requirements",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_81": {
+    "title": "Exploring Color Theory and Graph Coloring: A Detailed Look",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_82": {
+    "title": "Counting Vertices and Edges with Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_83": {
+    "title": "Coloring with Constraints: Assigning Unique Colors in Groupings",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_84": {
+    "title": "Color Management in Design: Using Blue and Red as an Example",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_85": {
+    "title": "Understanding Cardinality: From Natural Numbers to Inductive Sets in Set Theory",
+    "top_words": "cardinality, natural, lambda, equinumerous, cardinal, kappa, finite, kapa, countable, numbers"
+  },
+  "topic_86": {
+    "title": "Understanding GCD, LCM, and Their Relations Through Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_87": {
+    "title": "Understanding Recursion in Graph Algorithms Through Vertex Operations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_88": {
+    "title": "Understanding Divisibility Relations through Graphs: A Vertex Approach",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_89": {
+    "title": "Canonical Prime Factorizations in Number Theory",
+    "top_words": "factorization, canonical, factorizations, system, prime, expressed, product, exponent, power, nonnegative"
+  },
+  "topic_90": {
+    "title": "Exploring Vertices, Edges, and Sets: Understanding Relations through Graph Theory Algorithm",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_91": {
+    "title": "Operations on Integers Using Equivalence Classes",
+    "top_words": "operations, addition, multiplication, operation, classes, integral, integers, operators, theory, domain"
+  },
+  "topic_92": {
+    "title": "Coloring Vertices: Understanding Restricted Color Assignment Rules",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_93": {
+    "title": "Coloring Graphs: Assigning Colors to Edges Based on Unused Neighbors",
+    "top_words": "colors, color, coloring, colored, required, blue, given, delta, unused, degree"
+  },
+  "topic_94": {
+    "title": "Finding Larger Primes: Contradiction and Infinity of Prime Numbers",
+    "top_words": "prime, primes, larger, ordered, finding, contradiction, lower, equal, pair, divide"
+  },
+  "topic_95": {
+    "title": "Ordering Strings and the Null String: Understanding Lexicographic Orderings",
+    "top_words": "strings, sigma, string, length, alphabet, characters, null, enumerate, finite, star"
+  },
+  "topic_96": {
+    "title": "Cardinality Concepts: Finite Sets, Functions, and Equinumerosity Explained",
+    "top_words": "cardinality, natural, lambda, equinumerous, cardinal, kappa, finite, kapa, countable, numbers"
+  },
+  "topic_97": {
+    "title": "The Paradoxical Nature of Sets and Axioms Explained",
+    "top_words": "belongs, belong, axiom, nominee, precisely, members, member, words, rexis, sets"
+  },
+  "topic_98": {
+    "title": "Counting Strings: Finite Alphabets and Length Limits",
+    "top_words": "strings, sigma, string, length, alphabet, characters, null, enumerate, finite, star"
+  },
+  "topic_99": {
+    "title": "Strings, Sigma, and Their Infinite Possibilities",
+    "top_words": "strings, sigma, string, length, alphabet, characters, null, enumerate, finite, star"
+  },
+  "topic_100": {
+    "title": "Exploring Larger Prime Pairs and Contradictions in Number Theory",
+    "top_words": "prime, primes, larger, ordered, finding, contradiction, lower, equal, pair, divide"
+  },
+  "topic_101": {
+    "title": "Lattices: Understanding Meet, Join, and Axioms on Boolean Operators",
+    "top_words": "meet, join, commutativity, joint, absorption, associativity, dual, operators, button, axioms"
+  },
+  "topic_102": {
+    "title": "Finding Larger Primes: Contradiction in Assumptions",
+    "top_words": "prime, primes, larger, ordered, finding, contradiction, lower, equal, pair, divide"
+  },
+  "topic_103": {
+    "title": "Factorizations in Prime Expressions: Canonical Forms and Powers",
+    "top_words": "factorization, canonical, factorizations, system, prime, expressed, product, exponent, power, nonnegative"
+  },
+  "topic_104": {
+    "title": "Understanding Coprimality: Theorem Explained Through Example",
+    "top_words": "coprime, relatively, remains, prime, cancelling, primed, sixes, deleting, theorem, picking"
+  },
+  "topic_105": {
+    "title": "Cardinality Concepts and Theorems Explained",
+    "top_words": "cardinality, natural, lambda, equinumerous, cardinal, kappa, finite, kapa, countable, numbers"
+  },
+  "topic_106": {
+    "title": "Understanding Cardinality, Equinumerous Sets, and Finite vs. Infinite Numbers",
+    "top_words": "cardinality, natural, lambda, equinumerous, cardinal, kappa, finite, kapa, countable, numbers"
+  },
+  "topic_107": {
+    "title": "Understanding Paradoxes in Set Theory: The Axiom of Regressive Self-Reference",
+    "top_words": "belongs, belong, axiom, nominee, precisely, members, member, words, rexis, sets"
+  },
+  "topic_108": {
+    "title": "The Axiom of Choice: Relations, Functions, and Vertex Pairings",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_109": {
+    "title": "Understanding Common Divisors and Multiples in Integers",
+    "top_words": "divides, common, divisor, multiple, integer, implies, words, easy, divide, divided"
+  },
+  "topic_110": {
+    "title": "Understanding Lattices and Their Subsets Through Vertex Operations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_111": {
+    "title": "Understanding Bounds and Suprema in Lattices",
+    "top_words": "bound, lower, upper, greatest, lattice, bounds, infimum, exist, pair, happens"
+  },
+  "topic_112": {
+    "title": "Understanding Equivalence Relations: Reflexive, Symmetric, Antisymmetric Properties Explained",
+    "top_words": "relationship, relation, equal, antisymmetric, reflexive, symmetric, implies, anti, equivalence, holds"
+  },
+  "topic_113": {
+    "title": "Understanding LCM and GCD: Relations Between Vertices, Edges, and Subsets",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_114": {
+    "title": "Understanding Vertex Relations in Graph Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_115": {
+    "title": "The Greatest Common Divisor: Properties and Existence in Integer Arithmetic",
+    "top_words": "integers, plus, positive, member, integer, exist, yampz, said, multiples, comparison"
+  },
+  "topic_116": {
+    "title": "Understanding Divisibility Relations Among Vertices Using an Algorithm",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_117": {
+    "title": "Understanding Vertex Pairs through Relations and Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_118": {
+    "title": "Understanding Relations: Reflexive, Symmetric, Antisymmetric & Equivalence",
+    "top_words": "relationship, relation, equal, antisymmetric, reflexive, symmetric, implies, anti, equivalence, holds"
+  },
+  "topic_119": {
+    "title": "Understanding Ordered Tuples and Their Precedence Relationships",
+    "top_words": "precedes, ntuple, ordered, ordering, immediately, intercedes, preceding, monotonic, opposed, intermediate"
+  },
+  "topic_120": {
+    "title": "Graph Vertex Degrees and the Handshaking Lemma Explained",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_121": {
+    "title": "Graph Theory Proof by Induction: Removing Edges to Simplify Graphs",
+    "top_words": "removed, removing, remove, obtained, degree, edge, smaller, greater, graph, removal"
+  },
+  "topic_122": {
+    "title": "Understanding Walks and Paths in Graphs via Vertices and Edges",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_123": {
+    "title": "Exploring Partial Orders and Incomparable Elements",
+    "top_words": "ordering, partially, relation, partial, relations, ordered, order, incomparable, opposite, consider"
+  },
+  "topic_124": {
+    "title": "Graph Regularity Definitions and Examples Explained",
+    "top_words": "regular, degree, talked, graph, peterson, statement, kaiji, regularity, definitions, example"
+  },
+  "topic_125": {
+    "title": "Understanding Partially Ordered Sets: Key Concepts and Examples",
+    "top_words": "ordering, partially, relation, partial, relations, ordered, order, incomparable, opposite, consider"
+  },
+  "topic_126": {
+    "title": "Understanding Partial Ordering Relations: Key Concepts and Examples",
+    "top_words": "ordering, partially, relation, partial, relations, ordered, order, incomparable, opposite, consider"
+  },
+  "topic_127": {
+    "title": "Counting Vertices and Edges with an Algorithm: Understanding Their Frequency and Relations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_128": {
+    "title": "Understanding Vertices and Their Relations in Graph Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_129": {
+    "title": "Observing Peterson Graph Properties: A Study on Non-Hamiltonicity in British Graphs",
+    "top_words": "peterson, todays, properties, like, british, observation, studying, nonlinearity, rows, principle"
+  },
+  "topic_130": {
+    "title": "Hamiltonian Cycles vs. Eulerian Cycles: Understanding Different Types of Graph Paths",
+    "top_words": "hamiltonian, cycle, cycles, ians, types, learned, peterson, graph, starting, missing"
+  },
+  "topic_131": {
+    "title": "Understanding Cycles in Graph Algorithms: Exploring Vertex and Edge Subsets",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_132": {
+    "title": "Counting Spanning Trees Using Vertex Subsets and Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_133": {
+    "title": "Maximum Degree and Chromatic Number in Graphs: A Theoretical Exploration",
+    "top_words": "degree, vertex, degrees, reza, possibility, sharing, kaiji, maximum, enter, leaving"
+  },
+  "topic_134": {
+    "title": "Understanding Degrees in Graphs: A Closer Look at Even Degrees in Simple Networks",
+    "top_words": "degree, vertex, degrees, reza, possibility, sharing, kaiji, maximum, enter, leaving"
+  },
+  "topic_135": {
+    "title": "Understanding Trees, Spanning Trees, and Complete Graphs",
+    "top_words": "trees, spanning, diction, consists, label, labeling, candidate, looking, complete, counts"
+  },
+  "topic_136": {
+    "title": "Understanding Cuts in Graphs: Theoretical Foundations of Flow Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_137": {
+    "title": "Matrix vs. List Representations of Graphs: Adjacency Matrix and List Comparison",
+    "top_words": "matrix, adjacency, representation, list, adjacent, represent, information, symmetric, clist, sensi"
+  },
+  "topic_138": {
+    "title": "Isomorphic Graphs: Exploring Common Structures in Mathematical Representations",
+    "top_words": "isomorphic, graphs, isomorphism, examples, capture, difficult, couple, cube, mathematical, notion"
+  },
+  "topic_139": {
+    "title": "Understanding Proofer Coding: From Input Trees to Output Sequences",
+    "top_words": "code, proofer, coding, generating, proof, internal, node, appear, process, absent"
+  },
+  "topic_140": {
+    "title": "Exploring the Connectivity of Vertices in Graphs: Understanding Diametrically Opposite Connections",
+    "top_words": "connected, diametrically, opposite, joined, vertex, entry, disconnected, requirement, care, center"
+  },
+  "topic_141": {
+    "title": "Splitting Graphs and Combinations of Vertices: S, T Considerations",
+    "top_words": "contains, collection, parts, split, union, vertices, contain, complement, partition, need"
+  },
+  "topic_142": {
+    "title": "Graph Relationships: Exploring Reflexivity, Transitivity, and Equivalence in Vertex Connections",
+    "top_words": "connected, diametrically, opposite, joined, vertex, entry, disconnected, requirement, care, center"
+  },
+  "topic_143": {
+    "title": "Encoding Sequences with Unique Trees",
+    "top_words": "leaf, node, tree, sequence, valued, unique, nodes, neighbor, leaves, disjoint"
+  },
+  "topic_144": {
+    "title": "Counting Edges Using Vertex Subsets and Tree Properties",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_145": {
+    "title": "Understanding Graph Edges and Their Kinds in Networks",
+    "top_words": "edge, edges, boundary, face, kinds, faces, treaty, denotes, kind, completely"
+  },
+  "topic_146": {
+    "title": "Navigating Connected vs. Disconnected Components in Graph Theory",
+    "top_words": "connected, diametrically, opposite, joined, vertex, entry, disconnected, requirement, care, center"
+  },
+  "topic_147": {
+    "title": "Understanding Connectivity and Connections in Graph Theory",
+    "top_words": "connected, diametrically, opposite, joined, vertex, entry, disconnected, requirement, care, center"
+  },
+  "topic_148": {
+    "title": "Euler's Theorem on Finding Eulerian Circuits in Graphs",
+    "top_words": "euler, circuit, eulers, theorem, graph, problem, cycling, traversed, corollary, degree"
+  },
+  "topic_149": {
+    "title": "Eulerian Graphs: Circuits, Paths, and Degrees Explained",
+    "top_words": "euler, circuit, eulers, theorem, graph, problem, cycling, traversed, corollary, degree"
+  },
+  "topic_150": {
+    "title": "Euler's Theorem on Eulerian Circuits and Graph Connectivity",
+    "top_words": "euler, circuit, eulers, theorem, graph, problem, cycling, traversed, corollary, degree"
+  },
+  "topic_151": {
+    "title": "Exploring Walks in Graph Theory: Sequences, Paths, and Divergence",
+    "top_words": "walk, repeated, path, vertices, starting, paths, sequence, start, reach, diverge"
+  },
+  "topic_152": {
+    "title": "Exploring Walks and Paths on Graphs: From Start to Finish",
+    "top_words": "walk, repeated, path, vertices, starting, paths, sequence, start, reach, diverge"
+  },
+  "topic_153": {
+    "title": "Unit Flow in Networks: Defining Bounded Systems",
+    "top_words": "units, existing, flow, unit, send, sending, additional, route, flowing, routed"
+  },
+  "topic_154": {
+    "title": "Understanding Vertex Weights and Edges in Graph Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_155": {
+    "title": "Finding the Minimum Weighted Cut: Identifying Optimal Cuts in Graphs",
+    "top_words": "weight, weighted, weights, having, edge, increasing, minimum, present, identifying, shying"
+  },
+  "topic_156": {
+    "title": "Analyzing Vertex Flows with an Algorithm: Understanding Saturated Edges and Their Impact",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_157": {
+    "title": "Understanding Graphs: Edges, Vertices, and Boundaries Explained",
+    "top_words": "edge, edges, boundary, face, kinds, faces, treaty, denotes, kind, completely"
+  },
+  "topic_158": {
+    "title": "Understanding Forest Formation from Tree Dissections: A Sequence of Nodes and Leaves",
+    "top_words": "leaf, node, tree, sequence, valued, unique, nodes, neighbor, leaves, disjoint"
+  },
+  "topic_159": {
+    "title": "Understanding Residual Graphs and Their Paths in Network Routing Flow Analysis",
+    "top_words": "residual, compute, flow, graph, corresponding, paths, original, routing, doubleprime, reachable"
+  },
+  "topic_160": {
+    "title": "Residual Capacities in Network Flow Problems: Understanding Forward and Backward Flows",
+    "top_words": "capacity, operating, flow, forward, blue, edge, edges, carrying, capacities, bounded"
+  },
+  "topic_161": {
+    "title": "Binary Trees: Properties, Cycles, and Rooted Structures",
+    "top_words": "tree, adding, binary, cycles, cycle, contain, rooted, signifies, intermediary, children"
+  },
+  "topic_162": {
+    "title": "Understanding Trees: Vertex Count, Edges, and Spanning Tree Relations",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_163": {
+    "title": "Understanding Network Capacity and Flow Constraints",
+    "top_words": "capacity, operating, flow, forward, blue, edge, edges, carrying, capacities, bounded"
+  },
+  "topic_164": {
+    "title": "Properties and Computation of Minimal Spanning Trees",
+    "top_words": "spanning, minimal, tree, property, weighted, trees, properties, weight, minimum, compute"
+  },
+  "topic_165": {
+    "title": "Minimal Spanning Trees: Properties, Weighted Edges, and Uniqueness",
+    "top_words": "spanning, minimal, tree, property, weighted, trees, properties, weight, minimum, compute"
+  },
+  "topic_166": {
+    "title": "Understanding Edges and Their Kinds in Graph Theory",
+    "top_words": "edge, edges, boundary, face, kinds, faces, treaty, denotes, kind, completely"
+  },
+  "topic_167": {
+    "title": "Graph Theory Fundamentals: Exploring Vertices, Components, and Sets",
+    "top_words": "contains, collection, parts, split, union, vertices, contain, complement, partition, need"
+  },
+  "topic_168": {
+    "title": "Understanding Edges and Subsets in Graph Theory",
+    "top_words": "edge, edges, boundary, face, kinds, faces, treaty, denotes, kind, completely"
+  },
+  "topic_169": {
+    "title": "Navigating Graphs: Understanding Outgoing and Incoming Edges",
+    "top_words": "outgoing, edges, incoming, green, edge, subtract, clever, particularly, decrementing, destination"
+  },
+  "topic_170": {
+    "title": "Exploring Cycles and Edges in Graphs: Creating Ravines and Pentagons Through Cycling",
+    "top_words": "cycle, edge, edges, cycles, suppose, trace, creating, ravine, chance, cycling"
+  },
+  "topic_171": {
+    "title": "Exploring Cycles and Edges in Graphs: Understanding Four-Cycles and Their Importance",
+    "top_words": "cycle, edge, edges, cycles, suppose, trace, creating, ravine, chance, cycling"
+  },
+  "topic_172": {
+    "title": "Understanding Vertex Outflows with Flow Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_173": {
+    "title": "Understanding Cycles in Graphs: Different Approaches",
+    "top_words": "cycles, cycle, original, graph, restrict, cycling, parts, triangle, differently, wrote"
+  },
+  "topic_174": {
+    "title": "Understanding Cycles and Vertices with Graph Algorithms",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_175": {
+    "title": "Flow Networks and Conservation Criteria Explained",
+    "top_words": "flow, internal, networks, conservation, node, nodes, network, incoming, criterion, outgoing"
+  },
+  "topic_176": {
+    "title": "MaxFlow MinCut Theorem Explained: Understanding Maximum Possible Flows and Cuts",
+    "top_words": "value, flow, maximum, mincut, maxflow, capacity, flows, possible, increase, fluid"
+  },
+  "topic_177": {
+    "title": "MaxFlow MinCut Theorem: Understanding Maximum Flows and Minimum Cuts with Capacity Constraints",
+    "top_words": "value, flow, maximum, mincut, maxflow, capacity, flows, possible, increase, fluid"
+  },
+  "topic_178": {
+    "title": "Matching Vertex Sets in Flow Algorithms: Understanding Relations and Equality",
+    "top_words": "vertex, okay, going, vertices, algorithm, relation, equal, edges, subset, common"
+  },
+  "topic_179": {
+    "title": "MaxFlow MinCut Theorem Explained: Valuing Flows in Networks",
+    "top_words": "value, flow, maximum, mincut, maxflow, capacity, flows, possible, increase, fluid"
+  }
+}

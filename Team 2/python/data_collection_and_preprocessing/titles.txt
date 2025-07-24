@@ -1,0 +1,47 @@
+Motivational Example - 1
+Motivational Example - 2
+Commonality in examples
+Motivational Example - 3
+Example - 4 Explanation
+Introduction to functions
+Defintion of a function - Part 1
+Defintion of a function - Part 2
+Defintion of a function - Part 3
+Relations vs Functions - Part 1
+Relations vs Functions - Part 2
+Introduction to One-One Function
+One-One Function - Example 1
+One-One Function - Example 2
+One-One Function - Example 3
+Proving a Function is One-One
+Examples and Non- examples of One-One function
+Cardinality condition in One-One function - Part 1
+Cardinality condition in One-One function - Part 2
+Introduction to Onto Function - Part 1
+Introduction to Onto Function - Part 2
+Definition of Onto Function
+Examples of Onto Function
+Cardinality condition in Onto function - Part 1
+Cardinality condition in Onto function - Part 2
+Introduction to Bijection
+Examples of Bijection
+Cardinality condition in Bijection - Part 1
+Cardinality condition in Bijection - Part 2
+Counting number of functions
+Number of functions
+Number of One-One functions - Part 1
+Number of One-One functions - Part 2
+Number of One-One functions - Part 3
+Number of Onto functions
+Number of Bijections
+Counting number of functions.
+Motivation for Composition of functions - Part 1
+Motivation for Composition of functions - Part 2
+Definition of Composition of functions
+Why study Composition of functions
+Example of Composition of functions - Part 1
+Example of Composition of functions - Part 2
+Motivation for Inverse functions
+Inverse functions
+Examples of Inverse functions
+Application of inverse functions - Part 1

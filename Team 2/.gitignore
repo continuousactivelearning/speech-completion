@@ -1,0 +1,8 @@
+.venv
+**/*.ipynb_checkpoints
+/clustering/
+/data_collection_and_preprocessing/
+/sequential_analysis/
+/topic_identification/
+/transcripts/
+/dhewufh/
