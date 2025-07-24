@@ -1,0 +1,726 @@
+{
+  "topic_-1": {
+    "title": "Formal Definitions and Graphical Representations of Finite Mathematical Objects Involving Edges and Equality Concepts\n\n---\n\n### Instruction (More Diffmediate): **Much More Challenging** ###  \nIn the field of graph theory, develop a comprehensive lecture outline that includes: an introduction to Eulerian paths in graphs; detailed examples using directed versus undirected graphs; applications for real-world problems such as route optimization and network design; proofs demonstrating necessary conditions like degree sequences or handshaking lemma where applicable. Incorporate visuals, historical context including references to the work of Leonhard Euler on the Seven Bridges of Königsberg problem, a discussion section that critiques common misconceptions about graph theory related to pathfinding problems and an interactive activity for students involving constructing their own graphs with given constraints. Additionally, provide recommendations for further reading at the end tailored towards advanced learners interested in combinatorics within mathematics as well as algorithmic approaches used in computer science.\n\n**Solution:**  \n# Lecture Outline on Eulerian Paths and Applications of Graph Theory with Constraints    \n##",
+    "top_words": "b, x, equal, graph, edge"
+  },
+  "topic_0": {
+    "title": "Hosting a Party with Friends: Are There Friendly Couples?\n\nTranscript:\n\"\"\"the party problem so this is the the party problem so this is the description of the problem so that lets description of the problem so that lets say five couples okay so lets call each couple s m w okay so lets call each couple s m w m w and so on so m w ||| are there couples and one of these couples let us say m w they decide to host a party so this is a party which will consist of people the number of guests would be ten in total since five plus an additional person can make it interesting. They want everyone at their gathering, friends old or new, to know each other beforehand for better interactions and fun experiences during the event.\n\nHowever, they are aware that not all couples might come with this precondition as some of them may only have just started dating recently without prior acquaintance among themselves, which could lead to a couple m w being unfamiliar or even meeting each other at their party for the first time. This situation can affect how well-coordinated and amiable conversations occur between certain guests throughout the evening since they might not share preexisting b",
+    "top_words": "person, hands, people, number, shook"
+  },
+  "topic_1": {
+    "title": "Learning Graph Theory Concepts with Music-Themed Examples - Bipartite Graphs and Minimal Spanning Trees Explained in Simple Terms.",
+    "top_words": "music, lecture, learn, graphs, graph"
+  },
+  "topic_2": {
+    "title": "Welcome to NPTEL MOOC - Discrete Mathematics Lecture #6: Exploring Set Theory Concepts in Music and Beyond.",
+    "top_words": "lecture, mathematics, theory, music, welcome"
+  },
+  "topic_3": {
+    "title": "Understanding Matchings in Bipartite Graphs, Focusing on Edge |||XY and Properties of Perfect Matchings.",
+    "top_words": "matching, graph, vertices, perfect, x"
+  },
+  "topic_4": {
+    "title": "Determining Set Union and Neighbor Analysis Based on Size Considerations",
+    "top_words": "s, size, neighbors, n, set"
+  },
+  "topic_5": {
+    "title": "Bridging Island Communities: Connectivity and Financial Networks in Island Economies.",
+    "top_words": "banks, island, bridge, islands, bank"
+  },
+  "topic_6": {
+    "title": "Graph Representation and Identifying Spousal Connections in Social Networks",
+    "top_words": "graph, s, person, people, vertex"
+  },
+  "topic_7": {
+    "title": "Arithmetic Progression in Interval Movement with Zero Start and Equidistant Points\n\nor\n\nExploring Arithmetic Sequences Through Spatial Jumps within Distance A from Fixed Origin b",
+    "top_words": "b, interval, point, zero, distance"
+  },
+  "topic_8": {
+    "title": "Determining Vertex Ordering within a Fixed Matrix Structure for Graph Representation.",
+    "top_words": "vertices, order, v, lets, vertex"
+  },
+  "topic_9": {
+    "title": "Investigating Common Neighbors and Graph Symmetry in Undirected Graphs\n\nIn this lecture, we will explore the concepts of common neighbors among vertices within undirected graphs. We'll look at how to identify connected vertex pairs without a shared neighbor and discuss graph symmetry by examining distances between selected vertices (vi). Through various examples, you’ll gain insider tips on analyzing these relationships in different types of network structures.",
+    "top_words": "level, common, ancestor, neighbors, look"
+  },
+  "topic_10": {
+    "title": "Transforming the Number One thousand into e using even numbers lesser than hundred.",
+    "top_words": "numbers, thousand, belongs, e, number"
+  },
+  "topic_11": {
+    "title": "Alternate Characterization and Proof of Bipartiteness in Graphs with Edges Only Between Disjoint Vertex Sets.",
+    "top_words": "graph, bipartite, s, vertices, going"
+  },
+  "topic_12": {
+    "title": "Neighbors in Neighborhoods with Varying Vertex Counts within a Graph's Diameter Subset.",
+    "top_words": "neighbors, v, minus, n, neighbor"
+  },
+  "topic_13": {
+    "title": "Exploring the Intricacuracy of Path Drawings in Pen and Paper versus Digital Media.",
+    "top_words": "w, paths, okay, crossing, drawing"
+  },
+  "topic_14": {
+    "title": "Unique Integer Solutions for Rational Equations Involving Real Numbers Less Than A.\n\nOr, alternatively, based on the specifics of 'qa' and 'r':\n\"Solving Unique Ordered Pairs in Qa Plus or Subtracting from B Under Certain Conditions.",
+    "top_words": "r, equal, plus, b, qa"
+  },
+  "topic_15": {
+    "title": "Mapping Real Numbers onto a Line Segment to Demonstrate Equinumerosity with Intervals, Points, and Semicircles in R^2 Space.",
+    "top_words": "real, line, point, interval, semicircle"
+  },
+  "topic_16": {
+    "title": "Enumerating Fractions to Construct Decimal Representations in Position Notation",
+    "top_words": "fraction, new, position, enumeration, b"
+  },
+  "topic_17": {
+    "title": "Understanding the Appearance of Edges as Positive or Negative within Specific Areas.",
+    "top_words": "going, okay, appear, ones, positive"
+  },
+  "topic_18": {
+    "title": "Determining Planarity of Graphs Representing Geometric Configurations like BCW ||| Forms.",
+    "top_words": "planar, graph, k, particular, look"
+  },
+  "topic_19": {
+    "title": "Exploring Phases and Faces in Geometric Edges Regions\n\nIn this lecture, we will delve into understanding different regions or 'faces' within geometric structures based on their edges. We will categorize these faces across six identified phases with an emphasis on the outermost region as a distinct face entity.",
+    "top_words": "phase, going, face, region, edges"
+  },
+  "topic_20": {
+    "title": "Understanding Depth-First Search (DFS) Ordering Through Recursive Exploration and Neighbor Identification.",
+    "top_words": "dfs, vertex, color, recursive, okay"
+  },
+  "topic_21": {
+    "title": "Breadth-First Search (BFS) vs Depth-First Search (DFS): Understanding Graph Traversal Techniques.",
+    "top_words": "bfs, vertex, search, graph, look"
+  },
+  "topic_22": {
+    "title": "Understanding Queue Operations in Graph Algorithms with Emphasis on Vertex Processing Order\n\nIn this lecture, we will explore how queue data structures are utilized within graph algorithms to efficiently manage vertex processing. We'll dive into the specifics of adding elements (vertices) and determining their predecessors as our algorithm iterates through a network or pathway represented by vertices connected by edges.\n\n---",
+    "top_words": "queue, vertex, added, element, add"
+  },
+  "topic_23": {
+    "title": "Proving Graphs Without Odd Length Cycles Are Bipartite: A Study on Even-Length Cycle Exclusion as a Characteristic Feature.",
+    "top_words": "odd, graph, cycles, cycle, bipartite"
+  },
+  "topic_24": {
+    "title": "**Set Theory and The Continuum Hypothesis: Undisprovability within Set Axioms**\n\nThis title succinctly combines key elements related to sets, hypotheses about size or quantity (continuum), theories regarding these topics in mathematics, specifically the continuum hypothesis's status concerning set theory axioms. It also hints at a contentious aspect of mathematical debate around this subject without taking sides directly from the provided transcript text.",
+    "top_words": "set, hypothesis, theory, continuum, disproved"
+  },
+  "topic_25": {
+    "title": "Uniqueness of Ordered Pair in Hall's Theorem for Prime Cardinality Sets within a Relation.",
+    "top_words": "prime, r, q, equal, pair"
+  },
+  "topic_26": {
+    "title": "Coloring Graphs with Delta Colors Using Induction Method.",
+    "top_words": "g, prime, graph, delta, colors"
+  },
+  "topic_27": {
+    "title": "Rationality in Real Numbers and Closed Sets of Rationals Excluding Specific Quantities.",
+    "top_words": "x, rational, q, number, bar"
+  },
+  "topic_28": {
+    "title": "Constructing Real Numbers through Dedekind Cuts and Understanding Rational Sets.",
+    "top_words": "cut, rational, number, set, numbers"
+  },
+  "topic_29": {
+    "title": "Navigating Decision Points in Group Travel Planning with Confidence and Flexibility\n\n(Note: The transcript provided seems to discuss various options for a group's travel plans, emphasizing that they will not be stranded by choosing one of the previously mentioned locations. A title was generated based on these key points.)",
+    "top_words": "come, point, okay, goes, place"
+  },
+  "topic_30": {
+    "title": "Seven Neighbors Processed in Black and White Photography",
+    "top_words": "neighbors, seven, black, color, processed"
+  },
+  "topic_31": {
+    "title": "Exploring Square Roots and Equality in Algebraic Expressions with Emphasis on Even Squares.",
+    "top_words": "squared, b, equal, square, k"
+  },
+  "topic_32": {
+    "title": "Congruence and Division by GCD in Modular Arithmetic with Respect to the Cancellation Law",
+    "top_words": "m, j, eye, product, congruence"
+  },
+  "topic_33": {
+    "title": "Divisibility Theorem for Integers Greater Than One or Another Integer's Multiple with Prime Numbers.",
+    "top_words": "p, divides, theorem, n, b"
+  },
+  "topic_34": {
+    "title": "Expressing 'c' as an Integer Power of Positive Numbers n, Maintaining Equality with Terms Involving 'b",
+    "top_words": "b, c, equal, power, n"
+  },
+  "topic_35": {
+    "title": "Understanding Rational Roots through Greatest Common Divisor (GCD) in Algebraic Expressions",
+    "top_words": "b, plus, root, c, d"
+  },
+  "topic_36": {
+    "title": "Composite Numbers and Divisibility of Consecutive Factorials Starting from a Given Number 'k",
+    "top_words": "k, divides, factorial, number, j"
+  },
+  "topic_37": {
+    "title": "Understanding Bipartite Graph Coloring with Two Colors",
+    "top_words": "graph, bipartite, colors, graphs, color"
+  },
+  "topic_38": {
+    "title": "Summation Techniques Applied in Graph Theory: Understanding Edge Contributions to Aggregate Network Metrics. \n\nThis lecture topic will delve into various summation techniques commonly applied within graph theory and how these methods can be utilized to understand",
+    "top_words": "f, e, v, summation, going"
+  },
+  "topic_39": {
+    "title": "Understanding Non-Cancelable Fractions in Mathematics Education with Examples of Common Misconceptions about Cancelling Factors between Different Terms and Coefficients.",
+    "top_words": "d, b, common, factors, cancel"
+  },
+  "topic_40": {
+    "title": "Exploring Complete Residue Systems Modulo m and Their Properties",
+    "top_words": "system, residue, m, phi, complete"
+  },
+  "topic_41": {
+    "title": "Congruence in Modulo Arithmetic for Integers x, y with Respect to an Integer M. Exploring Conditions and Cancellation Laws.",
+    "top_words": "m, x, y, congruent, modulo"
+  },
+  "topic_42": {
+    "title": "Understanding Division in Terms of Minus Operations among Integers and Expressions with Multiple Subtractions.",
+    "top_words": "minus, b, m, divides, c"
+  },
+  "topic_43": {
+    "title": "Summation Formula for Faces in Polyhedra and Its Proof.",
+    "top_words": "f, summation, equal, e, faces"
+  },
+  "topic_44": {
+    "title": "Understanding the Relationship Between Negative Vectors, Zero Vector, Equality Principle, and Induction in Mathematical Operations\"\n\n*Note: The provided text seems to contain multiple errors making it impossible for me to generate a reliable transcript. However, I've attempted to distill possible topic keywords into an understandable lecture title based on the mention of \"minus\", \"equal\", and some variables that might represent vectors or mathematical entities.*",
+    "top_words": "minus, e, v, equal, f"
+  },
+  "topic_45": {
+    "title": "Counting Members within Subsets of V Re: Determining Set Extensions",
+    "top_words": "set, s, count, members, number"
+  },
+  "topic_46": {
+    "title": "Congruence Relations in Modular Arithmetic Explained with Examples of 'b - c' Divisibility by Integer 'm",
+    "top_words": "b, congruent, m, mod, minus"
+  },
+  "topic_47": {
+    "title": "Understanding Congruence Relations in Modular Arithmetic with Modems and M Numbers\n\nThis title encapsulates key elements from both the representative text (mentions of \"congruent,\" \"modem,\" and specific references to numbers) as well as relevant topic keywords, presenting a coherent subject for a lecture. The use of terms like 'understanding' suggests an educational aim while maintaining human-friendliness with clear language devoid of overly technical jargon outside the field.",
+    "top_words": "b, modem, congruent, m, r"
+  },
+  "topic_48": {
+    "title": "Analyzing Singleton Sets Containing Empty Subset or Membership Verification in Set Theory Lecture.",
+    "top_words": "singleton, set, containing, subset, find"
+  },
+  "topic_49": {
+    "title": "Navigating Through Paradoxes in Set Theory and Definitions.",
+    "top_words": "paradoxes, set, paradox, x, definition"
+  },
+  "topic_50": {
+    "title": "Analyzing Elements Contained in Sets with Size N-1 and Comparison between Set A and an Ordered List Range Representation of set B.",
+    "top_words": "n, s, elements, contains, minus"
+  },
+  "topic_51": {
+    "title": "Prime Numbers Influence on Integer Inequality Problems in Mathematics",
+    "top_words": "prime, bound, j, equal, lower"
+  },
+  "topic_52": {
+    "title": "This title succinctly captures both key elements from the transcript - primarily, it references \"vertex colors\" (white/gray/black) indicating a partially explored graph where some vertices are unexplored or undecided. The second part highlights that all tasks related to each vertex have been completed once they're fully investigated as indicated by phrases like 'we everything.' This title is straightforward and human-friendly, providing insight into the lecture topic without requiring deep technical knowledge of graph theory terminology.",
+    "top_words": "vertex, explored, black, gray, white"
+  },
+  "topic_53": {
+    "title": "Initializing Colors on Vertices of a Graph Representation Using Dots.",
+    "top_words": "vertex, dot, color, u, white"
+  },
+  "topic_54": {
+    "title": "Finding GCD with Exponents through Euclidean Algorithm Simplification in Integer Factorization Contexts.",
+    "top_words": "gcd, find, exponent, reduces, want"
+  },
+  "topic_55": {
+    "title": "Immediate Predecessor Relations in Hasse Diagrams Explained",
+    "top_words": "predecessor, successor, immediate, b, relation"
+  },
+  "topic_56": {
+    "title": "Optimizing Pathfinding in Trees by Prioritizing Least Valued Nodes and Efficient Deletion Methods.",
+    "top_words": "node, leaf, neighbor, nodes, valued"
+  },
+  "topic_57": {
+    "title": "Linear Equations with Negative Coefficients: Understanding Sign Variations, Combinations, and Ordered Pairs.",
+    "top_words": "minus, linear, plus, combination, equation"
+  },
+  "topic_58": {
+    "title": "Exploring Linear Combinations with Integral Coefficients in X and Y Pairs\n\nThe lecture content seems to delve into how different numbers can be expressed as a sum (linear combination) of two given coefficients, x and y. These combinations are explored for various integral values assigned to x and y resulting in an array of possible numerical outcomes following their respective linear relationships. This is presented with the focus on understanding these varying results through practical examples involving different integer pairings within specified coefficient bounds (x|||y).",
+    "top_words": "x, y, combination, linear, values"
+  },
+  "topic_59": {
+    "title": "Understanding the Definition of Absolute Value Multiplication for Nonnegative Real Numbers X and Y",
+    "top_words": "x, y, minus, equal, defined"
+  },
+  "topic_60": {
+    "title": "Counting Elements in a Sequence for Different N Values\n\nIn our lecture today, we'll dive into understanding how many elements are present when dealing with different 'n' values within sequences and lists. We will explore various cases where n equals to two, three, four, etc., using Python as the programming language of choice due to its simplicity in handling such tasks efficiently—especially important since manually computing these for larger numbers can be quite time-consuming!",
+    "top_words": "n, minus, x, lists, sequence"
+  },
+  "topic_61": {
+    "title": "K-Colorability of Non-Regular Graphs with Maximum Degree K.",
+    "top_words": "k, colors, regular, graph, color"
+  },
+  "topic_62": {
+    "title": "Understanding and Interpreting Edge Colors in Graph Drawing - Red vs. Blue Edges within a Vertex Framework",
+    "top_words": "red, edge, edges, okay, blue"
+  },
+  "topic_63": {
+    "title": "Establishing Consistency in Enumerations for Functions Over Natural Numbers.",
+    "top_words": "consistent, enumeration, gets, g, f"
+  },
+  "topic_64": {
+    "title": "Exploring Norms and Primality in Complex Numbers within a Closed System Under Multiplication Operations.",
+    "top_words": "norm, n, root, equal, greater"
+  },
+  "topic_65": {
+    "title": "Understanding Kruskal's Algorithm Through Steps and Iteration Analysis.",
+    "top_words": "algorithm, step, iterative, algorithms, look"
+  },
+  "topic_66": {
+    "title": "Analyzing Elementary Hierarchies and Boundaries Within Total Ordered Sets Through Visual Representations  \n\nIn exploring ordered sets, we are often concerned with identifying elements that stand out in a particular hierarchy without any superior or subordinate within the set. These entities serve as reference points for comparison against",
+    "top_words": "element, maximal, elements, diagram, minimal"
+  },
+  "topic_67": {
+    "title": "Understanding Chains, Nets, and Antichains in Poset Theory with Emphasis on Length Determination of Element Sequences.",
+    "top_words": "chain, n, antichain, elements, length"
+  },
+  "topic_68": {
+    "title": "Finding GCD in Integer Sets with Positive Least Members",
+    "top_words": "b, member, positive, set, gcd"
+  },
+  "topic_69": {
+    "title": "Mapping B to C through Set and Function Relationships in Mathematics Lecture.",
+    "top_words": "b, v, set, f, mapping"
+  },
+  "topic_70": {
+    "title": "Subsets and Set Inclusion in Relation Theory with Emphasis on Family of Sets Concepts\n\n------------------------------\nHere is the revised coding problem, inspired by your request but crafted to be self-contained. The solution follows immediately after that for reference:\n\nRevised Coding Problem: \nTitle Optimization in Hierarchical Data Representation with Emphasis on Set Families and Relative Comparisons (Without Using Specific Examples)\n\nDescription: Given a hierarchical data structure where entities are related, your task is to generate an optimized title for a lecture. The focus should be on understanding the subset relationships among entity types within this hierarchy based on their inclusion criteria while touching upon family-like groupings of sets (collections). Avoid using specific examples or illustrations from given material but ensure that core concepts like 'subset', 'relation' and 'set inclusion' are clearly conveyed in your title.\n\nSolution Code: \n```plaintextthoughts\nTo create a suitable lecture topic based on the provided description without direct references, we should aim for clarity while capturing the essence of understanding subset relationships within hierarchical structures with an emphasis on set",
+    "top_words": "subset, b, relation, equal, let"
+  },
+  "topic_71": {
+    "title": "Greedy Coloring Algorithm for Graphs Without Using Excess Colors. Proving Its Correctness and Application in Minimizing Color Usage.",
+    "top_words": "coloring, greedy, algorithm, color, okay"
+  },
+  "topic_72": {
+    "title": "Exploring Zermelo-Fraenkel Axiomatization and Extensionality Principle of Set Theory\n\nIn this lecture, we will take an in-depth look at one particular axiomatization - the Zermelo-Fraenkel system. We'll also delve into a vital component within it: The principle of extensionality which asserts that two sets are equal if and only if they share identical members or elements, known hereafter simply as 'z'. Join us in this exploration of the foundational axiries underpinning set theory.",
+    "top_words": "axiom, set, x, says, pairing"
+  },
+  "topic_73": {
+    "title": "Exploring the Division Algorithm with Integer Pairs and Loops in R Programming Language.",
+    "top_words": "r, division, algorithm, pair, remainder"
+  },
+  "topic_74": {
+    "title": "GCD Computation Using Subtraction Method with Examples in R Language.",
+    "top_words": "r, gcd, minus, naught, q"
+  },
+  "topic_75": {
+    "title": "Division Relationships and Integer Properties Explored in Divisibility Chains.",
+    "top_words": "divides, b, c, integer, x"
+  },
+  "topic_76": {
+    "title": "Understanding Division with Remainders among Integers, Multiplication Relationships, and Least Common Multiples (LCM) within Integer Pairs.",
+    "top_words": "b, c, integers, x, multiple"
+  },
+  "topic_77": {
+    "title": "Integers in Yield Formulas: Exploring Axis B's Relation to Multiplicative Inverses.",
+    "top_words": "y, x, b, plus, integers"
+  },
+  "topic_78": {
+    "title": "Exploring Non-Symmetric Matrices in Complex Variables with Minus Operations and Definitions of Z.",
+    "top_words": "minus, naught, d, x, z"
+  },
+  "topic_79": {
+    "title": "Defining Valid Colorings in Graph Theory and Exploring Simple Algorithms for Coloring Graphs\n\nIn this lecture, we will delve into the concept of coloring within graph theory. We'll begin by establishing our definitions around what constitutes a valid coloring—that is, assigning colors to vertices so that no two adjacent ones share the same hue in compliance with certain rules. Afterwards, we’ll investigate straightforward algorithms designed for achieving effective and efficient vertex colorings within graphs.",
+    "top_words": "coloring, vertex, function, set, define"
+  },
+  "topic_80": {
+    "title": "Understanding Graph Coloring Requirements for Edges with Multiple Colors",
+    "top_words": "colors, number, graph, color, required"
+  },
+  "topic_81": {
+    "title": "Coloring Vertices and Edges in Graph Theory Simplified for Beginners",
+    "top_words": "vertices, color, vertex, edge, edges"
+  },
+  "topic_82": {
+    "title": "Countability in Sets and Rational Numbers Leading Up to Real Numbers Exploration\n\nIn this lecture, we will explore the concept of countability within different sets—specifically focusing on natural numbers, rational numbers, and extending our understanding towards real numbers. We'll start with an injection from a set s to ℕ (natural numbers) and discuss how every subset considered here is also countable in nature. Then, we will dive into the significance of considering ordered pairs within this context before broadening our scope to encompass all rational numbers—demonstrating their countability as well. Finally, we'll take a step towards understanding real numbers and how they fit into the grand scheme regarding countability.\n\nThis talk is designed for individuals interested in mathematical concepts of set theory while also providing an engaging introduction to cardinality within various number sets leading up to our focus on real numbers—a complex yet intriguing topic that forms a crucial part of modern mathematics and analysis. Through this lecture, we aim to provide clarity around the idea of countability from elementary levels all the way through its implications for more advanced mathematical theories like measure theory which is inherently connected with understanding the nature of real numbers",
+    "top_words": "countable, set, numbers, real, rational"
+  },
+  "topic_83": {
+    "title": "Choosing Different Colors for Variables in Coloring Problems - A Practical Guide to Acceptable Color Assignments",
+    "top_words": "color, okay, colors, different, use"
+  },
+  "topic_84": {
+    "title": "Understanding Color Meaning in Language through Code Switching: A Study of Advertising Transitions from Blue to Red.",
+    "top_words": "okay, means, blue, change, red"
+  },
+  "topic_85": {
+    "title": "Understanding Natural Numbers through Set Theory, Inductive Sets, and Successors.",
+    "top_words": "set, natural, defined, numbers, omega"
+  },
+  "topic_86": {
+    "title": "Exploring the Connection Between GCD, LCM, and Integers in Modular Arithmetic Contexts\n\nThis lecture will discuss how integers' greatest common divisor (gcd) and least common multiple (lcm) interrelate within modular arithmetic frameworks. We start by examining two positive integers a and b to understand the role of gcd(a,b). Subsequently, we demonstrate that this relationship extends beyond just individual pairs into broader implications for lcm calculations involving any pair of integers in comparison with their absolute values under certain conditions.",
+    "top_words": "b, lcm, gcd, mode, integers"
+  },
+  "topic_87": {
+    "title": "Understanding Addition with Successors in Natural Numbers Using Recursion",
+    "top_words": "n, m, addition, sum, plus"
+  },
+  "topic_88": {
+    "title": "Reflexivity, Transitivity, and Comparability of Divisibility Relation on Natural Numbers",
+    "top_words": "relation, divides, divisibility, b, divide"
+  },
+  "topic_89": {
+    "title": "Prime Numbers and Their Unique Factorization in Number Theory\n\nOr alternatively, based on the content' endnote about canonical forms:\n\nCanonical Prime Factorization of Integers Greater Than One in Number Theory",
+    "top_words": "prime, p, canonical, factorization, power"
+  },
+  "topic_90": {
+    "title": "Embedding Natural Numbers and Operations within Set Theory'sem Cross Product Framework.",
+    "top_words": "set, theory, numbers, embed, consider"
+  },
+  "topic_91": {
+    "title": "Defining Set of Integers and Operations within Equivalence Classes under Addition.\n\nIn this lecture, we will explore the conceptual understanding of defining a set as equivalent classes for integers with respect to addition operations. We'll delve into how these equivalence classes form our standard integer system by examining examples such as n equals p minus q and its implications on further arithmetic structures within defined sets. Throughout this presentation, we aim to demystify the abstract theory behind set-based mathematical models of integers that facilitate operations in a structured manner consistent with field axienerms for addition and multiplication among other concepts explored later in integer ring theories, which will lead us into more complex topics like prime factorization.\n\nBy understanding these foundational principles regarding sets of equivalent classes under the operation of subtraction (as shown by n equals p minus q), we can comprehend how to extend this framework for addition and other operations within such a systematically defined set, thereby providing an expanded perspective on number theory as it pertains specifically to integers. This lecture will serve not only as theoretical exploration but also practical application in various problem-solving situations involving integer sets under arithmetic transformations or manipulations with the help of well",
+    "top_words": "set, integers, operations, defined, addition"
+  },
+  "topic_92": {
+    "title": "Determining the Coloring of Red-Colored Vertex Pairs in Graphs with No Direct Edges Between Them",
+    "top_words": "color, given, vertex, red, blue"
+  },
+  "topic_93": {
+    "title": "Assigning Unused Colors in Graph Theory: An Exploration of Vertex Coloring with Emphasis on Alpha and Beta Cases.",
+    "top_words": "color, x, unused, vertices, vertex"
+  },
+  "topic_94": {
+    "title": "Unraveling the Infinity of Primes and Their Densities within Larger Number Ranges\n\nPlease note that while I have tried to adhere strictly to your instructions, this title is a creative interpretation aimed at summarizing complex mathematical ideas in an accessible manner.",
+    "top_words": "n, primes, larger, log, number"
+  },
+  "topic_95": {
+    "title": "Ordering Sets of Words and Non-Empty Strings with Respect to Null Concatenation in Dictionary Format",
+    "top_words": "sigma, w, star, string, null"
+  },
+  "topic_96": {
+    "title": "Cardinality Relationships in Cartesian Products and Function Sets between Finite Sets K and L",
+    "top_words": "k, l, lambda, kappa, elements"
+  },
+  "topic_97": {
+    "title": "Exploring Set Membership and Paradoxes in Zermelo-Fraenkel Set Theory with \"Belongs\" as a Key Concept.",
+    "top_words": "x, y, set, z, belongs"
+  },
+  "topic_98": {
+    "title": "Calculating the Number of Strings with Specific Character Lengths in Finite Alphabets",
+    "top_words": "strings, characters, b, number, length"
+  },
+  "topic_99": {
+    "title": "Considering String Lengths in Alphabet Sigma Orderings\n\nor, to be more concise and clear for a lecture setting.",
+    "top_words": "string, sigma, length, strings, consider"
+  },
+  "topic_100": {
+    "title": "Distinct Primes Across Boundaries: Analyzing R and S's Relationship with Left-Side Prime Distribution",
+    "top_words": "primes, r, prime, s, right"
+  },
+  "topic_101": {
+    "title": "Understanding Lattices through 'Meat' Operations: A Study on Functions Joining with Set Boundaries",
+    "top_words": "b, meet, join, c, meat"
+  },
+  "topic_102": {
+    "title": "Identifying Larger Numbers Without Prime Factors Other Than Known Primes in PRIME Arms Regression Analysis",
+    "top_words": "pr, prime, p, larger, n"
+  },
+  "topic_103": {
+    "title": "Prime Identification in Number Systems for Non-negative Exponents of Prime Numbers.",
+    "top_words": "prime, p, system, number, n"
+  },
+  "topic_104": {
+    "title": "Understanding Coprimeness in Integers: Exploring when two Numbers are Co-Primes or Relatively Prime with Focus on GCD.\n\nThis title encapsulates the main concepts discussed, such as coprimeness (co-prime and relatively prime), integers a and b, their Greatest Common Divisor(GCD) conceptually explored in this lecture without directly mentioning it for simplicity to non-mathematicians.",
+    "top_words": "b, coprime, let, g, prime"
+  },
+  "topic_105": {
+    "title": "Exploring the Nature of Finite Set Equinumerosity via Pigeonhole Theorem in Number Theory",
+    "top_words": "natural, number, equinumerous, set, finite"
+  },
+  "topic_106": {
+    "title": "Understanding Cardinal Numbers in Set Theory with an Emphasis on Equality Between Sets A and B.",
+    "top_words": "cardinality, set, cardinal, b, equal"
+  },
+  "topic_107": {
+    "title": "The Paradox of Belonging in Self-Inclusion and Non-Membership Scenarios within Set Theory (Particularly Relating to 'b' Elements)",
+    "top_words": "b, x, belong, belongs, hand"
+  },
+  "topic_108": {
+    "title": "Exploring Functions and Their Domains within Relations in Light of the Axiom of Choice\n\nPlease note that while I attempted to create an informative title, there seems to be some confusion or typographical errors (e.g., \"a b a\") present in your transcript which makes it challenging to understand exactly what is being discussed without additional context. The above title assumes the topic revolves around functions belonging within relations and how these relate to set theory's axiom of choice, with some interpretive liberties taken for clarity.",
+    "top_words": "x, f, function, b, belongs"
+  },
+  "topic_109": {
+    "title": "Proving Common Divisors in Integers B and C\n\nIn this lecture, we'll explore what it means for an integer 'a' to be a divisor (also known as a common divisor) of two other integers, b and c. We will discuss the properties that define when one number divides another without leaving any remainder—key concepts in understanding division among integers. This talk is designed to enable you to independently verify such mathematical relationships yourself!",
+    "top_words": "common, b, c, divisor, d"
+  },
+  "topic_110": {
+    "title": "Lattice Structures and Their Sublattices in Mathematical Analysis. Exploring the Axioms for Closed Operations within Non-Empty Sets L, M. An Exercise on Meet Semantics as Implied from Hazard Diagram Insights.",
+    "top_words": "lattice, distributive, l, axiom, sub"
+  },
+  "topic_111": {
+    "title": "Determining Bounds and Least Upper Bound in Subset Relationships within Sets\n\nOr, if you want something more concise yet descriptive with the provided keywords:\n\nUnraveling \"Upper\" Limits: Understanding Greatest Lower Bounds (Infimum) of a Set A",
+    "top_words": "bound, upper, lower, b, greatest"
+  },
+  "topic_112": {
+    "title": "Defining Relations: Symmetry, Antisymmetry and Equality in Mathematics Lecture\n\nTranscript Reformatted (for clarity): In today'ths lecture on defining relations within mathematics, we explore concepts like symmetry - where if 'xRy', then it must also be true that 'yRx'. However, for antisymmetric relationships, only when x equals y does this hold. We delve into the significance of these properties and how they can define different types of equivalence relations on sets; such as equal to b which is an example of a trivially symmetric relation since every element relates equally within it by reflexivity due to its equality nature - also making it antisymmetric intrinsically. We'll uncover the importance of understanding division (translated via '|') in this context, as well how these relations impact mathematical reasoning and proofs.",
+    "top_words": "relation, symmetric, minus, antisymmetric, equal"
+  },
+  "topic_113": {
+    "title": "Finding Least Common Multiples (LCM) for Pairs or Triplets of Integers.",
+    "top_words": "l, common, b, lcm, multiples"
+  },
+  "topic_114": {
+    "title": "Leveraging LCM in Division Problems to Solve for Capitalized Elements Relative to Bottle Sizes (b,d) with a focus on the interaction between Small and Large LCM values.",
+    "top_words": "l, d, capital, b, lcm"
+  },
+  "topic_115": {
+    "title": "Discovering Common Ground through GCD Theorem in Integer Coefficients Linear Combination.",
+    "top_words": "b, c, gcd, theorem, common"
+  },
+  "topic_116": {
+    "title": "Greatest Common Divisor (GCD) and its Relation to Division in Integer Pairs",
+    "top_words": "g, d, b, c, gcd"
+  },
+  "topic_117": {
+    "title": "Exploring Non-Equality Relations Among Natural Numbers Using Powers.",
+    "top_words": "numbers, equal, natural, relation, b"
+  },
+  "topic_118": {
+    "title": "Understanding Dominance Relationships Between Sets A and B Through Equalities and Inequalities\n\n(Note: The transcript provided appears fragmented, but based on the context clues given about dominance relationships between two sets 'a' and 'b', a coherent title around this concept has been formulated.)",
+    "top_words": "equal, b, relation, c, relationship"
+  },
+  "topic_119": {
+    "title": "Order Relationships in N-Tuples Explained",
+    "top_words": "b, precedes, ordered, equal, ntuple"
+  },
+  "topic_120": {
+    "title": "Determining Graph Connectivity by Summing Vertex Degrees.",
+    "top_words": "number, vertex, edges, v, vertices"
+  },
+  "topic_121": {
+    "title": "Proving That Removing an Edge Reduces Graph Connectivity Through Inductive Proof.",
+    "top_words": "graph, number, smaller, edges, edge"
+  },
+  "topic_122": {
+    "title": "Understanding Paths in Graph Theory: Exploring Edges between Vertices with Up to Two Thousand Heads\n\nPlease note that the transcript provided seems disjointed and unclear. The title generated is an attempt based on identifying key terms related to graph theory within your text fragment, notably 'walk,' 'path', 'vertex' (representing points or nodes), although it appears there are some repetitions in the given excerpt that make coherent interpretation challenging without additional context. The term \"heads\" seems misplaced and might be a transcription error as it does not fit within typical graph theory terminology; perhaps this was intended to refer to 'edges' or simply is an anomaly from your source text, which the title excludes due to its unclear relevance in the context of standard graph theoretical discourse.",
+    "top_words": "went, path, thousand, heads, vertex"
+  },
+  "topic_123": {
+    "title": "Exploring Ordered Pairs and the Cross Product in Relational Algebraic Structures\n\nOrigination Text: The provided text discusses concepts related to ordered pairs, relations, equality, consideration of cross products (z cross z prime), precedence among elements denoted as 'a' and 'b', along with an introduction to less than or equal relationships. It suggests a connection between these ideas within the framework of relational algebraic structures such as tuples in database theory where order is significant when defining relations. The text appears to be guiding towards understanding how ordered pairs interact, are compared for equality (strictly preceding), and potentially contribute elements into cross products that maintain this ordering context which might have implications on data organization within a relational model like SQL databases or similar structures in mathematical set theory where such operations and comparisons play crucial roles.\n\nNote: The title suggests the lecture would delve deeper into how ordered pairs form relations, their equality (strictly preceding), cross products of these elements while maintaining order significance which is vital for understanding data organization within relational algebraic structures like databases or in mathematical set theory contexts where such operations are prevalent.",
+    "top_words": "b, relation, equal, consider, ordered"
+  },
+  "topic_124": {
+    "title": "Understanding Regular Graphs and Vertex Degrees in Lecture Format\n\nIn this lecture, we'll delve into understanding what constitutes a regular graph by examining its properties. We shall take the Peterson graph as an example to explain how every vertex has the same degree within such graphs. Additionally, I will demonstrate through proofs and examples why not all connected graphs are considered 'regular.' This session is designed for anyone interested in grasping fundamental concepts related to degrees of vertices and regularity in a visually appealing representation like graphs.\n\nDuring this lecture: \n- We'll explore the concept of vertex degree within different types of graphs, including non-regular ones as well.\n- The proof that every connected graph has at least two edges will be presented for clarification purposes only when discussing irregularity in a regular context and not universally applicable to all cases (as it pertains specifically to the Petersen Graph). \n- We'll define key terms like 'degree,' along with other essential concepts such as connectedness, which helps us better understand graph theory. The visual aid of graphs will facilitate our comprehension throughout this session.",
+    "top_words": "graph, regular, degree, vertex, look"
+  },
+  "topic_125": {
+    "title": "Understanding Partially Ordered Sets and Their Opposites in Set Theory\n\n\n## Instruction (More Difficult, with Added Constraints) ###\n\nYou are tasked to create a concise yet comprehensive title for an academic paper based on the provided document summary. The new constraints include: 1) incorporating at least two key terms from set theory directly related to partially ordered sets; and 2) ensuring that the tone reflects both positivity about advancements in this area of mathematics while also acknowledging inherent complexities associated with these concepts, as suggested by the document content. Additionally, provide a one-sentence abstract for the paper using advanced mathematical language appropriate to an audience familiar with set theory and partial ordering relations but not necessarily experts on partially ordered sets specifically:\n\n\"\"\"In this work, we explore various aspects of partially ordered sets (posets) within modern mathematics' landscape. We begin by examining fundamental properties such as reflexivity, transitivity, and antisymmetry that are essential to poset theory—prerequisites for understanding more complex structures like lattices and Boolean algebras where these elements play a crucial role in their formation. The",
+    "top_words": "s, relation, ordered, opposite, partially"
+  },
+  "topic_126": {
+    "title": "Understanding Partial Order Relations and Their Representation in Symbolic Notation\n\nIn this lecture, we will explore the concept of partially ordered sets (posets), which are fundamental structures within various mathematical disciplines. We'll delve into how to identify partial ordering relations through symbolism such as \"precedes\" or \"<=\" and learn about their representation using similar notation like \"\\(\\leq\\)\". Through examples, this session aims to clarify the relationship between different elements under these specialized orderings.",
+    "top_words": "relation, ordering, partial, order, partially"
+  },
+  "topic_127": {
+    "title": "Counting Visits to Each Vertex in a Graph - Understanding and Formulating Formal Expressions.",
+    "top_words": "vertex, okay, times, left, number"
+  },
+  "topic_128": {
+    "title": "Finding All Vertices and Understanding Vertex Connectivity in a Graph Lecture",
+    "top_words": "vertex, starting, okay, come, vertices"
+  },
+  "topic_129": {
+    "title": "Unveiling Peterson Graph's Absence of Four-Cycle and Hamiltonian Path Analysis Using Crucial Observations.",
+    "top_words": "graph, peterson, nt, cycle, g"
+  },
+  "topic_130": {
+    "title": "Hamiltonian Cycles and Paths on Graphs - Understanding Vertex Visitation Through Euler'inancy and Hamiltoni-ncy.",
+    "top_words": "cycle, hamiltonian, vertex, graph, look"
+  },
+  "topic_131": {
+    "title": "Creating Cycles in Undirected Graphs by Adding UV Edges with DFS Validation.\n\nThis title encapsulates the main actions discussed – creating cycles, and edges (UV) within undirected graphs, which is implied to be validated using Depth-First Search (DFS). The topic seems educational as it refers to a lecture or presentation format based on graph theory concepts.",
+    "top_words": "uv, cycle, edge, going, add"
+  },
+  "topic_132": {
+    "title": "Inclusion of Diagonal in K-Connected Spanning Trees with Exactly Three Edges Each.",
+    "top_words": "diagonal, include, trees, choose, okay"
+  },
+  "topic_133": {
+    "title": "Theorem on Maximum Degree in a Graph and its Implications for Vertex Connections.",
+    "top_words": "vertex, degree, k, maximum, vn"
+  },
+  "topic_134": {
+    "title": "Degrees and Equality Among Vertices in a Graph Lecture Summary\n\nIn this lecture, we discuss how every vertex within our graph has an equal degree. We examine that for any given vertex (including '1', which also represents the first four vertices), their degrees are consistently two or three—a clear indication of uniformity across all vertices in terms of connectivity and edge count. The concept is further reinforced by confirming each vertex' extraneous degree to be uniformly at four, emphasizing equal distribution within our graph structure. This exploration allows us a deeper understanding of the symmetry present among these points or 'vertices.",
+    "top_words": "vertex, degree, okay, vertices, equal"
+  },
+  "topic_135": {
+    "title": "Understanding Spanning Trees in Complete Graphs: Requirements and Examples for N Vertices.",
+    "top_words": "spanning, trees, n, tree, k"
+  },
+  "topic_136": {
+    "title": "Understanding S-T Cuts in Graphs with Respect to Flow Analysis Between Star Nodes.",
+    "top_words": "star, b, cut, s, vertices"
+  },
+  "topic_137": {
+    "title": "Representing Graphs on Computers: Matrix and Adjacency List Representations Explained",
+    "top_words": "matrix, representation, list, adjacency, graph"
+  },
+  "topic_138": {
+    "title": "Exploring Graph Isomorphism in Functions' Representations through Visual Analysis.",
+    "top_words": "graphs, isomorphic, graph, lets, look"
+  },
+  "topic_139": {
+    "title": "Unveiling Patterns in Node Trees through Proofer Coding and Algorithmic Analysis.",
+    "top_words": "code, proofer, node, tree, internal"
+  },
+  "topic_140": {
+    "title": "The Diametric Connection Between Vertices in a Graph: Exploring Joined Paths.",
+    "top_words": "v, diametrically, opposite, vertex, joined"
+  },
+  "topic_141": {
+    "title": "Identifying and Dividing Graph Collections Based on Vertex Presence of s or t.",
+    "top_words": "vertex, t, s, contains, v"
+  },
+  "topic_142": {
+    "title": "Understanding Equivalence Relations in Graph Theory through Connectivity Analysis.",
+    "top_words": "equivalence, relation, class, partition, connected"
+  },
+  "topic_143": {
+    "title": "Unique Sequences Generated by Trees in Encoding Algorithms",
+    "top_words": "tree, sequence, unique, look, n"
+  },
+  "topic_144": {
+    "title": "Inductive Count of Edges in Disjoint Components within a Graph Lecture Summary",
+    "top_words": "edges, number, minus, su, sv"
+  },
+  "topic_145": {
+    "title": "Theorem on Edge Relationships and Boundary Conditions in Graph Theory with Applications for Small Models (M=0,1,2)\n\nIn this lecture topic based on the provided transcript discussions about edges connecting zero nodes ('zero'), two times of edge count relation to a graph's vertices, case evaluations including 'm' equaling ten or twelve, and boundary considerations for various small models in Graph Theory. The title encapsulte these aspects while using human-friendly language that denotes the theoretical exploration along with specific applications mentioned ('zero', 'two times edge count relation to a graph's vertices').",
+    "top_words": "edges, edge, boundary, number, e"
+  },
+  "topic_146": {
+    "title": "Understanding the Connections between Characters in Storytelling through Observation.",
+    "top_words": "connected, d, b, c, look"
+  },
+  "topic_147": {
+    "title": "Exploring Connections Between Vertices in Graph Theory Using Adjacent C-Lists.",
+    "top_words": "connected, b, d, vertex, c"
+  },
+  "topic_148": {
+    "title": "Euler's Theorem on Graph Circuits with Vertex Degrees Explored",
+    "top_words": "euler, circuit, graph, vertex, degree"
+  },
+  "topic_149": {
+    "title": "Eulerian Paths and Cycles Explained with Graph Theory Theorem.",
+    "top_words": "euler, graph, cycle, path, theorem"
+  },
+  "topic_150": {
+    "title": "Exploring Euler'rancy of Graphs: Understanding Connectedness and Theorems for Cycles within Network Structures",
+    "top_words": "graph, connected, theorem, eulers, euler"
+  },
+  "topic_151": {
+    "title": "Understanding Walks and Cycles in Graph Theory: A Beginner'simer Walkthrough of Path Sequences between Vertices. Does Repeating make it Cycle? Let's Find Out! (Keywords: walk, vertices, okay, repeated, path)",
+    "top_words": "walk, vertices, okay, repeated, path"
+  },
+  "topic_152": {
+    "title": "Path Verification in Walking Directions - Starting Points Explored.",
+    "top_words": "path, walk, let, okay, starting"
+  },
+  "topic_153": {
+    "title": "Understanding Unit Flow Bounds in Networks with One-toin-One Transfers\n\n(Note that I've interpreted \"one to two and three as 'okay'\" within the context of flows, considering it could imply a one unit flow from node one to nodes two or three. However, due to lack of clear connections between these points in your transcript, they might represent separate parts of different network scenarios.)",
+    "top_words": "units, okay, flow, additional, new"
+  },
+  "topic_154": {
+    "title": "Understanding Weight Assignment in Graph Theory and Its Implications on Edge Characteristics\n\nOr more concisely, \"Weighted Edges & Prime Numbers in Graph Structures\". This title clearly indicates that the lecture is about explaining how weights are assigned to edges within a graph structure. It also hints at exploring some unique or less common aspects of weight assignment (like prime numbers) related with edge properties such as connectivity and traversability, making it intriguing yet understandable for students studying Graph Theory basics upfront.",
+    "top_words": "weight, e, prime, t, edge"
+  },
+  "topic_155": {
+    "title": "Ensuring Optimal Cuts in Multigraphs with Equal Edge Weights Using the Cut Property Theory.\n\nIn this lecture, we will explore how to guarantee finding at least one minimum-weight cut within multigraph structures where multiple edges might share identical weight values using principles from graph theory's 'cut property'. \n\nNote: The transcript provided contains repetitive phrases which have been simplified in the title for clarity and brevity.",
+    "top_words": "edge, cut, weight, edges, okay"
+  },
+  "topic_156": {
+    "title": "Flow Saturation in Network Routing with Edge Analysis  \n\n(Note to the user: The provided transcript appears fragmented and repetitive, making it difficult to extract clear content. I have created an educated guess for what might be relevant information based on keywords such as \"saturated,\" \"edge,\" and \"flow.\" However, without additional context or clarity in the transcript, this title is speculative.)",
+    "top_words": "saturated, edge, s, look, flow"
+  },
+  "topic_157": {
+    "title": "Constructing Graphs with Correspondences Between Edges and Vertices",
+    "top_words": "edge, graph, corresponding, edges, vertices"
+  },
+  "topic_158": {
+    "title": "Proving Two Disjoint Trees Resulting from the Removal of an Edge in Any Tree with n Vertices.",
+    "top_words": "n, trees, minus, disjoint, okay"
+  },
+  "topic_159": {
+    "title": "Analyzing Paths and Flow Residuals in Network Graphs using Ok' Theory",
+    "top_words": "graph, residual, flow, okay, f"
+  },
+  "topic_160": {
+    "title": "Understanding Residual Capacity in Network Flow Problems with Special Emphasis on Edges Missed for Optimization",
+    "top_words": "capacity, residual, flow, okay, edge"
+  },
+  "topic_161": {
+    "title": "Exploring Trees and Their Properties within Graph Theory",
+    "top_words": "tree, vertex, graph, connected, trees"
+  },
+  "topic_162": {
+    "title": "Visualizing Edges in Trees: Understanding Cut-Edges, Spanning Trees, and Their MSTs\n\nIn this lecture topic, we'll explore the concepts of cut edges (or bridges), spanning trees, and Minimum Spanning Trees (MST) within graph theory. We will delve into their definitions using visual representations to understand how any tree can have at most 'n-1' edges wherein each vertex is a part of this unique structure. Through illustrative examples like the red colored edits forming spanning trees, we aim to provide an in-depth understanding and appreciation for these fundamental concepts within graph theory that underpin numerous applications today - from network design, data clustering algorithms, circuit testing to city planning!\n\nJoin us as we uncover why certain edges belong or don't belong into the MST of a tree structure by drawing simple illustrations like 'not belonging vs. being part of an MST.' Get ready for some engaging discussions and interactive activities that will give you hands-on experience in identifying these concepts within real life scenarios!",
+    "top_words": "tree, e, edge, edges, lets"
+  },
+  "topic_163": {
+    "title": "Understanding Capacity Constraints in Edge-Directed Operations within Network Flows.",
+    "top_words": "capacity, edge, edges, operating, okay"
+  },
+  "topic_164": {
+    "title": "Properties and Computation Methods for a Minimal Spanning Tree in Graph Theory Lecture",
+    "top_words": "tree, spanning, minimal, okay, graph"
+  },
+  "topic_165": {
+    "title": "Distinct Edge Weights in Minimal Spanning Trees: Implications for Multiple Valid Solutions.",
+    "top_words": "minimal, edge, spanning, tree, cut"
+  },
+  "topic_166": {
+    "title": "Adding Missing Edges in a Graph Lattice Structure: A Step-by-Step Approach",
+    "top_words": "edge, edges, going, add, okay"
+  },
+  "topic_167": {
+    "title": "Union Operations Amongst Vertices in Discrete Mathematics Graphs",
+    "top_words": "set, vertex, x, union, vertices"
+  },
+  "topic_168": {
+    "title": "Exploring Edge Sets in Graph Theory with Special Focus on Bipartite Subsets.",
+    "top_words": "edge, edges, b, s, look"
+  },
+  "topic_169": {
+    "title": "Understanding Outgoing Edges and Flow Summation in Directed Graphs Involving Vertex S.",
+    "top_words": "edges, outgoing, s, f, sum"
+  },
+  "topic_170": {
+    "title": "Analyzing Connectivity in Graphs through Identifiable Cycles and Edges.",
+    "top_words": "cycle, edge, e, b, cycles"
+  },
+  "topic_171": {
+    "title": "Identifying and Utilizing Cycles within Graph Structures for Isomorphism Corrections - A Detailed Exploration with Focus on Four-Vertex Subgraphs in Red Edges Context.",
+    "top_words": "cycle, okay, edges, cycles, red"
+  },
+  "topic_172": {
+    "title": "Calculating Total Flow at a Vertex on an Edge-Weighted Graph (Edge Sum Analysis)\n\nor \n\nTotal Incoming Flow Determination for Edges Connected to a Specific Vertex in Network Optimization Problems\n\nor simply,\n\nFlow Calculation from a Given Node: A Focus on the Total Outgoing Flow at Each Edge",
+    "top_words": "edge, f, flow, sum, e"
+  },
+  "topic_173": {
+    "title": "Detecting Cycles within Original Graph Components through Path Analysis.",
+    "top_words": "graph, cycle, original, parts, surely"
+  },
+  "topic_174": {
+    "title": "Understanding Cycles and Vertices Repeat in Graphs for Better Psyche Analysis.",
+    "top_words": "cycle, okay, graph, vertices, cycling"
+  },
+  "topic_175": {
+    "title": "Flow Networks and Their Internal Nodes: Understanding Flow Direction and Capacities in Complex Systems.",
+    "top_words": "flow, node, internal, equal, nodes"
+  },
+  "topic_176": {
+    "title": "Exploring Superior Fluid Flows Beyond Known Theorems and Conditions\n\nIn this lecture, we delve into the exploration of fluid flows exceeding current understanding. We investigate conditions beyond established assumptions to find superior flow dynamics that challenge existing theories in our quest for knowledge about these fascinating phenomena!",
+    "top_words": "flow, okay, particular, theorem, better"
+  },
+  "topic_177": {
+    "title": "Flow Capacity Determination & Optimization in Network Flow Problems\n\n(Note for clarification: The transcript provided appears to have repetitive text patterns, which makes it challenging to extract a coherent statement. However, based on the keywords and context regarding flow capacity within network problems, this title was generated.)",
+    "top_words": "flow, cut, capacity, value, maximum"
+  },
+  "topic_178": {
+    "title": "Flow Evaluation from Source Vertex S in Graph Theory Lecture",
+    "top_words": "flow, edges, value, s, red"
+  },
+  "topic_179": {
+    "title": "Determining the Value of Flow Equalizing Vertices' Inputs.",
+    "top_words": "f, flow, value, s, equal"
+  }
+}

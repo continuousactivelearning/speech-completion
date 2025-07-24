@@ -1,0 +1,26 @@
+{
+  "topic_0": {
+    "title": "Detecting Cycles in Directed Graphs Using Flow Analysis and Edges' Statuses. An In-Depth Study of Vertex Interactions, Path Coloring Theory Applications, Bipartite Matchings & More.",
+    "top_words": "graphs, vertex, vertices, graph, edges, nodes, diagram, edge, node, algorithm, spanning, trees, cycles, draw, tree, paths, bipartite, flow, coloring, cycle, lattice, matching, relation, corresponding, connected, direction, theory, path, equal, therefore, line, distinct, divides, enumeration, each, theorem, following, suppose, construct, process, minimal, elements, queue, ordering, statement, expressed, colors, union, multiple, through"
+  },
+  "topic_1": {
+    "title": "Divisibility Relationships in Integer Sets: Understanding Divides, GCD, Equality, Congruence, Prime Numbers, Lattice Structures, Induction Proofs, Modular Arithmetic & Algorithmic Implicattion.",
+    "top_words": "divides, relation, axiom, integers, divisibility, equal, gcd, divisor, elements, divide, integer, congruent, sets, numbers, subsets, cardinality, corresponding, implies, primes, element, lattice, enumeration, prove, statement, subset, contains, rational, proof, properties, theory, algorithm, ordering, modulo, therefore, expressed, construct, contradiction, distinct, diagram, arbitrary, system, induction, theorem, number, suppose, property, pair, matching, graphs, prime"
+  },
+  "topic_2": {
+    "title": "Size and Neighbors Relationship within Subsets of Bipartite Graphs, with a Focus on Cardinality Constraints and Element Enumeration.",
+    "top_words": "subsets, subset, neighbors, sets, neighbor, nodes, matching, union, graphs, bipartite, contains, larger, edges, distinct, relation, arbitrary, algorithm, divides, equal, cardinality, smaller, vertices, graph, lattice, statement, bound, elements, induction, maximal, theory, belonging, proof, axiom, primes, contain, enumeration, implies, belongs, corresponding, our, set, size, ordering, greater, capacity, minimal, finite, condition, construct, element"
+  },
+  "topic_3": {
+    "title": "Bipartite Graph Matching in Handshake Problems Involving Distinct Numbers of Interactions among People.",
+    "top_words": "hands, pair, combination, people, hand, relation, multiple, matching, four, joint, three, eight, seven, each, equal, six, number, meet, bipartite, numbers, graphs, five, two, suppose, divisibility, members, distinct, divides, diagram, condition, neighbors, cardinality, common, ordering, draw, graph, person, congruent, vertices, ten, problem, enumeration, many, theory, nodes, corresponding, neighbor, divisor, value, divide"
+  },
+  "topic_4": {
+    "title": "Characterizing Complete Matchings in Bipartite Graphs with Subsets and Lattice Theory.",
+    "top_words": "matching, graphs, bipartite, vertex, vertices, graph, edges, corresponding, distinct, nodes, algorithm, equal, contains, pair, maximal, complete, diagram, relation, sets, union, condition, edge, find, expressed, subsets, lattice, coloring, maximum, combination, look, unique, meet, draw, given, contain, trees, arbitrary, max, node, connected, spanning, theory, join, enumeration, subset, paths, joint, ordering, cardinality, minimal"
+  },
+  "topic_5": {
+    "title": "Exploring Set Theory and Graphs through Music-Themed Lattice Diagrams.",
+    "top_words": "music, lecture, graphs, lattice, theory, following, numbers, elements, amp, ordering, nodes, properties, graph, members, corresponding, relation, present, number, integers, node, next, strings, vertex, sets, list, gcd, find, notion, element, bipartite, colors, collection, construct, precedes, algorithm, contains, edges, diagram, vertices, units, going, given, order, enumeration, line, previous, member, cycles, be, connected"
+  }
+}

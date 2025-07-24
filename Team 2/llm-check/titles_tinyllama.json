@@ -1,0 +1,1874 @@
+{
+  "210.json": {
+    "cluster-1": {
+      "title": "Generate a short, human-friendly title for an educational lecture on graphical mathematics using the following transcript segment.",
+      "start": 54.0,
+      "end": 3620.0
+    },
+    "cluster0": {
+      "title": "The Party Problem - So This is the Short, Human-Friendly Title for the Following Transcript Segment of an Educational Lecture",
+      "start": 300.0,
+      "end": 1011.0
+    },
+    "cluster1": {
+      "title": "Short, Human-Friendly Title for Transcript: \"Welcome to the Lectures on Graph Theory: A Brief Overview of Various Kinds of Graphs\" (max. 10 words)",
+      "start": 9.0,
+      "end": 38.0
+    },
+    "cluster5": {
+      "title": "Human-friendly title: \"A Problem Solving Exercise: The River, Two Islands, Two Bridges, and a Bridge Crossing\"",
+      "start": 3180.0,
+      "end": 3275.0
+    },
+    "cluster6": {
+      "title": "Short and Human-Friendly Title for Transcript: \"Draw This Diagram at ECLISE, We Will Think of a Graph So Each Person Is a Vertex in of a Graph So Each Person Is a Vertex in of a Graph So Each Person Is a Vertex in This Graph These Are Each Person Is a Vertex in this Graph These Are Each Person Is a Vertex in this Graph These Are the People Now M We Will Write It, the People Now M We Will Write It, the People Now M We Will Write It as the S This Person Who's a Spoon of m But We Person Who's a Spoon of m But We Don't Really Know Much About This Graph Don't Really Know Much About This Graph Don't Really Know Much About This Graph Other Than the Fact That If You Look at Other than the Fact That If You Look at Nutshell What We Looked at This Is We Constructed a Graph Where There is an Constructed a Graph Where There is an Constructed a Graph Where There is an Edge Between Two Vertices They Had Shaken Edge between Two Vertices They Had Shaken Edge between Two Vertices They Had Shaken Hands with Each Other They",
+      "start": 604.0,
+      "end": 987.0
+    },
+    "cluster8": {
+      "title": "A Comprehensive Guide to Naming Variables in Python with Examples",
+      "start": 2294.0,
+      "end": 2304.0
+    },
+    "cluster9": {
+      "title": "A Brief Explanation of Geometric Symmetry in the Neighborhoods of Two Lines",
+      "start": 1419.0,
+      "end": 1426.0
+    },
+    "cluster13": {
+      "title": "L'exemple de deux choses où les deux choses sont des deux choses où n'importe où que deux choses sont les deux choses où exactement il s'agit d'un point à deux points où exactement il s'agit d'un point à deux points où exactement il s'agit d'un point à deux points où exactement il s'agit d'un point à deux points ou en un papier de commande ainsi que cela est fait du papier de commande ainsi que cela est fait du papier de commande ainsi que cela est fait du papier de commande",
+      "start": 715.0,
+      "end": 3293.0
+    },
+    "cluster18": {
+      "title": "A Picto-Representation of the Uncommon Commonality Between You and Yourself",
+      "start": 45.0,
+      "end": 54.0
+    },
+    "cluster69": {
+      "title": "Short, human-friendly title for transcript segment of educational lecture on bisected path in a mathematical sense: \"For Example in This Example ... Labeled with Objects from V to V, F Maps V to V from V to V, and the Second Condition Is If A B A B\"",
+      "start": 1152.0,
+      "end": 1553.0
+    },
+    "cluster78": {
+      "title": "A Transcript of an Educational Lecture with Symmetry and Corresponding Entries",
+      "start": 2185.0,
+      "end": 2192.0
+    },
+    "cluster97": {
+      "title": "A Brief Exploration into the Mathematical Properties of Power Vectors",
+      "start": 125.0,
+      "end": 136.0
+    },
+    "cluster108": {
+      "title": "A Comprehensive Guide to Efficient Energy Management in Buildings: Case Studies and Practical Tips",
+      "start": 1261.0,
+      "end": 1275.0
+    },
+    "cluster120": {
+      "title": "Short, human-friendly title for educational lecture on AI assistant features a maximum length of 10 words: \"Is Defined as ... Graph Definition and its Notation\"",
+      "start": 2369.0,
+      "end": 2596.0
+    },
+    "cluster122": {
+      "title": "Three between one and two thousand heads, but between three and two thousand heads, but between three and onethird is no edge, so this is not a walk, yet if you three five four that's also a path, and it will have five edges in it. This path will have five edges in it.",
+      "start": 2768.0,
+      "end": 2856.0
+    },
+    "cluster124": {
+      "title": "Graph Theory: Regularity and Walking",
+      "start": 2164.0,
+      "end": 2665.0
+    },
+    "cluster127": {
+      "title": "A Short, Human-Friendly Title for the Transcript Segment of an Educational Lecture: \"How to Count Vertices with a Counting Algorithm\"",
+      "start": 2547.0,
+      "end": 2551.0
+    },
+    "cluster128": {
+      "title": "A Brief Explanation of Vertex and Edge Identification in a Graph Using Validity Indicators and Their Relationship",
+      "start": 2567.0,
+      "end": 2729.0
+    },
+    "cluster130": {
+      "title": "Short, human-friendly title for transcript segment of educational lecture on cyclical and linear structures using the Euclidian and Hamitonian cycles, respectively.",
+      "start": 2962.0,
+      "end": 2978.0
+    },
+    "cluster133": {
+      "title": "A Short, Human-Friendly Title for the Transcript Segment \"So That We Will State As a Theorem...\"",
+      "start": 2434.0,
+      "end": 2442.0
+    },
+    "cluster134": {
+      "title": "Look at This Graph: The Degree of Vertex One Is Going to Be One Two and Three, One Is Going to Be One Two and Three, and Every Other Vertex Has a Degree of Two, While the Degree of Vertex Four is Equal to Four for All We Take Any Vertex Its Degree Is Going to be Four So That's the Summary",
+      "start": 2389.0,
+      "end": 2651.0
+    },
+    "cluster137": {
+      "title": "Fine, but if we have to represent it on a computer, how do we do it? There are two common ways:  1. \"Adjacency List Representation\": This representation is called as the adjacent list representation since each vertex has an adjacent list that shows every vertex connected to it. The adjacency matrix represents this information using a set of entries (i, j) for each edge i -> j.  2. \"Adjacency Matrix Representation\": This representation is called as the adjacency matrix representation since each vertex has an adjacency matrix that shows all the edges connecting it to other vertices. The matrix is a square matrix with rows and columns corresponding to vertices and edges. Each entry in the matrix represents a connection between two vertices, with 1 indicating a direct connection (either upwards or downwards) and 0 indicating an indirect connection (either through another vertex).  In either representation, each vertex has a list telling every other vertex what edges it shares, including those shared by itself. This information is stored in the adjacency matrix, which can be used for graph algorithms such as DFS or BFS.",
+      "start": 2004.0,
+      "end": 2346.0
+    },
+    "cluster138": {
+      "title": "The title \"Various kinds of graphs you can think of functions and their graphs but these functions and their graphs but these functions and their graphs but these graphs are very different graphs the graphs are very different graphs the graphs are very different graphs the only commonality between the two is that they are all equal\" is a concise yet informative summary of various graph structures and their properties. The title uses human-friendly language to make it easy to understand for readers with little knowledge in mathematics or computer science.",
+      "start": 38.0,
+      "end": 1991.0
+    },
+    "cluster142": {
+      "title": "Let's Look at All the Vertices on the Graph: Relationship vs. Equivalence",
+      "start": 3407.0,
+      "end": 3601.0
+    },
+    "cluster145": {
+      "title": "Transcript (short, human-friendly title): \"Twelved and eight, connecting zero\"",
+      "start": 692.0,
+      "end": 2434.0
+    },
+    "cluster146": {
+      "title": "Connected to Only DNC: A Comprehensive Guide for Learners",
+      "start": 1872.0,
+      "end": 2185.0
+    },
+    "cluster147": {
+      "title": "The Nested Graph Lecture Transcript",
+      "start": 706.0,
+      "end": 2119.0
+    },
+    "cluster148": {
+      "title": "Short, human-friendly title for transcript segment: \"go like this but when you reach here there is no way you can complete that there is no way you can complete that there is no way you can complete that particular circuit so that item does not work but does it mean that none of the work but does it mean that none of the items are going to work so euler solve items are going to work so euler solve this problem and showed that this graph this problem and showed that this graph\"\"",
+      "start": 3293.0,
+      "end": 3308.0
+    },
+    "cluster149": {
+      "title": "A Graph Doesn't Have a Euler in Cycle and a Path Can Meet Both First and Last Vertex Conditions",
+      "start": 3111.0,
+      "end": 3351.0
+    },
+    "cluster150": {
+      "title": "Euled Thermodynamics of Graphs: Insightfully Connectivity and Its Properties",
+      "start": 3321.0,
+      "end": 3608.0
+    },
+    "cluster151": {
+      "title": "Transcript: \"Graph Theory we will learn about walk, paths, and cycles. Walk is the simplest path or sequence of vertices in a graph. It is represented by a sequence of distinct vertices (i.e., no repeated vertices). Paths are also sequences of distinct vertices that connect adjacent vertices, such as e.g., A-B-C-D.\"",
+      "start": 2665.0,
+      "end": 3470.0
+    },
+    "cluster152": {
+      "title": "Walk or Path: A Simple Explanation of a Red Line",
+      "start": 2777.0,
+      "end": 3516.0
+    },
+    "cluster157": {
+      "title": "Short and Human-Friendly Title for Transcript: \"Graphs as Relationships between Vertices in a Graph, with Conditions Met or Not Met Using a Map.\"",
+      "start": 229.0,
+      "end": 1958.0
+    },
+    "cluster167": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture on a graph, with its components and finite set mentioned, is \"Our Graph So It's Usually Denoted By The Letter G And The Graph Will Have Two Letter G And The Finite Set Of Vertices Is Called A Vertex Set And Its Elements Are Two-Element Subsets.\"",
+      "start": 65.0,
+      "end": 186.0
+    },
+    "cluster168": {
+      "title": "A Guide to the Edge Set in a Graph Using a Power Vectors Lecture Transcript",
+      "start": 111.0,
+      "end": 3082.0
+    },
+    "cluster170": {
+      "title": "Short, Human-Friendly Title for Transcript Segment of Educational Lecture: \"The Corresponding Edges Show the Cycle\"",
+      "start": 1934.0,
+      "end": 1948.0
+    },
+    "cluster171": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture on how to fix an isomorpism by naming vertices as \"a b c d e\". The title should be no more than 10 words and clearly describe the problem being solved.",
+      "start": 1819.0,
+      "end": 1845.0
+    },
+    "cluster174": {
+      "title": "The Other Cycle Needs to Have a Specific Psyche and the First and Last Vertices Are the Same but No Other Last Vertexes are the Same and No Other Last Vertexes are the Same",
+      "start": 1905.0,
+      "end": 3648.0
+    }
+  },
+  "211.json": {
+    "cluster-1": {
+      "title": "Transcript:  One such and convert that into a proof so that we can look at the edges separately, and if we vent about in this specific vertex (in this specific vertex), we can separate them into the specific edges which are not traversed. We can do this by looking at each particular edge for the traversed edges. If we vent about in this specific vertex (in this specific vertex), we can separate them into the specific edges which are not traversed, and if we trace them, we can see that there are some cycles. We can do this in a more systematic way by starting from one vertex and moving to other vertices, and tracing each edge as we go. If we reach this particular vertex (in this particular vertex), we have moved all the edges which were traversed to become traversed again. So we have converted these edges into a proof of our theorem by separating them into specific edges and tracing them back to the starting vertex.",
+      "start": 148.0,
+      "end": 3222.0
+    },
+    "cluster1": {
+      "title": "Short, Human-Friendly Title for Lecture Transcript: \"Music, Graphs, Notions & their Applications in Data Science\"",
+      "start": 9.0,
+      "end": 36.0
+    },
+    "cluster4": {
+      "title": "Short and Human-Friendly Title for the Transcript Segment: \"Providing Size Estimation Using Numerical Methods in Spatial Analysis\"",
+      "start": 2261.0,
+      "end": 2269.0
+    },
+    "cluster8": {
+      "title": "Titulo: \"Líderes de nómina: quem é? e que faz?\"",
+      "start": 1103.0,
+      "end": 3137.0
+    },
+    "cluster9": {
+      "title": "A Machine Learning-Based Neighbor Search Algorithm for Graph Data Structures",
+      "start": 3042.0,
+      "end": 3161.0
+    },
+    "cluster12": {
+      "title": "Transcript: \"Neighbors if you look at one to d plus neighbors if you look at one to d plus one okay if you look at the set to d one okay if you look at the set to d one okay if you look at the set to d plus one amongst these numbers at least less than k ok and then we will take vn less than k ok and then we will take vn and look at neighboring numbers of vn so write and look at neighboring numbers of vn so write and look at neighboring numbers of vn so write down the neighboring numbers of vn minus so down the neighboring numbers of vn minus so down the neighboring numbers of vn minus so these are neighboring numbers of vn minus and these are neighboring numbers of vn minus and these are neighboring numbers of vn minus and then we can write down neighboring numbers of v n then we can write down neighboring numbers of v n then we can write down neighboring numbers of v n minus and so on okay sorry this is the first block is okay sorry this is the first block is neighboring numbers of v n and the second block is neighboring numbers of v n and the second block is neighboring",
+      "start": 2893.0,
+      "end": 3198.0
+    },
+    "cluster29": {
+      "title": "\"From Here and at This Point, We Can Just Start Again from Here or Again, or Take Something to the Come Back Here or Again, or Follow This Coming to a Decision, or Go Back Here, and Do It One More Time Okay So Which Is Not Used, but We Could Start Here and Then Continue, and We Must and Then Continue, and We Must, or Just Begin at a Point Where We Can Be Standard This Way if We Had the Way, and We Can Be Standard This Way If We Had the Way, or Let Us Say This is the Point at Which They Diverge, and Then Let Us Say This Is the Point at Which They Diverge, or Call This First Point as I, and Call This First Point as I, or If You Call This First Point as I and if You Call This First Point as I, then We Must Come Together Somewhere So We Must Come Together Somewhere So We Must Come Together Somewhere So If You Call This First Point as I, Then There Is Probably a First Point After, and if You Call This First Point as I, Then There Is Probably a First Point After, or I Will Be the Only One Who Remains Stranded if We Had",
+      "start": 188.0,
+      "end": 1904.0
+    },
+    "cluster61": {
+      "title": "\"Maximum Degree Has Degree K, Then Chi G or the Chromatic Number Is Less Than Or Equal to K Plus 's First or Equal to K Plus 's First or Equal to K Plus 's First Statement, the Second Statement Says If G Theorem States That If You Have a Connected Graph Which Is Not Regular Connected Graph Which Is Not Regular Connected Graph Which Is Not Regular Then You Can Color It With Less Than or Equal to k Colors So the Maximum Degree is k Equal to k Colors so the Maximum Degree is k and if the graph was not regular then k and if the graph was not regular then k and if the graph was not regular then k and if the graph was not regular then k colors suffice Clearly if the graph was colors suffice clearly if the graph was colors suffice clearly if the graph was regular then we cannot guarantee that it regular then we cannot guarantee that it regular then we cannot guarantee that it will be colorable in k using k Colors Ok Will be Colorable in k using k Colors Ok for example if you take the Pentagon For Example If You Take the Pentagon For Example If",
+      "start": 2639.0,
+      "end": 3229.0
+    },
+    "cluster62": {
+      "title": "Drawing the Edges with Red for a Minimum Number",
+      "start": 965.0,
+      "end": 971.0
+    },
+    "cluster71": {
+      "title": "A Greedy Algothm Task for Coloring and We Will Show That Its Chromatic Number Is Going to Be Proof of This Theorem",
+      "start": 2606.0,
+      "end": 3242.0
+    },
+    "cluster79": {
+      "title": "Transcript: \"with the next topic which is known as coloring, we will define what are colorings and then look at a simple algoirthm to color graphs, as defined above.\"",
+      "start": 2318.0,
+      "end": 2532.0
+    },
+    "cluster80": {
+      "title": "Transcript: \"What is a chromatic number and how can it help us determine the minimum number of colors required to color a graph?\"",
+      "start": 2366.0,
+      "end": 2985.0
+    },
+    "cluster83": {
+      "title": "A Comprehensive Guide to Choosing Accpetable Colors for Your Home Decor, with a Minimum of 10 Words Maximum",
+      "start": 2422.0,
+      "end": 2849.0
+    },
+    "cluster92": {
+      "title": "Sentence: \"Given the vertices and particular vertices, it can be concluded that these vertices should not be given red color as they are neighbors of given edges and cannot be given red color themselves.\"",
+      "start": 2411.0,
+      "end": 2818.0
+    },
+    "cluster124": {
+      "title": "Transcript: \"Is less than or equal to k okay, not regular means?\"",
+      "start": 2669.0,
+      "end": 3023.0
+    },
+    "cluster127": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"Four Explanatory Fallacies and How They Affect Our Understanding of Reality\"",
+      "start": 368.0,
+      "end": 565.0
+    },
+    "cluster128": {
+      "title": "Transcript: \"Obviously, leave the vertex okay. You will never be stranded at any particular vertex, as long as you stay at a particular one. Let's say we randomly move from one vertex to another, and let's say we're moving towards certain vertices, but let's make sure that we're not going back to the same vertex again.\"",
+      "start": 224.0,
+      "end": 709.0
+    },
+    "cluster129": {
+      "title": "\"Crucial Observation about Peterson Graph: A Very Human-Friendly Title for Transcript Segment\"  Transcript: \"Lecture on Peterson Graph: An Observed Claim, a Vital Observation About Peterson Graph, and a Claim That Cannot Be Disproved!\"  Crucial Observation about Peterson Graph: A Very Human-Friendly Title for Transcript Segment",
+      "start": 829.0,
+      "end": 1560.0
+    },
+    "cluster130": {
+      "title": "Transcript: - Next thing that we will learn today is another kind of walk or power called \"path on graphs,\" which are also called \"hamitonian cycles.\" - A define what a hamitonian cycle, but we will first define what a hamitonian cycle in a talking about hamitonian cycles. - The natural question to ask is where it does and given a graph, does it have a hamitonian cycle or not? - We'll see some examples of a complete graph on n vertices which has many hamitonal cycles, we'll look at the complete graph on n vertices which also has many hamitonal cycles. - One example is a complete graph with its value of n being 1, and another example is a complete graph with its value of n being 2. - The cycle in this case is just one line between vertex 1 and vertex 2, and we can start at any vertex and go to any vertex here the cycle, and if you look at the graph itself, it has a hamitonal cycle. - We will prove that this graph does not have a hamitonal cycle by showing that every vertex could be visited exactly once in a cycle. - We'",
+      "start": 587.0,
+      "end": 1595.0
+    },
+    "cluster133": {
+      "title": "\"theorem Suppose the Maximum Degree in G Theorem: Supply the Maximum Degree in G Is K and It Means If You Look at Any Vertex Is K, It Means If You Look at Any Vertex Is K It Means If You Look at Any Vertex The Maximum Degree That It Has Amongst the Maximum Degree That It Has amongst the Maximum Degree That It Has amongst All the Vertices the Vertex Which is All the Vertices the Vertex Which is the Maximum Degree Has Depression k Then Chi G Maximum Degree Has Depression k Then Chi G Depression Is Less Than K So We Will Choose That Vertex As Bn so Vn Is the Vertex of That Vertex as Bn So Vn Is the Vertex of That Vertex as Bn So Vn Is the Vertex of Depression Less Than So The Reiza Vertex Depression Less Than So The Reiza Vertex Whose Depression Is Strictly Less Than k And Its Whose Depression Is Strictly Less Than k And Its Depression Is Strictly Less Than k And Well Take That Vertex As",
+      "start": 2625.0,
+      "end": 3042.0
+    },
+    "cluster134": {
+      "title": "Transcript: \"\"\"Because the degree of every vertex is because the degree of every vertex is even and just writing down the degrees even and just writing down the degrees even and just writing down the degrees of the vertices so not the vertex labels of the vertices so not the vertex labels method into a proof of our theorem we method into a proof of our theorem we will do that first thing okay so the key will do that first thing okay so the key will do that first thing okay so the key idea is since every vertex has degree idea is since every vertex has degree even if you enter any vertex you have to even if you enter any vertex you have to even if you enter any vertex you have to obviously leave the vertex okay you will obviously leave the vertex okay you will the fact that the vertex has an even degree means that there is at least one degree means that there is at least one degree means that there is at least one leaving edge okay so for every vertex if leaving edge okay so for every vertex if leaving edge okay so for every vertex if we start at any arbitrary vertex and the original cycle so this can be done the original cycle so this can be done inductively and therefore that will inductively and therefore that will guarantee that if the degree of every guarantee that",
+      "start": 132.0,
+      "end": 2716.0
+    },
+    "cluster137": {
+      "title": "Systematic Inclusion of Included into This Block and Systematically Listing Its Neighbors in a Connected Graph from Start to Finish!",
+      "start": 3122.0,
+      "end": 3130.0
+    },
+    "cluster138": {
+      "title": "Exploring Euclid's Proof: A Graphical Approach",
+      "start": 36.0,
+      "end": 48.0
+    },
+    "cluster140": {
+      "title": "To V or V, the Vertex That Joins Two Vertices in a Triangle Has One Edge Missing, but All of Its Diametrically Opposite Vertices Are Connected",
+      "start": 1271.0,
+      "end": 1376.0
+    },
+    "cluster144": {
+      "title": "Learning Tree Topology using Inductive Induction: The Necessity and Benefits of Using Facts to Repeatedly Calculate the Total Number of Edges in a Connected Component",
+      "start": 2212.0,
+      "end": 2318.0
+    },
+    "cluster145": {
+      "title": "The Symmetry of Edges Missing Only One from Five",
+      "start": 998.0,
+      "end": 2212.0
+    },
+    "cluster146": {
+      "title": "Humorous but Informative Transcript of a Lecture on Symmetry and Its Implications",
+      "start": 1376.0,
+      "end": 1383.0
+    },
+    "cluster148": {
+      "title": "A Tale of Two Circuits: Euledness in Cyclic Graphs  The text is a short, human-friendly title for an educational lecture on the concept of euledness in graph theory. The main point to be conveyed is that the degree of every vertex in a connected graph with even degree (i.e., in which each vertex has an even number of edges) satisfies the Euledness Theorem, and therefore it can be assumed that an even loop exists in such a graph. This is done through a graph illustration that showcases how the theorem applies to the given example.",
+      "start": 62.0,
+      "end": 1564.0
+    },
+    "cluster150": {
+      "title": "Short and friendly title for the transcript segment of an educational lecture titled \"Awesome Concepts in Mathematics\": \"The Eulers Theorem and Its Applications: A Brief Explanation.\"",
+      "start": 48.0,
+      "end": 1582.0
+    },
+    "cluster152": {
+      "title": "So Let's Approximately Assume There Are More Than One Path Between U and V, So We Can Assign a Maximum Number of Paths for Each Way",
+      "start": 1848.0,
+      "end": 2117.0
+    },
+    "cluster157": {
+      "title": "A Brief Explanation of a Complex Graph with Several Edges and Other Related Information",
+      "start": 1414.0,
+      "end": 1418.0
+    },
+    "cluster158": {
+      "title": "Facts the second factors, T has n minus Factors, which means exactly two disjoint trees, as you can see from the given transcript. Exactly two disjoint trees are those where any edge is removed results in precisely two disjoint trees.",
+      "start": 1771.0,
+      "end": 2301.0
+    },
+    "cluster161": {
+      "title": "Transcript: \"\"\"at is what are called as trees the trees are graphs which are two crucial properties ok so let's call it by t so t properties ok so let's call it by t so t properties ok so let's call it by t so t is also this is a graph first graph this is also an example of a tree if you look at the real graph this is if you look at the real graph this is if you look at the real graph this is not a tree because there are many not a tree because there are many not a tree because there are many different cycles in this graph you can see different cycles in this graph you can see different cycles in this graph you can have trees of different kind so this is have trees of different kind so this is have trees of different kind so this is an example of a rooted binary tree root an example of a rooted binary tree root an example of a rooted binary tree root because b will usually i mean if when we draw it like this this signifies the draw it like this this signifies the draw it like this this signifies the root and binary because every root and binary because every root and binary because every intermediary node has two children intermediary node has",
+      "start": 1595.0,
+      "end": 2012.0
+    },
+    "cluster162": {
+      "title": "Short, Human-Friendly Title for Transcript: \"The Limit of Edge Connections in a Tree: Exclusive to the Number of Vertices\"",
+      "start": 2158.0,
+      "end": 2165.0
+    },
+    "cluster166": {
+      "title": "A Brief Overview of Human Physiology and Its Impact on Health",
+      "start": 1209.0,
+      "end": 1215.0
+    },
+    "cluster167": {
+      "title": "The Set X Comma Y: Assigning Vertex Numbers and Vertex Numbers with Shared Edges",
+      "start": 2393.0,
+      "end": 2400.0
+    },
+    "cluster168": {
+      "title": "Is on the First Point from Where There Is On the First Point From Where There Is An Edge Which Isn't Accounted For So Is an Edge Which Isn't Accounted For So Look at This Part and Look at the First",
+      "start": 487.0,
+      "end": 492.0
+    },
+    "cluster170": {
+      "title": "Transcript: \"can see that also forms a cycle so is a pentagon or a cycle so is a pentagon or a cycle and also form a cycle and also form a cycle and also form a pentagon now these cycles mean if you pentagon now these cycles mean if you pentagon now these cycles mean if you consider them as pentagons there are no considerations between them for example, other edges between them for example, other edges between them for example, the direct edge between and should be between and should be between and should be between and also there is no edge so between and also there is no edge so between and also there is no edge so between these cycles are two disjoint cycles and have edges which go from have edges which go from cycle to cycle any cycle should have an edge edge any cycle should have an edge edge any cycle should have an edge which goes from the outer circle to the",
+      "start": 887.0,
+      "end": 960.0
+    },
+    "cluster171": {
+      "title": "First Claim is G Does Not Have Any Four-Cycle, Which Means It Has Only Two Cycles.",
+      "start": 843.0,
+      "end": 1647.0
+    },
+    "cluster173": {
+      "title": "Human-friendly title: \"The Original Graph Cycle Presenting a Strong Evidence for the Existence of Cycles in Both Parts and a Connectivity-Free Unconnected Part\"",
+      "start": 1926.0,
+      "end": 2141.0
+    },
+    "cluster174": {
+      "title": "Transcript: \"Come back here, okay? Let's just traverse along the particular path. Traverse along the particular path. Complete that cycle and then continue on.\"",
+      "start": 512.0,
+      "end": 934.0
+    }
+  },
+  "212.json": {
+    "cluster-1": {
+      "title": "Transcript: ``` This is an AI assistant. Please generate a short, human-friendly title for the following transcript segment of an educational lecture. Keep it within 10 words maximum.  Transcript: \"This its neighbor's must get a different color so that both its vertices have the same color.\"",
+      "start": 277.0,
+      "end": 2447.0
+    },
+    "cluster1": {
+      "title": "Understanding Bipartite Graphs, Minimal Spanning Trees and Their Applications",
+      "start": 9.0,
+      "end": 60.0
+    },
+    "cluster8": {
+      "title": "Analyze the Complexity of Graph Topology Using Different Graph Methods",
+      "start": 404.0,
+      "end": 411.0
+    },
+    "cluster9": {
+      "title": "Transcript: [Transcript] AI assistant: \"And for this we will first look at all the vertices of vertices which are the vertices of vertices which are adjacent to v okay that is what we will call as level one okay call as level two okay call as level three okay call as level four okay call as level five okay that is what we will call as level six okay call as level seven okay call as level eight okay call as level nine okay that is what we will call as level ten okay call as level eleven okay call as level twelve okay look at all their neighbors two okay look at all their neighbors three okay look at all their neighbors four okay look at all their neighbors five okay look at all their neighbors six okay look at all their neighbors seven okay look at all their neighbors eight okay look at all their neighbors nine and then we will continue this so we will continue this so we will get level eleven and then there are level two levels three levels four levels five levels six levels seven levels eight levels nine and then there are levels ten eleven levels twelve levels three levels four levels five levels six levels seven levels eight levels nine and then there are levels ten eleven levels twelve levels three levels four levels five levels six levels seven",
+      "start": 411.0,
+      "end": 611.0
+    },
+    "cluster11": {
+      "title": "Short, Human-Friendly Title for the Transcript: \"Given BiPartite Graphs, We Write It as a To BiPartite Graphs. Well Prove It a Theorem and Well Prove It a Thing.\"",
+      "start": 178.0,
+      "end": 188.0
+    },
+    "cluster12": {
+      "title": "A Brief Introduction to the Theory of Neighbors and Their Jumps on a Level Graph",
+      "start": 439.0,
+      "end": 525.0
+    },
+    "cluster23": {
+      "title": "theorem and well prove it a graph is bipartite if and only if it contains no cycles of odd lengths and looks at no cycles of odd lengths and takes all the cycles in the graph into account while looking at all the cycles in the graph, and if none of those cycles are of odd lengths, then it will invariably be a bipartite graph.",
+      "start": 188.0,
+      "end": 638.0
+    },
+    "cluster37": {
+      "title": "Short, human-friendly title for transcript segment on bipartite graphs: \"Lets first define what are bipartite graphs using two colors and how they can be colored using two colors, and then we will write down the definition of bipartite graphs and explain why they are called bipartite.\"",
+      "start": 60.0,
+      "end": 370.0
+    },
+    "cluster65": {
+      "title": "The Classic Algorithms: Kruskal's Algorithm is Called as Kruskal's Algorithm",
+      "start": 2106.0,
+      "end": 2122.0
+    },
+    "cluster81": {
+      "title": "Sure, here's a short, human-friendly title for the transcript segment mentioned in the given text: \"So let's call it as color one and these are all the vertices getting color two are all the vertices getting color two are all the vertices getting color two now if you look at the edges of the same part then of course these were the colors given to the graphs and if you had an edge in which both vertices were on one side, then that of edges now suppose this graph was colorable then all these vertices would be colorable then all these vertices would be colorable then all these vertices would have gotten some color so if you take have gotten some color so if you take have gotten some color so if you take have gotten some color so if you take have gotten some color so if you take this what is one of these vertex start there's no other option and this what the next vertex should be of color one the next vertex should be of color one the next vertex should be of color one and the next should be two and the next and the next should be two and the next and the next should be two and the next should again be one and that would cause should again be one and that would cause",
+      "start": 123.0,
+      "end": 301.0
+    },
+    "cluster92": {
+      "title": "A Simple Approach to Teaching Colors to Vertex Start and Neighbors",
+      "start": 272.0,
+      "end": 277.0
+    },
+    "cluster131": {
+      "title": "Transcript: \"Sure, here's another short and human-friendly title for the transcript segment of our educational lecture on the topic of cyclical graphs. Keep it within 10 words maximum!\" \"Cyclic Graphs: A Brief Introduction\"",
+      "start": 1419.0,
+      "end": 2019.0
+    },
+    "cluster135": {
+      "title": "Humorous Yet Educational: The Power of the Spanning Tree in Bridging the Distance Between U and V",
+      "start": 1413.0,
+      "end": 1419.0
+    },
+    "cluster154": {
+      "title": "Human-friendly title for an educational lecture on weighted graphs: \"Weighted Graphs: An Introduction to Connections and Weights\"",
+      "start": 729.0,
+      "end": 2067.0
+    },
+    "cluster155": {
+      "title": "Human-friendly title: \"So, here let's take a look at the following transcript segment of an educational lecture. Keep it within 10 words maximum.\"",
+      "start": 790.0,
+      "end": 2418.0
+    },
+    "cluster161": {
+      "title": "An Educational Lecture on The Importance of Shaming New Objects into Being Trees!",
+      "start": 1602.0,
+      "end": 1627.0
+    },
+    "cluster162": {
+      "title": "Humans-friendly title for the transcript segment with an educational lecture about a spanning tree and its properties: \"a Short, Human-Friendly Title for the following Transcript Segment of an Educational Lecture about a Spanning Tree and Its Properties\"",
+      "start": 883.0,
+      "end": 2153.0
+    },
+    "cluster164": {
+      "title": "Transcript: \"to one plus three plus two plus five plus six, so that is and minimal plus six so that is and minimal plus six so that is and minimal spanning tree is a tree which has the minimum weight amongst all the spanning and so all of them will be valid minimal and so all of them will be valid minimal spanning trees look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the smallest weighted tree look at the",
+      "start": 931.0,
+      "end": 2429.0
+    },
+    "cluster165": {
+      "title": "Transcript: \"Same weight so what we will assume in a minimal spanning tree, assuming each edge weight is distinct, that means there's some particular edge which is the least weighted cottage but still not present in the minimal spanning tree, so this edge must surely be present in every minimal spanning tree.\"",
+      "start": 802.0,
+      "end": 2364.0
+    },
+    "cluster166": {
+      "title": "Sure, here's a short and human-friendly title for the transcript segment above: \"Adding ii or Suppose ii between Adding ii and Not Adding ii Between These\"",
+      "start": 2174.0,
+      "end": 2180.0
+    },
+    "cluster167": {
+      "title": "An Interactive Graph Simulation for Network Analysis",
+      "start": 864.0,
+      "end": 2346.0
+    },
+    "cluster168": {
+      "title": "Now if you had two vertices in the same part, the other part, and both vertices were on one side.",
+      "start": 128.0,
+      "end": 2048.0
+    },
+    "cluster170": {
+      "title": "Educational Lecture on the Structure of Cycles, Including The Edge E as a Key Element",
+      "start": 2019.0,
+      "end": 2174.0
+    }
+  },
+  "213.json": {
+    "cluster-1": {
+      "title": "Sure, here's a revised version of the transcript with the \"graphs okay so let us see what is edge graphs\" title in place of \"graphs okay.\" The same short, human-friendly title should fit well into a 10-word limit.",
+      "start": 55.0,
+      "end": 2715.0
+    },
+    "cluster1": {
+      "title": "Humanoid Lecture: \"Learning More About BiPartite Graphs - Part II: Edge Coloring\"",
+      "start": 9.0,
+      "end": 40.0
+    },
+    "cluster3": {
+      "title": "Transcript: \"So let's take a look at something, and then we will also take a look at it called as matching so that we can see what is an edge-xy. Matching is a graph property where we can find a matching in a general graph but in this case, we are going to restrict our attention to bi-partite graphs.\"",
+      "start": 40.0,
+      "end": 2759.0
+    },
+    "cluster4": {
+      "title": "The Union of X and Its Neighbors: A Human-Friendly Short Summary of a Transcript Segment on Educational Lecture",
+      "start": 1727.0,
+      "end": 2750.0
+    },
+    "cluster9": {
+      "title": "A Short and Human-Friendly Title for the Lecture on Neighbors of Vertex, Set of Neighbors of Vertex, and Set of Neighbors of X",
+      "start": 1702.0,
+      "end": 1718.0
+    },
+    "cluster11": {
+      "title": "A BiPartite Graph Is Completely Restricted to This Specific Partition",
+      "start": 471.0,
+      "end": 2250.0
+    },
+    "cluster12": {
+      "title": "Easily Identifiable and Clearly Spelled Out: The Neighbors Of This Together Would Be The Neighbors Of This Together Would Be Called S And S, So Clearly One Can Call S And S, Simply Because They Were All Part Of A Group Together In The Same Way!",
+      "start": 1737.0,
+      "end": 2347.0
+    },
+    "cluster25": {
+      "title": "The Greatest Common Divisor of a and Its Smallest Sorted Subset Using Hall's Theorem",
+      "start": 2715.0,
+      "end": 2727.0
+    },
+    "cluster26": {
+      "title": "Transcript: \"\"\"by our induction hypothesis on the by our induction hypothesis on the smaller graph g prime you can color it smaller graph g prime you can color it smaller graph g prime you can color it with delta colors ok so delta is the max with delta colors ok so delta is the max with delta colors ok so delta is the max degree in g ok so clearly we can obtain degree in g ok so clearly we can obtain degree in g ok so clearly we can obtain a coloring of g prime which uses no more a coloring of g prime which uses no more a coloring of g prime which uses no more a coloring of g prime which uses no more than delta colors g prime can be colored than delta colors g prime can be colored than delta colors g prime can be colored than delta colors now lets look at using delta colors now lets look at using delta colors now lets look at these vertices x amp y thats been colored so g is the main graph and been colored so g is the main graph and g prime is a residual graph and if we g prime is a residual graph and if we g prime is a residual graph and if we add this edge xy we will get this is the so if you look at the vertex x and y",
+      "start": 729.0,
+      "end": 941.0
+    },
+    "cluster37": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"We Do With Three Colors: A Question We Do With Three Colors Is a Question and We Want to Answer This Question for and Want to Answer This Question for Bipartite Graph.\"",
+      "start": 245.0,
+      "end": 703.0
+    },
+    "cluster50": {
+      "title": "Titled \"The Relative Importance of Elements in S, X, and Si (or Is), as Determined by Their Cumulative Distribution\"",
+      "start": 2213.0,
+      "end": 2220.0
+    },
+    "cluster62": {
+      "title": "And because the edge is using red and because the edge is using red color, this cannot be read either",
+      "start": 225.0,
+      "end": 1118.0
+    },
+    "cluster80": {
+      "title": "Transcript: \"So any such coloring will be called as a valid edge coloring, and we want to find an valid edge coloring that minimizes the number of colors used. We could of course give of colors, but surely all the properties would be met but that does not minimize the number of colors used.\"",
+      "start": 121.0,
+      "end": 676.0
+    },
+    "cluster81": {
+      "title": "A JuGgle Graphs Itself So This Is a Graph Jungle Graphs Itself So This is a Graph on Verts, Lets Say Volts, and it Does Not Share a Vertex, so Such That You Do Not Share a Vertex, So the Red Colored Edges Will Basically the Red Colored Edges Will Basically",
+      "start": 1257.0,
+      "end": 1292.0
+    },
+    "cluster83": {
+      "title": "Short, human-friendly title for the following transcript segment of an educational lecture: \"Coloring Requirements: A Valid Case with Just One Color\" (Pink).",
+      "start": 229.0,
+      "end": 795.0
+    },
+    "cluster84": {
+      "title": "Transcript: \"\"\"Let's see how that can be done at any point when we stop it means there is no point when we stop it means there is no point when we stop it means there is no point when we stop it means there is no ads to be taken for the other color okay ads to be taken for the other color okay ads to be taken for the other color okay so what it means is if we could have so what it means is if we could have so what it means is if we could have changed the blue to red and the red to changed the blue to red and the red to changed the blue to red and the red to blue and still things would work fine blue and still things would work fine blue and still things would work fine okay is that so so lets say this is yn but if you change that back to red there but if you change that back to red there but if you change that back to red there is a violation at xn but we can change is a violation at xn but we can change is a violation at xn but we can change that black to blue okay so we can that black to blue okay so we can that black to blue okay so we can alternate in this",
+      "start": 1073.0,
+      "end": 1135.0
+    },
+    "cluster92": {
+      "title": "Distinct Colors: Recoloring Path with Swapped Colors",
+      "start": 179.0,
+      "end": 1205.0
+    },
+    "cluster93": {
+      "title": "Unusual Color Choice for Educational Lecture: Optimizing Visual Perception Using Neural Networks",
+      "start": 843.0,
+      "end": 1220.0
+    },
+    "cluster117": {
+      "title": "A Brief Summary of the Main Idea in a Transcript",
+      "start": 1373.0,
+      "end": 1380.0
+    },
+    "cluster121": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture on proving that a certain number of edges is sufficient in a given graph using induction: \"Do we Show That This Case Is True by Induction? Let's Recap the Proof\"",
+      "start": 601.0,
+      "end": 1173.0
+    },
+    "cluster124": {
+      "title": "Examples where the Maximum Degree of a Vertex Is Not Sufficient for All Vertices in a Graph",
+      "start": 291.0,
+      "end": 304.0
+    },
+    "cluster134": {
+      "title": "Introducing the \"Degree Must Be Exactly Three, To Be Perfectly Achieved!\" Short and Human-Friendly Title for the Educational Lecture",
+      "start": 164.0,
+      "end": 172.0
+    },
+    "cluster167": {
+      "title": "\"Two Parts, Lets Say X and Y, and Okay, So If You Think of GS V Comma E Where V Is the Set of Vertices and the E Is the Set of Sets of Vertices, and the E Is the Set of Sets of Vertices, and the E Is the Set of Edges, Well We Can Be Written as X Union Y So Edges We Can Be Written as X Union Y So This Is a Disjoint Union Because They Do Not Share Any Vertices So V Can Be the Do Not Share Any Vertices So V Can Be the Set of Do Not Share Any Vertices So V Can Be the Vertex Set Can Be Split As X Union Y Vertex Set Can Be Split As X Union Y Vertex Set Can Be Split As X Union Y Such That All Edges Are Between X and Y Okay So You Cannot Have an Edge of This Kind From X to Itself, So This Is Vertices So Lets Say S So This Is a Set Of Vertices Which Of Vertices Which Of Vertices Which Well Assume Was Noneempty And Nests Well Assume Was Noneempty And Nests Well Assume Was Noneempty And Nests Would Be Basically Union Of X Bel",
+      "start": 479.0,
+      "end": 1792.0
+    },
+    "cluster168": {
+      "title": "Humans-Friendly Transcript for \"Kind from X to Itself, So This Is Kind From X To Itself ... Forbidden and You Cannot Have an Edge Forbidden and You Cannot Have an Edge... To Y To Itself...\"",
+      "start": 517.0,
+      "end": 921.0
+    }
+  },
+  "214.json": {
+    "cluster-1": {
+      "title": "Transcript: \"\"\"three wells w w and w what we want is three wells w w and w what we want is to construct parts from each house to construct parts from each house to construct parts from each house to each well but these people a b and c do we could think of this is a b and c w we could think of this is a b and c w w w and we have the following graph w w and we have the following graph w w and we have the following graph with all these edges present we are to find so position the vertices in the to find so position the vertices in the plane and and if a comma b is an edge plane and and if a comma b is an edge plane and and if a comma b is an edge then connect them by a simple curve okay then connect them by a simple curve okay then connect them by a simple curve okay and if we can find a graph drawing in and if we can find a graph drawing in and if we can find a graph drawing in such a way that the edges the curves edges its the complete graph from which edges its the complete graph from which exactly one edge has been removed okay exactly one edge has been removed okay exactly one edge has been removed okay so we can write this is",
+      "start": 54.0,
+      "end": 1620.0
+    },
+    "cluster0": {
+      "title": "Humans Aren't Always the Best for Making Friends",
+      "start": 63.0,
+      "end": 68.0
+    },
+    "cluster1": {
+      "title": "Learning About Plane Graphs: A Cool Exercise for All to Enjoy!",
+      "start": 9.0,
+      "end": 38.0
+    },
+    "cluster13": {
+      "title": "Generate a short, human-friendly title for the following transcript segment of an educational lecture on how to make a crossword puzzle. Keep it within 10 words maximum.",
+      "start": 38.0,
+      "end": 377.0
+    },
+    "cluster18": {
+      "title": "How to Reformat a Short, Human-Friendly Title for an Educational Lecture on Graph Theory and its Properties",
+      "start": 144.0,
+      "end": 1439.0
+    },
+    "cluster19": {
+      "title": "Human-friendly title for \"those regions that will basically be called as a face\": \"Anatomy of a Face: Diagram and Phases\"",
+      "start": 481.0,
+      "end": 1263.0
+    },
+    "cluster23": {
+      "title": "A Graph Is Not A BiPartite Mean, But It's Exactly What You Need for a Bipartite Graph!",
+      "start": 1466.0,
+      "end": 1474.0
+    },
+    "cluster43": {
+      "title": "Transcript: \"\"\"and f is the number of faces and v minus and f is the number of faces and v minus e plus f will be equal to two because how do we prove this statement because how do we prove this statement the proof is fairly simple we can use an f okay and therefore we can conclude f okay and therefore we can conclude that summation fi over all the faces that summation fi over all the faces that summation fi over all the faces that is going to be equal to twice the that is going to be equal to twice the than or equal to three therefore if f was the total number of faces three f is was the total number of faces three f is was the total number of faces three f is going to be definitely so summation f i going to be definitely so summation f i then what we have is every face must then what we have is every face must contain at least four edges so for f contain at least four edges so for f contain at least four edges so for f will be less than summation fi over all will be less than summation fi over all will be less than summation fi over all the phases and this is equal to e so f the phases and this is equal to e so f the phases and",
+      "start": 588.0,
+      "end": 1550.0
+    },
+    "cluster44": {
+      "title": "Minus and f will be equal to the sum of two numbers, so we can write the expression as f = (e + f) - (e - f), which can be rewritten as f is equal to e minus and f. This means that f is less than or equal to e by using the Euclid formula. We can conclude from this that f is less than or equal to e by substituting in e by what we get, e is less than or equal to e by and we have v plus f minus as a lower bound, which is less than v plus e. This means that f is less than or equal to e by the corollary.",
+      "start": 693.0,
+      "end": 1590.0
+    },
+    "cluster120": {
+      "title": "Short, human-friendly title for the above transcript segment: \"Vertices and Edges - Summary, Degree One Vertex, and More!\"",
+      "start": 583.0,
+      "end": 1432.0
+    },
+    "cluster121": {
+      "title": "Short, human-friendly title for the following transcript segment of an educational lecture: \"In this lecture, we will analyze the graph's properties and how removing a particular edge changes its structure.\"",
+      "start": 747.0,
+      "end": 764.0
+    },
+    "cluster134": {
+      "title": "Short, human-friendly title for the transcript segment \"any vertices of degree one\" with a maximum word count of 10: \"A brief overview of any vertices of degree one.\"",
+      "start": 1059.0,
+      "end": 1065.0
+    },
+    "cluster138": {
+      "title": "The Nonlinearity of Various Graphs: A Comprehensive Exploration with a Peterson Diagram",
+      "start": 1439.0,
+      "end": 1626.0
+    },
+    "cluster144": {
+      "title": "A Simple Explanation of the Corollary Number of Edges in a Pythagorean Triangle Using Two Pentagon Arcs",
+      "start": 1408.0,
+      "end": 1422.0
+    },
+    "cluster145": {
+      "title": "Transcript: \"\"\"look at a particular face and if you look at any face, you can see that its associated with exactly two faces. This means that each boundary edge is counted twice for a face with two faces.\"\"\"",
+      "start": 862.0,
+      "end": 1158.0
+    },
+    "cluster146": {
+      "title": "A Simple Circuit Diagram for Electrical Lines and Their Connecting Elements",
+      "start": 385.0,
+      "end": 396.0
+    },
+    "cluster150": {
+      "title": "Eulers' Theorem and Its Corollary",
+      "start": 544.0,
+      "end": 1059.0
+    },
+    "cluster157": {
+      "title": "Graph Intersection: A Simple Explanation of Edge Correspondence",
+      "start": 220.0,
+      "end": 225.0
+    },
+    "cluster161": {
+      "title": "Short, Human-Friendly Title for Transcript: A Graph Without Cycles That's Called a Graph Without Cycles Called as a Tree Now When You Have a Tree So G Is a Tree Nows Calling It a Graph Without Cycles Called as a Graph Without Cycles Called as a Plane Unless Embedding the Tree Into the Tree Does Not Create a Plane",
+      "start": 658.0,
+      "end": 669.0
+    },
+    "cluster166": {
+      "title": "A Brief Explanation of the Importance of Equality in Society",
+      "start": 400.0,
+      "end": 410.0
+    },
+    "cluster168": {
+      "title": "Lecture on Bc-Cd-De Circular Dihedral System",
+      "start": 410.0,
+      "end": 421.0
+    },
+    "cluster171": {
+      "title": "Transcript: A Simple Discussion on the Importance of Minimalist Face Designs",
+      "start": 1526.0,
+      "end": 1543.0
+    },
+    "cluster173": {
+      "title": "An Introduction to Graphs and Their Properties: From Cycle-Free to Cyclical, and Back Again!",
+      "start": 636.0,
+      "end": 658.0
+    },
+    "cluster174": {
+      "title": "A Corollary for the Cycles Conjecture Based on Graph Properties and a Specific Case Analysis",
+      "start": 1240.0,
+      "end": 1247.0
+    }
+  },
+  "215.json": {
+    "cluster-1": {
+      "title": "Transcript: \"Example: If you think of any social example, such as an AI assistant, consider the following transcript segment: \"example if you think of any social networking site, you can look at your networking site, and you can look at your individual page as a certain node, and individual page as a certain node, and you want to know all your connections, so you want to know all your connections, so you want to know all your connections, so you wont know who your friends are, but you want to know all your connections so you can think about their friends and so on, so you can think about their friends, and so on, so you can think about their friends, and so on, so you can think about their friends, and so on, so you can think about their friends as each other, and you can think about them as each other, and you want to order all your connections in some order, so you can either look at I mean you can you can either look at I mean you can you can either look at I mean you can you can either look at I mean you can look at I mean you can look at your friends list them out and look at your friends list them out, and look at your",
+      "start": 48.0,
+      "end": 1922.0
+    },
+    "cluster1": {
+      "title": "Education Lecture on Graph Searcch: A Short, Human-Friendly Title",
+      "start": 9.0,
+      "end": 39.0
+    },
+    "cluster6": {
+      "title": "Their Friends and So on, Let's Connect!",
+      "start": 62.0,
+      "end": 82.0
+    },
+    "cluster8": {
+      "title": "Exploring Social Vertices in a Specific Order for Linear Time",
+      "start": 39.0,
+      "end": 2177.0
+    },
+    "cluster9": {
+      "title": "The Path to Exploiting All Neighbors of a Node in a Graph with DFS or BFS",
+      "start": 377.0,
+      "end": 969.0
+    },
+    "cluster12": {
+      "title": "Short, human-friendly title for the transcript segment: \"Get Amp and The Next Stage Would Be to Get Amp and The Next Stage Would Be to List Out All Neighbors of Followed List Out All Neighbors of Followed List Out All Neighbors of Followed By All Neighbors of To Do That In By All Neighbors of To Do That In By All Neighbors of To Do That In This Case the Neighbors of That Is This Case the Neighbors of That Is This Case the Neighbors of That Is So We Will Not List Out The Already Neighbors of That That Is This Case the Neighbors of That That Is This Case the Neighbors of That That Is So We Will Not List Out The Already Neighbors of That That Is This Case the Neighbors of That That Is This Case the Neighbors of That That Is So We Will Not List Out The Already Neighbors of That That Is This Case the Neighbors of That That Is This Case the Neighbors of That That Is So We Will Not List Out The Already Neighb",
+      "start": 290.0,
+      "end": 960.0
+    },
+    "cluster20": {
+      "title": "\"Friend of Her and Keep on Doing That Friend of Her and Keep On Doing That Sequence of Friends Then You Will Get Sequence of Friends Then You Will Get the Neighborhood Sequence of Friends Then You Will Get What Is Called as DFS, Okay the Commonly Has a Chain of Other Order and That Has a Chain of Other Choices That May Not Be Fully Determined Choices That May Not Be Fully Determined, Same Applies in DFS Which Approximates Both BFS or DFS but Whether or DFS, But Whether or Not DFS, But Whether Color, and the Parent Instead of Using a Color and the Parent instead of Using a Q We Could Implement DFS Algorithm Using Q, We Will See a Recursive Version, Stack, We Will See a Recursive Version of the DFS Algorithm Where and We Will of the DFS Algorithm Where and We Will Not Have to Maintain a Stack that Recursion Would Essentially Stack That Recursion Would Essentially Keep Track of This Stack So DFS Keep Track of This Stack So DFS Keep Track of This Stack, DFS Keep Track of This Stack, DFS Keep Track of",
+      "start": 138.0,
+      "end": 2193.0
+    },
+    "cluster21": {
+      "title": "To generate a short, human-friendly title for the following transcript segment of an educational lecture, keep it within 10 words maximum and use \"to as breadthfirst seaRCSHEAPY techniques.\"",
+      "start": 130.0,
+      "end": 1547.0
+    },
+    "cluster22": {
+      "title": "Transcript: \"With respect to a vertex, finishing the processing of that vertex will finish the processing of that particular vertex and there'll be that particular vertex and there'll be its predecessor vertex, and it's reached vertex u, so that's the way it works. The algorithm will push these vertices into a queue, as the process progresses, and after processing all the vertices, the scan is done, and we can assume that the initial graph has been found and initialized with an empty queue.\"",
+      "start": 588.0,
+      "end": 1339.0
+    },
+    "cluster29": {
+      "title": "A Comprehensive Guide to Listing Sites for Your Ecommerce Business: The Ultimate Checklist!",
+      "start": 199.0,
+      "end": 207.0
+    },
+    "cluster30": {
+      "title": "Transcript: \"Eh, we could go to seven and from seven we could go to five and after that we see and after we have reached five we're seeing all its neighbors are essentially that all of them are essentially that all of them are basically the same shade of gray. After that we see and after we have reached five we see that all its neighboring neighbors are basically being taken care of, so we go back to the node from where we came to seven, which is seventh, and then we visit all the neighboring neighbors, all of them being essentially white, except for a few. So we look at these neighbors seven, eight, nine, ten, eleven, fifteen, sixteen, eighteen, twenty, twenty-one, and finally reach the node from there.\"",
+      "start": 443.0,
+      "end": 2138.0
+    },
+    "cluster45": {
+      "title": "Humorous Tale of the Drinking Game",
+      "start": 345.0,
+      "end": 351.0
+    },
+    "cluster52": {
+      "title": "Transcript: \"In this transcript, if every vertex has already been explored with its color white, gray, or black, then the other colors (i.e., gray, black, and gray) are also gray, while the vertex itself is still under it.\"",
+      "start": 562.0,
+      "end": 1691.0
+    },
+    "cluster53": {
+      "title": "Transcript: \"Searches what we will do is the sea of colors associated with us. We will have colors associated with each vertex in the sea of colors are to indicate that a vertex has been visited, and these colors are to indicate whether a vertex has been visited. The color of every vertex initially is white for the dot color will initially be white for the dot color will initially be white for each vertex, so this is the start state for every vertex, and the color of every vertex initially is white. We have an initialization phase where in for an initialization phase where in for an initialization phase where in for every vertex we set its color to white that means and the start you wrote color is equal to gray, and its parent's dot predecessor this we will parent this we will parent this we will set it to v because v was the vertex this we will set it to v because v was the vertex that we visited v because v was the vertex from which we visited v changes it becomes gray of that vertex changes it becomes gray of that vertex changes it becomes gray so one is now a gray vortex and we will. So we will have an initialization phase where in for an initialization phase where in for an initialization phase where in for every vertex we set",
+      "start": 509.0,
+      "end": 1606.0
+    },
+    "cluster65": {
+      "title": "Algorithm Italy: A Quick Overview of Its Implementation and Sea of Trees Approach",
+      "start": 497.0,
+      "end": 509.0
+    },
+    "cluster92": {
+      "title": "Start Vertex, Let Us Color Red, Start Vertex, Let Us Color Red - This is Just to Indicate That It Is a Starting Vertex So That Will Be the Colors, Start Vertex, Let Us Color Red - This Is Just to Indicate That It Is a Starting Vertex So That Will Be the Colors, Start Vertex, Let Us Color Red - This Is Just to Indicate That It Is a Starting Vertex So That Will Be the Colors, Start Vertex, Let Us Color Red - This Is Just to Indicate That It Is a Starting Vertex So That Will Be the Colors",
+      "start": 266.0,
+      "end": 544.0
+    },
+    "cluster118": {
+      "title": "Look at This More Formally, Let's Just Look at It, Lets Just Look At a Little More, Look at a Complicated Example",
+      "start": 221.0,
+      "end": 230.0
+    },
+    "cluster119": {
+      "title": "Using Artificial Intelligence to Compare and Sort Sequences: A Formal Exploration of Different Ordering Functions",
+      "start": 207.0,
+      "end": 221.0
+    },
+    "cluster122": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"From Vertex One to Vertex Lets Say Go From Vertex One To Vertex Lets Say Three And Then From Three To Four Or Six, And From Four To Six Or Seven\"",
+      "start": 404.0,
+      "end": 443.0
+    },
+    "cluster138": {
+      "title": "A Simple and Effective Algorithm for Graphs: The Essentially the Same AlgoRithm Would Work but for Simple If Algorithm Would Work But for Simple If Algorithm Would Work But for Simple If We Simply Just to Keep Keep Things We Simply Just to Keep Keep Things Simple We Will Just Look at a Undirected Graph",
+      "start": 712.0,
+      "end": 721.0
+    },
+    "cluster161": {
+      "title": "A Striking Visualization of an Interconnected Ecosystem",
+      "start": 1488.0,
+      "end": 1498.0
+    }
+  },
+  "216.json": {
+    "cluster-1": {
+      "title": "Music, Music, You, in this Lecture We Will Learn About Flow!  Transcript: \"Music Music, You, in this Lecture We Will Learn About Flow! Let us formalize what are flow networks so flow networks have two networks as components first is a directed graph with two connected nodes numbered one and two there are some directed edges between the two connected nodes one and two there are some directed edges between the two connected nodes one and two we will call them as outgoing edges because they go from node one to node two then they go back to node one and second is a capacity on the edges second is a capacity on the edges second is a designated vertex destination this designated vertex is the edge which goes from node two to node three this designated vertex is the edge which goes from node two to node three we will refer to these as souces and destinations okay so let us see an example of such a network so this network has six vertices numbered one two three four five six with some numbered one one to two three four five six with some numbered one one to two three four five six with some numbered one one to two three four five six with some numbered one one to two three four five six",
+      "start": 9.0,
+      "end": 3062.0
+    },
+    "cluster17": {
+      "title": "Understanding Negative and Positive Consequences of Different Edges in a Graph",
+      "start": 1471.0,
+      "end": 1506.0
+    },
+    "cluster29": {
+      "title": "A Brief Introduction to the Science of Space Exploration, Part 1",
+      "start": 1859.0,
+      "end": 1874.0
+    },
+    "cluster38": {
+      "title": "Summations over all edge e summations over all edge e out of you, f, e, and similarly we can out of you f, e, and similarly we can define f in of u and similarly we can out of you f, e, and similarly we can define f in of u, summing up over these e into u, f defining f in of u and writing this as summation over all v belonging to a f out v minus f, in v, or being equal to this quantity we belonging to a f out v minus summation v belonging to a f out v minus summation v belonging to a f in v",
+      "start": 805.0,
+      "end": 1559.0
+    },
+    "cluster44": {
+      "title": "Summation E Out of C and Minus Some Summation E Out of C E and Minus Other Quantity So We Will Just Ignore Other Quantity So We Will Just Ignore That Quantity Because We Are Interested in That Quantity",
+      "start": 1643.0,
+      "end": 1646.0
+    },
+    "cluster45": {
+      "title": "A Short, Human-Friendly Title for a Transcript Segment Describing a Scientific Discovery or Concept Extension Using the Natural Fascination Method",
+      "start": 908.0,
+      "end": 919.0
+    },
+    "cluster136": {
+      "title": "Why the Cut Call Is Not Consistent with the Graph Flows, and What It Means for Learning AI Systems",
+      "start": 1008.0,
+      "end": 2972.0
+    },
+    "cluster141": {
+      "title": "The Vertex Containment Segment of an Educational Lecture - Which Only Includes the Vertex S and Does Not Include Any Collection of Vertices, But Is Guaranteed to Be a Part of the Other Vertex S and Not Contain it",
+      "start": 994.0,
+      "end": 1373.0
+    },
+    "cluster145": {
+      "title": "Number of Edges the Edges I Have Given a Direction, So Were an Edge, It a Direction So Was An Edge, Not an Edge In This Considered So a To A Edges What Happens to Those Edges for Them FE Is Counted to Those Edges for Them FE Is Counted to Those Edges for Them FE Is Counted Once as Positive and Once as Negative Once as Positive and Once as Negative Once as Positive and Once as Negative, Okay So If You Look at This Entire",
+      "start": 145.0,
+      "end": 1453.0
+    },
+    "cluster153": {
+      "title": "Transcript: \"Sources and Destination: How Equal Are We to Outflow? - AI Transcript\"  Source and Destination: Okay, we'll define what these terms are. I have one unit flowing, so from one to two, and this is also one, so from one to two, and this is also one, so from one to two, and this is also one, so all my flows are of unit because one unit is going out okay, so this good one unit is going out okay, so this good one unit is going out okay, so this is a network where the flow is bounded by numbers. So let's indicate it by numbers okay, so let's indicate it by numbers okay, so let's say if I had sent three units through just like if I had sent three units through and four units through and I would have gotten a better previous two but I couldn't send any additional flow without affecting the already existing without affecting the already existing without affecting the already existing flow okay, so clearly we could find anything possible can't find anything significantly better than this okay in without violating any of the conditions without violating any of the conditions okay, but once we",
+      "start": 458.0,
+      "end": 2343.0
+    },
+    "cluster156": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"Routeable and Saturasated, There's Only One Back Edge That Remains as a Single Back Edge, Which Is to Edge of Size and Saturasated\"",
+      "start": 1942.0,
+      "end": 2858.0
+    },
+    "cluster159": {
+      "title": "Transcript: [Audio of AI assistant giving an educational lecture]  Speaker: That we can still use \"ok so this is the residual graph,\" etc. Here's the short, human-friendly title: \"that we can still use ok so this if we call as the residual graph.\"",
+      "start": 1983.0,
+      "end": 3043.0
+    },
+    "cluster160": {
+      "title": "Transcript: \"The concept of residual graphs, it will look something like this. The capacity of this edges completely refers to if you're in the forward direction so there's a unit in the backward direction and unit in the backward direction and unit in the backward direction and there's a residual capacity of that there is a residual capacity of that there's a residual capacity of that can be used and here there is an is still a residual capacity of and is still a residual capacity of and to we had missed one particular edge, to we had missed one particular edge, to we had missed one particular edge namely from to from to. There's no residual capacity, only thing that remains is a back edge of capacity will remain is a back edge of capacity will remain is a back edge of capacity and there'll be units also sataraated, you will get units also sataraated, you will get units also sataraated, you'll get units okay now if you look at this residual graph, g f doubleprime we will see that the flow from here to here is equal to f e whatever was the value of the flow, and here, there's no flow from here",
+      "start": 1906.0,
+      "end": 2959.0
+    },
+    "cluster163": {
+      "title": "Titulo: \"Esta es una presentación de una conferencia sobre la capacidad de las redes neuronales y su aplicación en el diseño de sistemas computacionales.\"",
+      "start": 98.0,
+      "end": 2944.0
+    },
+    "cluster166": {
+      "title": "A Brief Overview of Cancellation Theory in Physical Sciences",
+      "start": 1460.0,
+      "end": 1465.0
+    },
+    "cluster167": {
+      "title": "Human-friendly title for the transcript segment mentioned above: \"Directed Graphs: First Is Directed, G, E, B Set, Vertex Set, and Edge Set Based on Comma Separation\"",
+      "start": 48.0,
+      "end": 55.0
+    },
+    "cluster168": {
+      "title": "B is a set of vertices, and e is a set of edges. The directed edges between the vertices are represented by the function that describes this directed graph. The edge set contains three types of edges (three-way edges), one for each direction. This graph can be represented in a diagram with two edges from each direction, which means that we have a small trouble in this particular diagram as there are no such three-way edges.",
+      "start": 55.0,
+      "end": 1533.0
+    },
+    "cluster169": {
+      "title": "Transcript: \"\"\"all the edges that involve the edge all the edges that involve the edge vertex s are outgoing edges so here this vertex s are outgoing edges so here this vertex s are outgoing edges so here this there will be a small trouble in this there will be a small trouble in this are outgoing edges at the destination are outgoing edges at the destination all the edges are incoming edges and at all the edges are incoming edges and at all the edges are incoming edges and at the internal nodes that is the knowns the internal nodes that is the knowns every edge now look at all the edges at every edge now look at all the edges at s all the edges are outgoing at this if s all the edges are outgoing at this if s all the edges are outgoing at this if you sum up the flows of all of them what additional quantities so f is defined additional quantities so f is defined for each individual edge we will define for each individual edge we will define for each individual edge we will define for each individual edge we will define f out at a particular vertex let us say f out at a particular vertex let us say define f in of u is summation e into u f of e okay so if you have a particular of e",
+      "start": 215.0,
+      "end": 1527.0
+    },
+    "cluster172": {
+      "title": "\"Vertex U and there are incoming edges, each carrying a flow, so edges and each of them carry a flow, so edges and each of them carry a flow, so let's say this is F e - F e and let's say this is F e - F e and let's say this is F e - F e and edges so let's say F e e versus Ig AMP E the flow on the edge G that is Fe AM P E the flow on the edge G that is Fe AM P E the flow on the edge G that is Fe and sum up over all those outgoing, sum up over all those outgoing edges they are flows what you get is F edges they are flows what you get is F edges they are flows what you get is F out of U and therefore we can say that out of U and therefore we can say that out and F in for a collection of out and F in for a collection of vertices so F out of a is a sum over the vertices so F out of a is a sum over the vertex so F out of a is a sum over the flow over every edge that leaves a and F flow over every edge that leaves a and F flow over every edge that leaves a and F",
+      "start": 835.0,
+      "end": 2097.0
+    },
+    "cluster175": {
+      "title": "T title: \"Direction of the H It Goes From U to V, Direction of the H It Goes From U To V And Not V To U And The Second Component And Not V To U And The Second Component And Not V To U And The Second Component Of A Flow Network Is A Capacity On Edges\"",
+      "start": 72.0,
+      "end": 1314.0
+    },
+    "cluster176": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture on fluid dynamics: \"Additional assumptions and conditions for finding a better than this.\"",
+      "start": 322.0,
+      "end": 2462.0
+    },
+    "cluster177": {
+      "title": "\"Capacity Okay! So see of the edge is going to be the interpretation that we're going to be the interpretation that we're going to be the interpretation that we are going to give to those is we can think of this as pipes which can carry a certain amount of fluid, and the maximum amount of and the amount the maximum amount of and the amount the maximum amount of fluid that it can carry is bounded by the capacity of the edge, and the problem we're interested in solving is that we are interested in solving it's what is the maximum amount of flow that can be taken from source to destination, we can take from source to destination, we can take from source to destination, so there are additional assumptions that need to be met, which we will formalize and characterize what a flow is. The flow we will denote as f and the amount of flow and this should satisfy the capacity condition, the first condition is for some conditions, the first condition is that the capacity condition that the capacity condition that the capacity condition that the capacity condition that the capacity condition that the capacity condition that the capacity criterion that the capacity criterion that the capacity criterion the capacity criterion that the capacity criterion that the capacity criterion the capacity criter",
+      "start": 286.0,
+      "end": 3024.0
+    },
+    "cluster178": {
+      "title": "Sure, here's a short and human-friendly title for the transcript segment of an educational lecture on the conservation law and its application in flow analysis: \"Out of U & Therefore We Can Say That Value of Flow Is Simply F Out of Value of Flow Is Now Simply F Out of V Because S Was Our Starting Vertex, and Therefore We Can Verify That Value of Flow is Also Equal to Value of a Set Which Contains the Vertex S and Doesn't Include T, that Contains s But Doesn't Include t, That Will Also Be the Value of Flow Okay Will Also Be the Value of Flow Okay Will Also Be the Value of Flow Okay So We Can See Why That Is True Since F Is a Flow If You Take This That's the Conservation Law Says Let's See Why That Is True Since F Is a Flow If You Take This Let's See Why That Is True Since F Is a Flow If You Take This",
+      "start": 871.0,
+      "end": 2880.0
+    },
+    "cluster179": {
+      "title": "Transcript: \"How do we define the value of a flow of higher values than seven? We haven't yet defined it, but we know that the value of any flow is going to be equal to the sum of its inputs. Therefore, for this transcript segment, we can say that the value of the flow is equal to the summation of its inputs.\"",
+      "start": 668.0,
+      "end": 2822.0
+    }
+  },
+  "217.json": {
+    "cluster-1": {
+      "title": "Satisfy Two Conditions: The First Should Satisfy Two Conditions, the First Condition Being T, Should Be Connected and the Second Condition Is T, Should Be Slightly Free (Okay So It's Basically a Vertices, We Represent By K And If We Number The Vertexes, This Will Be The Three Vertices This Would Be The Three Vertices This Would Be The Three Vertices This Would Be The Complete Graph On Three Vertices Which Complete Graph On Three Vertices Which Complete Graph On Three Vertices Which We Represent By K And If We Number The Vertexes So Let's Say If You Had Taken Vertexes So Let's Say If You Had Taken Three Vertexes This Would Give You A Spanning Tree, This That Will Give You A Spanning Tree, This That Will Give You A Spanning Tree And So All Those Four Choices Would Give and So All Those Four Choices Would Give You Valid Spanning Trees So There Are That We Will Get If We Choose To Add The Vertex If We Insist On Having The Edge If We Insist On Having The Edge If We Insist On Having The Edge If We Insist On Having The Edge You Could Add",
+      "start": 63.0,
+      "end": 1745.0
+    },
+    "cluster1": {
+      "title": "Music Music, You, Music - Understanding the Complete Graph",
+      "start": 9.0,
+      "end": 35.0
+    },
+    "cluster4": {
+      "title": "A Comprehensive Overview of the Mathematical Properties of the Fibonacci Sequence Through Multiple Examples",
+      "start": 1444.0,
+      "end": 1452.0
+    },
+    "cluster17": {
+      "title": "Humorously Short, Handsome and Easy to Remember Title for the Transcript Segment of a Mathematical Lecture",
+      "start": 443.0,
+      "end": 450.0
+    },
+    "cluster45": {
+      "title": "Short, human-friendly title for the transcript segment mentioned in the given text material: \"Two Sets: Counting Elements and Matching Isomorpisms\"",
+      "start": 469.0,
+      "end": 630.0
+    },
+    "cluster50": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"Exploring and Understanding Set Theory - Part 2: The Bijection Between Sets and LISTS of Size N\"",
+      "start": 563.0,
+      "end": 1444.0
+    },
+    "cluster56": {
+      "title": "Transcript: \"Will repeatedly do this iterative step for n minus steps, what we do is pick for n minus steps, what we do is pick for n minus steps, what we do is pick the least valued leaf node so you've got the least valued leaf node so you've got the least valued leaf node so you've given a tree so the tree must surely given a tree so the tree must surely given a tree so the tree must surely have some leaf nodes amongst the leaf have some leaf nodes amongst the leaf have some leaf nodes amongst the leaf node find the smallest value dilip node node find the smallest value dilip node node find the smallest value dilip node delete that particular edge and output the neighbor of the deleted and output the neighbor of the deleted node okay since it's a leaf node its node okay since it's a leaf node its node okay since it's a leaf node its neighbor is unique it's precisely one neighbor is unique it's precisely one neighbor is unique it's precisely one neighbor so that neighbor we will output and we repeatedly do this for n minus valued leaf node is pick that is unique valued leaf node is pick that is unique and its neighbor is also unique and and its",
+      "start": 781.0,
+      "end": 1703.0
+    },
+    "cluster60": {
+      "title": "Transcript: \"So, you can say for n equals two: The values one for n equals three. Let's see these values of one for n equals four, imagine that trying to do time-consuming if we were trying to do it at once, try to do the same thing for n equals three, let's see these values of one for n equals three, let's see these values of one for n equals three, let's see what will be the number when n is equal? It proves that when n is equal, there are two possible elements: It shows that if we were trying to do time-consuming at once, we have to choose two elements and then consider all possible lists of these and the length of these lists is n minus the length of these lists. The first element is chosen randomly in first element of course can be chosen randomly in first element of course can be chosen in first element of course can be chosen in second element, and we have to choose two elements and then consider all possible lists of these and the length of these lists is n minus the length of these lists. The second element is also chosen in second element, and we multiply both possibilities and the total number of ways of having these lists clearly",
+      "start": 186.0,
+      "end": 1761.0
+    },
+    "cluster65": {
+      "title": "AI Assistant: \"Transcript of a Lecture on Algorithmic Formalism, Part 1 - Iterative Steps and Repeating Processes\"",
+      "start": 772.0,
+      "end": 781.0
+    },
+    "cluster66": {
+      "title": "Easily Nested Elements in a Set",
+      "start": 697.0,
+      "end": 705.0
+    },
+    "cluster69": {
+      "title": "Amazingly, we can solve this problem by using an interesting technique and an interesting technique to produce a unique isomorphic mapping for every element in the given set and another set.",
+      "start": 458.0,
+      "end": 514.0
+    },
+    "cluster121": {
+      "title": "Removing Edges So There Will Be a Point at Which Any Node Its Degree Will Continue to Decrease, and There Will Be a Keep on Decreasing...,",
+      "start": 1153.0,
+      "end": 1159.0
+    },
+    "cluster132": {
+      "title": "Short, human-friendly title for the transcript segment described above: \"Them so one would be of this kind where them so one would be of this kind where so all the spanning trees of Kfor, so all the spanning trees of Kfor, are precisely three edges, and there is a missing edge here and there, and if there are four trees of this kind and you include the diagonal, then those four are without including diagonal, while four are without including diagonal, and these include only one diagonal, which is diagonal included only one diagonal, diagonals included only one diagonal, and these include only two diagonal.\"",
+      "start": 216.0,
+      "end": 349.0
+    },
+    "cluster135": {
+      "title": "\"Complete Graph So Let Us Understand What This Means, So We Have Talked About This Meaning So We Have Talked About This Meaning So We Have Talked About Spanning Trees Before So Suppose G Is A Spanning Tree Before So Suppose G Is A Spanning Tree Before So Suppose G Is A Graph Spanning Tree T Of Number Of Edges Required So Let Us Say If We Had Taken W And If We Number The Vectors As This Graph Has Many Vertices As This Graph Has Many Vertices As This Graph Has Many Spanning Trees In Particular If We Just Spanning Trees In Particular If We Just Spanning Trees In Particular If We Just Try To Draw Every Spanning Tree Of This Try To Draw Every Spanning Tree Of This Try To Draw Every Spanning Tree Of This Graph Will Have Exactly Two Edges So Graph Will Have Exactly Two Edges So Graph Will Have Exactly Two Edges So Is One Possibility So This Is T Is One Possibility So This Is T Is One Possibility So This Is T Will Be The Second Spanning Tree Will Be The Second Spanning Tree Will Be The Second Spanning Tree And That Is Yet Another Spanning Tree And",
+      "start": 35.0,
+      "end": 1726.0
+    },
+    "cluster139": {
+      "title": "Transcript: \"Graph on n vertices and we will do it why are a method known as proof or why are a method known as proof or why are a method known as proof or coding so you can look at these numbers coding so you can look at these numbers coding so you can detect a pattern",
+      "start": 379.0,
+      "end": 1754.0
+    },
+    "cluster143": {
+      "title": "Explanation for Transcript: The transcript \"sequence what we will need to show is that every sequence will be generated by that every sequence will be generated by that every sequence will be generated by precisely one tree when we look at this precisely one tree when we look at this precisely one tree when we look at this encoding\" can be explained as follows:  1. \"Show\" means provide an explanation for the given material, in this case a lecture. 2. \"Sequence what we will need to show is that every sequence will be generated by that...\" means we have to present evidence of how and why every sequence must be generated by precisely one tree. 3. \"...We can see that if you are...\" or \"If you look at...\" means we've shown the audience a given example or set of examples, which gives us evidence for our argument. 4. \"When we look at this...\" or \"When we look at this...\" means we have presented data or evidence in support of the idea that every sequence must be generated by precisely one tree. 5. \"And we will argue...\" or \"We will argue...\" means we have demonstrated our argument, and now it's up to the audience to decide if they agree or",
+      "start": 738.0,
+      "end": 1732.0
+    },
+    "cluster145": {
+      "title": "Humans-Friendly Title for Transcript: \"An Educational Lecture on the Geometry of Squares with Three Edges\"",
+      "start": 223.0,
+      "end": 232.0
+    },
+    "cluster146": {
+      "title": "Connected to a Now: A Look at Sets, Size, and Removing Elements",
+      "start": 1605.0,
+      "end": 1616.0
+    },
+    "cluster158": {
+      "title": "Short, HUMAN-FRIENDLY Title for Educational Lecture on Trees and Kn Kn Is Equal to n Raise to n: Trees for k = n raise to k trees for k = n raise to k minus so let us assume that the vertices are from a set s",
+      "start": 1328.0,
+      "end": 1354.0
+    },
+    "cluster161": {
+      "title": "An Educational Lecture on the Properties and Applications of an AI-Based Tree Visualization Tool",
+      "start": 88.0,
+      "end": 1712.0
+    },
+    "cluster165": {
+      "title": "Say That It's the Vertex: A Minimal Graph in the Sense of Edge Requirements",
+      "start": 96.0,
+      "end": 105.0
+    },
+    "cluster166": {
+      "title": "A Short, Human-Friendly Title for a Transcript Segment of an Educational Lecture: \"Including Two Diagonal Edges: A Case Study on Adding Three Other Edges\"",
+      "start": 258.0,
+      "end": 271.0
+    }
+  },
+  "218.json": {
+    "cluster-1": {
+      "title": "Transcript: \"then the successor of is which is then the successor of is which and the set containing just remember amp the set containing just remember amp the set containing just remember amp and the successor of is which and the successor of is which and the successor of is which contains just for members in contains just for members in contains just for members in general the natural number n can be closed under the successor operator, then the successor operator on set a gives us the successor operator on set a gives us the successor operator on set a gives us the smallest inductive sets in themselves and so on so by necessity because it is an inductive set in itself and so on so by necessity because it should be close to n to the successor should be close to n to the successor should be close to n to the successor operator it should convene all these operator it should convene all these number is now a set and then we define number is now a set and then we define operate operations on natural numbers as operate operations on natural numbers as operate operations on natural numbers as set theoretic operations for example, set theoretic operations for example, set theoretic operations for example, set theoretical operations for example, addition on natural numbers is defined product n cross n where n is a set of product",
+      "start": 77.0,
+      "end": 1574.0
+    },
+    "cluster2": {
+      "title": "A Human-Friendly Title for a Transcript Segment of an Educational Lecture on Mathematics: Welcome to the NPTE Mooc | Music! Discursive Math",
+      "start": 21.0,
+      "end": 36.0
+    },
+    "cluster4": {
+      "title": "Proper Subset of a Set That Is Specifically Properly Defined through Less than Relation Based on Specific Input Data",
+      "start": 1237.0,
+      "end": 1242.0
+    },
+    "cluster16": {
+      "title": "Transcript: \"That is n so n will be the digit in the tenth place, and so on, so you can construct the decimal representation of the real number with its nth fraction.\"",
+      "start": 879.0,
+      "end": 1203.0
+    },
+    "cluster27": {
+      "title": "The Numbers of Our Knowledge of Real and Irrational Numbers That Are Not Rational or Real Numbers That Are Not Real Numbers That Are Not Irrational or Irrational in Particular Root Is Irrational, So We Will Be Able to Obtain a Solution Based on the Set of Irrational Numbers",
+      "start": 389.0,
+      "end": 725.0
+    },
+    "cluster28": {
+      "title": "\"Need Is That Every Real Number Should Be a Set of Rational Numbers That Are Not the Empty Set or Dead Again Cuts\"  Description: The title is brief, catchy and easy to remember. It summarizes the entire educational lecture in one sentence.",
+      "start": 576.0,
+      "end": 958.0
+    },
+    "cluster31": {
+      "title": "Transcript: \"The Root Is a By B if Root Is a by B Root Is a by B if Root Is a by B then Root B is a squaring both sides then Root B is a squaring both sides then Root B is a squaring both sides we have B squared equal to esquire so we have B squared equal to esquire so we have B squared equal to esquire so a squared is a square that is what we a squared is a square that is what we a squared is a square that is what we have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left have on the right hand side on the left squared which is hand side we have B squared which is hand side we have B squared which is hand side",
+      "start": 453.0,
+      "end": 532.0
+    },
+    "cluster35": {
+      "title": "Human-friendly title for segment of an educational lecture on the common factor or that gcd of a and b is common factor or that gcd of a and b is if root is a rational number, then so if root is a rational number, so if root is a rational number, there exists a and b so that root is a",
+      "start": 440.0,
+      "end": 553.0
+    },
+    "cluster45": {
+      "title": "Transcript: \"That's the members of S can be counted using natural numbers so you can count using natural numbers to say this is the zero-th member, this could say this is the zero-th member, this could say this is the zero-th member, this is the first members of the second a real number if and only if r is a subset of S then ours in addiction card subset of S so ours in addiction card subset of S so ours in addiction card here which is a set and s is also an subset of S so ours in addiction card subset of S so ours in addiction card here which is a set and s is also an subset of S so ours in addiction card subset of S so ours in addiction card here which is a subset of S that is precisely can just enumerate the members of the can join in the members of the set for example the set to set for example the set to has members we can explicitly list the has members we can explicitly list the has members we can explicitly list the has members we can explicitly list the members and enclose them within the members and enclose them within the members and enclose them within the braces and this is one",
+      "start": 352.0,
+      "end": 1358.0
+    },
+    "cluster48": {
+      "title": "Short, human-friendly title for educational lecture about the successor of the empty defined as the successor of the empty set: \"The Empty Set and Its Subsets: A Comprehensive Analysis\"",
+      "start": 50.0,
+      "end": 77.0
+    },
+    "cluster49": {
+      "title": "A Brief Overview of the Set-Membership Paradox in Logic and Its Application to Paradoxes",
+      "start": 1366.0,
+      "end": 1549.0
+    },
+    "cluster59": {
+      "title": "Defining a Product for Nonnegative Real Numbers, Conjunctions, and Absolute Values Using Relative Pronunciation",
+      "start": 1270.0,
+      "end": 1309.0
+    },
+    "cluster60": {
+      "title": "A brief overview of the lecture on counting to one hundred.",
+      "start": 870.0,
+      "end": 879.0
+    },
+    "cluster68": {
+      "title": "Human-Friendly Title for the Transcript Segment: \"Contradiction in Common Factor Identification\"",
+      "start": 537.0,
+      "end": 543.0
+    },
+    "cluster82": {
+      "title": "Transcript: ``` The set of all natural numbers is countable, which means there are an infinite number of members. In particular, the set of all rational numbers is not countable, as it contains some real numbers that are not rational. Therefore, this notion of \"countability\" extends to sets of more general kind, such as real numbers or integers.",
+      "start": 346.0,
+      "end": 1222.0
+    },
+    "cluster85": {
+      "title": "Short, human-friendly title for transcript segment: \"Numbers in Set Theory: Inductive Sets as Induced by the Empty Set\"",
+      "start": 43.0,
+      "end": 154.0
+    },
+    "cluster87": {
+      "title": "Natural Numbers and Their Addition Using Recursion and Products",
+      "start": 161.0,
+      "end": 204.0
+    },
+    "cluster90": {
+      "title": "A human-friendly title for the transcript segment \"on set theory in the previous lecture,\" according to the given text, would be \"Embedding theories of have seen how to embed the theories of have seen how to embed the theories of natural numbers integers in rational natural numbers integers in rational natural numbers integers in rational numbers in set theory.\"",
+      "start": 36.0,
+      "end": 576.0
+    },
+    "cluster91": {
+      "title": "Transcript: \"The set of integers should equal the set of integers minus the set of equivalent classes, under this set of operations. The set of integers should be defined as such and then the set of integers should be defined as such, with equivalent classes being translated into operations on sets. The operations on such equivalence classes should be defined as such, and along with these operations, we define plus, in which all rational numbers are considered.\"",
+      "start": 233.0,
+      "end": 1325.0
+    },
+    "cluster97": {
+      "title": "Short, HUMAN-FRIENDLY Title for the Transcript Segment \"Defined using Set Membership Notion\": Defining Using Set Membership Notion",
+      "start": 1516.0,
+      "end": 1555.0
+    },
+    "cluster98": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"Defining Finite Alphabets and How to Calculate the Number of Possible String Constructions with at Most Hundured Characters Using Finite Alphabet\"",
+      "start": 1388.0,
+      "end": 1440.0
+    },
+    "cluster103": {
+      "title": "A Certainly Primer: A Brief Guide to Prime Numbers and Their Properties",
+      "start": 1085.0,
+      "end": 1092.0
+    },
+    "cluster107": {
+      "title": "An Existential Paradigm of Boundary Reversal in the Context of Human Subjectivity",
+      "start": 1524.0,
+      "end": 1539.0
+    },
+    "cluster123": {
+      "title": "A Comprehensive Guide to the Relation \"Joint Ordered Pair\" in Mathematics",
+      "start": 283.0,
+      "end": 289.0
+    },
+    "cluster132": {
+      "title": "A Mathematical Perspective on the Properties and Applications of Diagonal Difference Sequences",
+      "start": 378.0,
+      "end": 382.0
+    }
+  },
+  "219.json": {
+    "cluster-1": {
+      "title": "Sure, here's another short, human-friendly title for the transcript segment of an educational lecture:  Transcript: \"\"\"Natural numbers are a set - We define the set of natural numbers as the set containing all integers from 1 to infinity. A set is a collection of elements with their own properties (such as size, membership). In this case, we have defined the set of natural numbers as the one-to-one mapping from integers to natural numbers.\"\"\"",
+      "start": 37.0,
+      "end": 2777.0
+    },
+    "cluster2": {
+      "title": "Mathematics and Set Theory",
+      "start": 21.0,
+      "end": 37.0
+    },
+    "cluster15": {
+      "title": "Augmented Reality (AR) Guidebook for Real Estate Agents: How to Create an Effective Marketing Strategy for Your Listing",
+      "start": 1250.0,
+      "end": 1470.0
+    },
+    "cluster24": {
+      "title": "Sure, here's a short and human-friendly title for this transcript segment: \"naive set theory will not arise within thermal or angles, a theory now let us thermal or angles a theory now let us thermal or angles a theory now let us consider the notion of equinuermous it we say that set a is equinumerous with set b denoted in this fashion set a is akin power left not this conjecture was power left not this conjecture was called the continuum hypothesis in yodel showed that the continuum hypothesis cannot be disproved from the hypothesis cannot be disproved from the hypothesis cannot be disproved from the similar angle axioms of set theory similar angle axioms of set theory similar angle axioms of set theory ural showed that continuum hypothesis ural showed that continuum hypothesis ural showed that continuum hypothesis cannot be disproved from the axiomss of cannot be disproved from the axiomss of cannot be disproved from the axiomss of set theory in other words, the set theory cannot be proved either so the statement that is continuum so the statement that is continuum hypothesis that is there is no set with hypothesis that is there is no set",
+      "start": 1129.0,
+      "end": 2783.0
+    },
+    "cluster49": {
+      "title": "A Brief Exploration of the Boundary between Sets and Paradaxes in the Context of Naive Set Theory",
+      "start": 1096.0,
+      "end": 1129.0
+    },
+    "cluster69": {
+      "title": "Identifying Dominant Indices with Direct One-To-One Mapping",
+      "start": 1166.0,
+      "end": 2418.0
+    },
+    "cluster70": {
+      "title": "The Relation Between Let's Say From A to B, and Its Subset in the Cross of A and B",
+      "start": 741.0,
+      "end": 759.0
+    },
+    "cluster72": {
+      "title": "Short, human-friendly title: \"A Look at the Zehmelo Frankel: A Peek at the Extensionality Axiom\"",
+      "start": 55.0,
+      "end": 244.0
+    },
+    "cluster85": {
+      "title": "Humans-Friendly Title for Lecture on Definition of Natural Number in Set Theory: \"Defining Natural Number Two in the Embedding of Natural Numbers in the Set of Natural Numbers, the Theory of Natural Numbers in Set Theory, and the Definition of Natural Number Two\"",
+      "start": 1509.0,
+      "end": 1524.0
+    },
+    "cluster96": {
+      "title": "Using Matching Letters, K, and L with Cardinalities Kappa, Lambda, and Launchpad, Copicpe, Lambda, and the Number of k Union L, Kapa, Power Launchpad, its Cardinal Number of k Cross L and Kapa into Launchpad, its Cardinal Number of k Cross L, Launchpad, Kapa, and the Cardinality of the Set of All Functions from Number of the Set of All Functions from Number of the Set of All Functions from L to K when K and L are Finite Launchpad, the way we Expect",
+      "start": 2280.0,
+      "end": 2365.0
+    },
+    "cluster97": {
+      "title": "\"And only if they are equal formally for all x for all y for all z z belongs to x all x for all y for all z z belongs to x all x for all y for all z z belongs to x if and only if z belongs to y implies if and only if z belongs to y implies if and only if z belongs to y implies that x equal y for any two sets x and y that x equal y for any two sets x and y that x equal y for any two sets x and y that x equal y for any two sets x and y x and y have exactly the same extensions x and y have exactly the same extensions x and y have exactly the same extensions that is the same set belongs to both of that is the same set belongs to both of that is the same set belongs to both of them for every z in which case x is member of x there is a set x so that for member of x there is a set x so that for every y y is not a member of x in other every y y is not a member of x in other every y y is not a member of x in other where for every u u belongs to z if and that for every u u belongs to z if and that for every u u",
+      "start": 109.0,
+      "end": 1743.0
+    },
+    "cluster105": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture on the concept of \"equinumerousness\" and its implications: \"Not Equal to Pi, EquiuMerous with Its Own Set: A Thought Experiment and a Propositional Theorem\"",
+      "start": 1965.0,
+      "end": 2185.0
+    },
+    "cluster106": {
+      "title": "Transcript: \"Human-friendly title for the following transcript segment of an educational lecture featuring the concept of cardinality or cardinal numbers, which are essential in any set theory or mathematical inquiry. The lecture's focus is on the properties and relationships between different sets, including their cardinality and their properties such as uniqueness, finiteness, and the existence of similarities.\"",
+      "start": 2166.0,
+      "end": 2629.0
+    },
+    "cluster107": {
+      "title": "Why X Doesn't Belong To B Even Though It Happens To Be The Set Of Exactly Those That Do Not Own Themselves, And If So, Then It Belongs To F Of X",
+      "start": 1834.0,
+      "end": 1867.0
+    },
+    "cluster108": {
+      "title": "Choice axiom of choice is that for any choice axiom of choice is that for any relation are there x is a function f which satisfies the following conditions: 1. The domain of f is the domain of all functions from A to B, 2. F is an element of the set of all functions from A to B, and 3. For every subset S of A, F(S) belongs to the set of all functions from A to S.",
+      "start": 703.0,
+      "end": 1965.0
+    },
+    "cluster118": {
+      "title": "AI Assistant's Quick & Easy Guide to Differentiating Between Dominance and Indication in Mathematical Expressions",
+      "start": 2383.0,
+      "end": 2388.0
+    }
+  },
+  "220.json": {
+    "cluster-1": {
+      "title": "Transcript: \"Which is reflexive, symmetric and transitive? Reflexive: for every x if r reflexive.\" Symmetric: \"for every x if r reflexive if for every x if r reflexive if for every x if r is the relation that we are considering is the relation that we are considering is the relation that we are considering we say that r is reflexive if for every we say that r is reflexive if for every we say that r is reflexive if for every x in the domain it is the case that xr x x in the domain it is the case that xr x x in the domain it is the case that xr x and r is transitive\" Transitive: \"if for every x y and z xr y and y rz if for every x y and z xr y and y rz implies exhausted these are definitions x and y it is the case that x equal to y that is if are x equals y that is if are x equals y that is if are x equals y then x must be equal to y which and y then x must be equal to y which and y then x must be equal to y which means",
+      "start": 70.0,
+      "end": 3584.0
+    },
+    "cluster2": {
+      "title": "Discrete Mathematics: Welcome to the npTEL MOOC",
+      "start": 21.0,
+      "end": 3593.0
+    },
+    "cluster34": {
+      "title": "A Brief Introduction to Financial Ratios and Their Role in Investment Analysis",
+      "start": 625.0,
+      "end": 640.0
+    },
+    "cluster48": {
+      "title": "A short, human-friendly title for the transcript segment \"elements a and a then we find that elements a and a then we find that the empty set is a subset of the the empty set is a subset of the the empty set is a subset of the singleton containing a it is also a singleton containing a it is also a singleton containing a it is also a subset of the singleton containing a subset of the singleton containing a subset of the singleton containing a and these are subsets of a and a and these are subsets of a and a and these are subsets of a and a but we find that these two single terms but we find that these two single terms but we find that these two single terms are not comparable to each other the are not comparable to each other the are not comparable to each other the singleton a is not a subset of the singleton a is not a subset of the singleton a is not a subset of the singleton a and the singleton a is singleton a and the singleton a is singleton a and the singleton a is not a subset of the singleton a so not a subset of the singleton a so not a subset of the singleton a so these two are incomparable considering singletons a and b and the empty set as we saw earlier so",
+      "start": 1148.0,
+      "end": 2652.0
+    },
+    "cluster55": {
+      "title": "Transcript: \"A and B are in this case. A is an immediate predecessor of B or an immediate successor of B or an immediate successor of B or another immediate successor of B, or an immediate successor of B.\"",
+      "start": 1818.0,
+      "end": 3140.0
+    },
+    "cluster60": {
+      "title": "Short, Human-Friendly Title for Educational Lecture: A Closer Look at the Size of Set B",
+      "start": 2724.0,
+      "end": 2731.0
+    },
+    "cluster63": {
+      "title": "A Precedence Relation between Functions and Chain Rings  Transcript: \"\"\"such that a precedes b implies that f of such that a precedes b implies that f of a is less than f of b is a consistent a is less than f of b is a consistent a is less than f of b is a consistent enumeration of s so this is the enumeration of s so this is the enumeration of s so this is the precedence relation where as this as the precedence relation where as this as the precedence relation where as this as the less than relation over natural numbers less than relation over natural numbers less than relation over natural numbers so for a function to be a consistent so for a function to be a consistent so for a function to be a consistent enumeration of s it should be a mapping enumeration of s it should be a mapping enumeration of s it should be a mapping from s to the set of natural numbers and from s to the set of natural numbers and set of elements like this so a numbering set of elements like this so that g gets number one a cd gets so that g gets number one a cd gets so that g gets number one a cd gets numbers two three four b its",
+      "start": 2485.0,
+      "end": 2825.0
+    },
+    "cluster66": {
+      "title": "Larger than it, so if you look at these diagramms here, there are set ABC is a maximal diymarker, and all members of its diagrams are maximal elements and those are all maximal diagrams, and the set ABC is also a maximal element because no member in the set diagram element since it has no lower bound than abc. Here we find that is above abc, so if you look at these diagramms here, there are maximal elements such as a maximal element abc is a minimal diymarker, and its maximum element is an element, and those are all maximal elements and those are all minimal elements. The set ABC is also a maximal element since it has no lower bound than abc.",
+      "start": 2251.0,
+      "end": 3321.0
+    },
+    "cluster67": {
+      "title": "Enumeration now let us study chain and nondisjoint partitions. We can consider a posit a and less than relation or the set of positive integers. We can consider a posit a and less than or equal to relation, forming a chain if every pair satisfies this relation. The length of a chain is n and we can partition the elements into n disjoint nondisjoint partitions, which can be shown as follows:  1. Partition the rest of the diagram into n partitions, each with one element, and form a chain of size at most one by considering partitions. This holds since the first partition has length 1 or less, and so on for every successive partition until we reach the last partition.  2. Consider all possible partitions and partition them into disjoint subsets, forming an n-set of subsets with size n minus the length of the longest chain. We can do this inductively by considering subdiagrams in the first partition.  3. Finally, for each subset of partitions, consider its length, which is at most one if it's not a disjoint subset and equal to 1 if it is a disjoint subset. This gives us our chain lengths as n+1.  By the",
+      "start": 2825.0,
+      "end": 3482.0
+    },
+    "cluster70": {
+      "title": "Opposite another example of family f's inclusion let us say we have a family f's inclusion let us say we have a family f's inclusion let us say we have a reflexive property holds for the family reflexive property holds for the family reflexive property holds for the family relation if a is a subset of b and b is a subset of a then a is equal to b mind a subset of a then a is equal to b mind a subset of a then a is equal to b mind you we do not use the proper subset you we do not use the proper subset you we do not use the proper subset relation here we use the family f's inclusion relation here we use the family f's inclusion relation and transitivity also holds if relation and transitivity also holds if relation and transitivity also holds if a is a subset of b and b is a subset of a is a subset of b and b is a subset of a is a subset of b and b is a subset of c then a is a subset of c therefore all c then a is a subset of c therefore all c then a is a subset of c therefore all three properties hold here therefore three properties hold here therefore three properties hold here therefore",
+      "start": 500.0,
+      "end": 685.0
+    },
+    "cluster75": {
+      "title": "Education Lecture: A Divided World",
+      "start": 347.0,
+      "end": 1048.0
+    },
+    "cluster88": {
+      "title": "Natural number A, we know that A divides for a reflexive property, and B and C are divisible by A for transitivity. Therefore, A divides for A, B, and C, and B divides for A, B, and C.",
+      "start": 317.0,
+      "end": 1061.0
+    },
+    "cluster95": {
+      "title": "Transcript: Even if Sigma is Finite, the Set of Strings Is Sigma Star Sigma Star Could Be Sigma Star Sigma Star Could Be Sigma Star Sigma Star Could Be Lexicographically Ordered Which Means in Dictionary Order You Would Prefer to Dictionary Order You Would Prefer to Order Them in This Way We Will Say That Order Them in This Way We Will Say That Order Them in This Way We Will Say That the Null String Epilixl Is Less Than W The Null String Epilixl Is Less Than W The Null String Epilixl Is Less Than W For Any Nonempty W Any Non-Empty String for Any Nonempty W Any Non-Empty String for Any Noneempty W Any Non-Empty String w From Sigma Strong Will Have This W From Sigma Strong Will Have This W From Sigma Strong Will Have This Property It Will Come After the Null Property It Will Come After the Null Length So This Ordering Would Be Like, Length So This Ordering Would Be Like, This If Sigma Happens to be a and b Just This If Sigma Happens to",
+      "start": 1587.0,
+      "end": 1762.0
+    },
+    "cluster97": {
+      "title": "Short, human-friendly title for the following transcript segment: \"A Two-Set Power Set: Conscious of Two Elements, A and B, and Its Subsets\"",
+      "start": 1118.0,
+      "end": 1899.0
+    },
+    "cluster98": {
+      "title": "The Set of Infinite Strings: From Sigma to Sigma Even if Sigma is Finite, It Includes All Strings of Length One, Two, and Three",
+      "start": 1407.0,
+      "end": 1752.0
+    },
+    "cluster99": {
+      "title": "Human-friendly title for the transcript segment mentioned in the text material: \"The Shortest Human-Friendly Title for Transcript Segment with Educational Lecture About the Ordering of Tuples, Alphabet Sigma, All Alphabet Sigma, and More Strings\"",
+      "start": 1430.0,
+      "end": 1738.0
+    },
+    "cluster108": {
+      "title": "A Defining Statement for the Function \"f\" Using X=a and S={a, x}",
+      "start": 2752.0,
+      "end": 2773.0
+    },
+    "cluster112": {
+      "title": "Exploring and Discovering Symmetric Relationships: What They Are, How They Work, and Why They Matter in Economics and Finance",
+      "start": 113.0,
+      "end": 441.0
+    },
+    "cluster117": {
+      "title": "Easy Explanation for Natural Numbers Using Less Than or Equal to Relation",
+      "start": 217.0,
+      "end": 1005.0
+    },
+    "cluster118": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"Know that for each number less than or equal to a, there exists a less than or equal to a that is also less than or equal to a.\"",
+      "start": 238.0,
+      "end": 2190.0
+    },
+    "cluster119": {
+      "title": "\"We Can Say That Ordered Ntuple A, We Can Say That Ordered Ntuple A Through A N Is Less Than Or Equal To Or Through A N Is Less Than Or Equal To Or Through A N Is Less Than Or Equal To Or Precedes The Ordered Ntuple B, Through Precedes The Ordered Ntuple B, Through Precedes The Ordered Ntuple B, Through Precedes The Ordered Ntuple B, Through B N If Ai Is Less Than Or Equal To B I B N If Ai Is Less Than Or Equal To B I B N If Ai Is Less Than Or Equate To B I So Less Than Or Equal To I Less Than That Ai Precedes B I That Is When We Say That Ai Precedes B I That Is When We Say That The Ordered Ntuple A Through A That The Ordered Ntuple A Through A That The Ordered Ntuple A Through A Intercedes The Ordered Ntuple B To Be Intercedes The Ordered Ntuple B To Be Intercedes The Ordered Ntuple B To Be In So This Is A Straightforward Inso",
+      "start": 1288.0,
+      "end": 1806.0
+    },
+    "cluster123": {
+      "title": "A Brief Introduction to Precedence Relations and Their Applications in Mathematics",
+      "start": 213.0,
+      "end": 2381.0
+    },
+    "cluster125": {
+      "title": "Sets Today, We Shall Study Partially Ordered Sets in a Previous Lecture, Where We Discuss Equivalence Relations and Their Properties in Previous Lecture, We Seek Equivalence Relations in Our Lecture Today, Regarding Partially Ordered Sets",
+      "start": 37.0,
+      "end": 1093.0
+    },
+    "cluster126": {
+      "title": "Transcript: A general symbol used to denote partial ordering relations, generating a human-friendly title for an educational lecture on the concept. The title should reflect the fundamental principle of the relationship and its significance in society or scientific understanding.",
+      "start": 197.0,
+      "end": 2155.0
+    },
+    "cluster168": {
+      "title": "Educational Lecture: A Visual Explanation of the Geometric Relationship Between Diagrams and Their Representations",
+      "start": 2133.0,
+      "end": 2143.0
+    }
+  },
+  "221.json": {
+    "cluster-1": {
+      "title": "Transcript: \"equals a x that is a board multiplying a equals a x that is a board multiplying a with some integer x we would get b that with some integer x we would get b that with some integer x we would get b that is when we said that a divides b and is when we said that a divides b and is when we said that a divides b and this was denoted in this fashiion using a this was denoted in this fashion using a this was denoted in this fashion using a vertical bar this notation asserted that vertical bar this notation asserted that vertical bar this notation asserted that a divide(b) and is when we said that a divide(b) and is when we said that a divide(b) and is when we said that a divide(b) and this was denoted in this fashiion using a this was denoted in this fashiion using a this was denoted in this fashiion using a vertical bar to indicate that a does not vertical bar to indicate that a does not vertical bar to indicate that a does not divide b so let us see some results divide b so let us see some results for some integer y c equal to b y therefore c can be written",
+      "start": 131.0,
+      "end": 2424.0
+    },
+    "cluster2": {
+      "title": "Music, Music: Welcome to the NP Tell Mooc on Discerning Mathematics",
+      "start": 9.0,
+      "end": 2433.0
+    },
+    "cluster4": {
+      "title": "How to Find the Least Positive Member of a Set Using Depth-First Search in Python",
+      "start": 1547.0,
+      "end": 1557.0
+    },
+    "cluster7": {
+      "title": "Short, human-friendly title for the transcript segment \"we get an arithmetic progression b plus a is the next point b plus a is the a is the next point b plus a is the a is the next point b plus a is the one after that one after that one after that one after that b plus is the one after that and so go to the left side we have b minus a b go to the left side we have b minus a b minus a b minus a and so on so starting from b we are going to the so starting from b we are going to the right jumping at a distance of a every right jumping at a distance of a every right jumping at a distance of a every time similarly we can also move to the time similarly we can also move to the time similarly we can also move to the left left left jumping intra distance of a every time now on this real line zero is somewhere now on this real line zero is somewhere let us say this is where zero is in that let us say this is where zero is in that let us say this is where zero is in that case a will be here at a distance of a case a will be here at a distance of a case a will be here at a",
+      "start": 749.0,
+      "end": 883.0
+    },
+    "cluster14": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture on the arithmetic progressions, based on the given text: \"b where a is greater than zero but b need not be greater than there exist unique integers given r such that b is qa plus integers given r such that b is qa plus integers given r such that b is qa plus r where is less than or equal to r r where is less than or equal to r r where is less than or equal to r which is less than a so when you find which is less than a so when you find which is less than a so when you find such a unique ordered pair q r is have b minus qa equal to r or b equals have b minus qa equal to r or b equals qa plus and here zero less than or qa plus and here zero less than or qa plus and here zero less than or equal to r less than a now we have to r plus a but what is r plus a this is b minus qa plus a but this is then greater minus qa plus a but this is then greater minus qa plus a but this is then greater than or equal to a and therefore our than or equal to a and therefore our if",
+      "start": 666.0,
+      "end": 1131.0
+    },
+    "cluster25": {
+      "title": "\"Equal to r",
+      "start": 908.0,
+      "end": 1074.0
+    },
+    "cluster34": {
+      "title": "A brief yet comprehensive title for the transcript segment mentioned above, \"assert that is plus or minus b if a divide(s) b for positive a and b, then a divides b for positive a and b, then a divides b for positive a and b, then a less than or equal to b prove this in particular\": \"Consider two numbers: b = (c ÷ 2) where c is an integer greater than or equal to 1.\"",
+      "start": 577.0,
+      "end": 1332.0
+    },
+    "cluster39": {
+      "title": "Human-friendly title for the transcript segment of an educational lecture: \"Exactly what we wanted to show so you can remove common factors from a b, d and c, d, and a b, d and e; and remove common factors from a b, d, and e, do not have common factors anymore.\"",
+      "start": 2137.0,
+      "end": 2281.0
+    },
+    "cluster57": {
+      "title": "Short, human-friendly title for transcript segment \"Negative sign here so we have two negative signs here so we have two integers minus q x 'naugh' and minus q integers minus q x 'naugh' and minus q integers minus q x 'naugh' and minus q y 'naugh' so that our is a linear y 'naugh' so that our is a linear\"",
+      "start": 1655.0,
+      "end": 1660.0
+    },
+    "cluster58": {
+      "title": "Short, human-friendly title for the transcript segment: \"India Coefficients and Their Linear Combinations: An Evaluation of Various Integral Values\"",
+      "start": 1361.0,
+      "end": 1477.0
+    },
+    "cluster59": {
+      "title": "Short, Human-Friendly Title for Transcript: \"Or in Other Words: X y Equals One If For Integers x and y x into I Happens to Be Integers x and y x into I Happens to Be Integers x and y x into I Happens to Be One Then We Have Only Two Possibilities: Either X Equal to And Y Equal to Or Either X Equal to And Y Equal to Or Either X Equal to And Y Equal to Or X Equal to Minus And Y Equal to Minus X Equal to Minus And Y Equal to Minus X Equal to Minus In the First Case We Have a Equal to B In the First Case We Have a Equal to B In the First Case We Have a Equal to B In the Second Case We Have a Equal to In the Second Case We Have a Equal to In the Second Case We Have a Equal to and So We Could Write This As X Plus Y We Have to Find X and Y So That Is Y We Have to Find X and Y So That Is Y We Have to Find X and Y So That Is y We Have to Find X and Y",
+      "start": 545.0,
+      "end": 1453.0
+    },
+    "cluster68": {
+      "title": "There Exist Induced Obligatory Convergent Numerals and Positive Indices to Show That Jeez Bx Naught Plus C Why Not In Other Induced Obligatory Convergent Numerals And Positive Indices to Show That Jeez Bx Naught Plus C Why Not In Other Words",
+      "start": 1294.0,
+      "end": 2420.0
+    },
+    "cluster75": {
+      "title": "Transcript: \"divide b by let us see how many ways it can be divided into, and related to divide by relation between a divide by c for every integer it is related to divide by c for every integer it is related to divide by c for every integer it is the case that a divide into b see this is the case that a divide into b see this is the case that a divide into b see this is easy to show if a divide into b then be easy to show if a divide into b then be easy to show if a divide into b then be equal to x for some integer x then for nec we have b equal to a x then for nec we have b equal to a x therefore bc equal to ax and oc which by therefore bc equal to ax and oc which by therefore bc equal to ax and oc which by associativity of multiplication can be associativity of multiplication can be written as x c times a thus implies that written as x c times a thus implies that written as x c times a thus implies that written as x c times a thus implies that a divide into b c so that was easy to show a divide into b c so that was easy to show a divide into b c so that was easy to",
+      "start": 164.0,
+      "end": 650.0
+    },
+    "cluster76": {
+      "title": "Short, human-friendly title for transcript segment: \"Equal to zero we say that a divides b if there exists an integer x so that b is a multiple of a and c is also a multiple of a in that case for any pq set in other words for all p q which are integers the b c q is a multiple of a\"",
+      "start": 119.0,
+      "end": 1510.0
+    },
+    "cluster77": {
+      "title": "Case for Any X Y: We Can Say For Every PQ Case For Any X Y, There Exists an Integer B, P and Q Where A = BP + Eq As Sun Ap X + Iy Q And A Divides CS AY",
+      "start": 386.0,
+      "end": 2312.0
+    },
+    "cluster78": {
+      "title": "A Brief Explanation of How to Calculate the Inverse of a Matrix Using Rows and Cols, with Images and Examples for Understanding.",
+      "start": 1625.0,
+      "end": 2401.0
+    },
+    "cluster91": {
+      "title": "Number Theory and Integral Domains: A Study of Algebraiic Structures",
+      "start": 38.0,
+      "end": 119.0
+    },
+    "cluster109": {
+      "title": "Transcript: \"Analyze and prove that a pair of numbers b and c have the same greatest common divisor if they both divide each other without being zero.\"",
+      "start": 1134.0,
+      "end": 2031.0
+    },
+    "cluster115": {
+      "title": "Interesting Theorem: GCD = Common Divisor of Two Numbers (B & C) Is Equal to D in Other Words",
+      "start": 1282.0,
+      "end": 2137.0
+    },
+    "cluster116": {
+      "title": "Divides C and D into Common Factors using GCD",
+      "start": 1721.0,
+      "end": 2239.0
+    }
+  },
+  "222.json": {
+    "cluster-1": {
+      "title": "Human-friendly title for the transcript segment of an educational lecture: \"Bounding Belonging to a It Is the Case That X Is Belonging to a It Is the Case That X Is Less Than or Equal to M or X Precedes M, Less Than or Equal to M or X Precedes M and Upper Bound of A that Is Less Than or Equal to of a is Some M Bounding Belonging to s Such That for Every X Belonging to a It Is the Case That X Is Less Than or Equal to X Case That X Is Less Than or Equal to X Exist It Is Unique For Example Consider This Partial Unique For Example Consider This Partial Order Denoted by a Half a Diagram Let a Equal to De BiE Be the Set De BiE Then Let a Equal to De BiE Then The Upper Bounds of Ar F And G it Has Are B A It Is Not Exist But If It Does Exist It Is Not Exist It Is Not Exist It Is Unique For Example Consider This Partial Order Denoted by a Half Diagram Let a Equal to De BiE Be the Set De BiE Then Let",
+      "start": 72.0,
+      "end": 1860.0
+    },
+    "cluster2": {
+      "title": "Analyze and Explain the Importance of Partially Ordered Sets in Computer Science: Mathematics, Modules, and Conclusion",
+      "start": 21.0,
+      "end": 2152.0
+    },
+    "cluster24": {
+      "title": "A Comprehensive Discussion on Set Theory and Its Applications",
+      "start": 2123.0,
+      "end": 2128.0
+    },
+    "cluster51": {
+      "title": "Transcript: \"That sea is a lower bound, suppose z that sea is a lower bound, suppose z prime is another lower bound, c prime is prime is another lower bound, c prime is prime is another lower bound, c prime is a lower bound of a and b, then clearly c prime again or in other words c prime is prime again or in other words c prime is less than or equal to c so if there is less than or equal to c, so if there is less than or equal to c, so if there is another lower bound to a and b, then that take any two integers inj either a less take any two integers inj either a less than or equal to j or j less than or than or equal to j or j less than or than or equal to j or j less than or equal to i or both so the greatest lower equal to i or both so the greatest lower equal to i or both so the greatest lower equal to i or both so the greatest lower bound of i and j would be the smaller of bound of i and j would be the smaller of bound of i and j would be the smaller of the two and the least upper bound would integers, therefore on this partial order integers, therefore on this partial order is",
+      "start": 1151.0,
+      "end": 1646.0
+    },
+    "cluster68": {
+      "title": "A Guide to the Greatest Lower Bound, Divisibility, and LCM for Any A and B in Any Given Order",
+      "start": 299.0,
+      "end": 1563.0
+    },
+    "cluster101": {
+      "title": "Can you summarize the transcript segment of an educational lecture on latteyces, including the topics discussed and their relevance to human understanding?  Transcript: [Lecturer introduces topic with introduction and welcomes audience members]  Lecturer: Now let us study what are called now let us study what are called meat and join using these two operators of functions. These two operators of functions, so these two operators are named meat and joint. It is operators that are named meat and joint, they are similar to the Anton or symbols, they are similar to the Anton or symbols, they are also synonyms with these two operators. Meat is with more general synonyms. The word meat is with more general synonyms. But meat is with more general connection than ant, similarly join with connotation and join with ant, similarly join with connotation. Meet and join or eight are equal to meet and join or two equals meet and join, but meet and join or commutative operators. The second axiom says stop of lattyces. This is the first commutative operators, the second axiom says stop of lattyces, this is the first commutative operators, the second axiom says",
+      "start": 379.0,
+      "end": 2050.0
+    },
+    "cluster110": {
+      "title": "Transcript: [Slide 1 (Title)] So, we consider a non-empty set L which is closed under these two binary operators. We say that L is a lattice if these two operators satisfy the following axioms.  Axiom 1: If x and y are in L, then x ≦ y.  Axiom 2: If x and y are in L, then y ≤ x.  If L is a lattice, we call it a lattice of operators (L",
+      "start": 457.0,
+      "end": 2123.0
+    },
+    "cluster111": {
+      "title": "A set's greatest lower or least upper bound is the supreme upper bound in an arbitrary linearly ordered set",
+      "start": 55.0,
+      "end": 1838.0
+    },
+    "cluster112": {
+      "title": "Short, Human-Friendly Title for Lecture on Equality and Relationships: The Less Than or Equal To Relationship Is Reflexive",
+      "start": 863.0,
+      "end": 884.0
+    },
+    "cluster113": {
+      "title": "A Comprehensive Guide to Navigating Online Learning for College Students",
+      "start": 337.0,
+      "end": 379.0
+    },
+    "cluster118": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture on the partial is less than or equal to relationship between \"less than or equal to\" and \"equal to\". The above text generated using the \"generate_title\" function in Python.",
+      "start": 150.0,
+      "end": 1315.0
+    },
+    "cluster125": {
+      "title": "A brief overview of partially ordering relations, starting with the sixth lecture",
+      "start": 38.0,
+      "end": 55.0
+    },
+    "cluster126": {
+      "title": "Exploring Partial Orders with an Example and Its Properties",
+      "start": 779.0,
+      "end": 1268.0
+    }
+  },
+  "223.json": {
+    "cluster-1": {
+      "title": "Transcript: \"\"\"That they are relatieve prime, let us that they are relatrive prime, let us see a theorem which we call theorem two, see a theorem which we call theorem two, see a theorem which we call theorem two, one for integers a b and x gcd of a and one for integers a b and x gcd of a and one for integers a b and x gcd of a and b is the same as the gcd of a and b plus b is the same as the gcd of a and b plus b is the same as the gcd of a and b plus a that is an odd integer multiple of a, a that is an odd integer multiple of a, a that is an odd integer multiple of a added to b along with a will have the added to b along with a will have the added to b along with a will have the same gcd as a np the proof goes like same gcd as a np the proof goes like same gcd as a np the proof goes like this gcd of a and b plus ax according to this gcd of a and b plus ax according to this gcd of a and b plus ax according to what we saw in the last class this can",
+      "start": 63.0,
+      "end": 2071.0
+    },
+    "cluster2": {
+      "title": "Short, Human-Friendly Title for Transcript: \"Welcome to the npTEL MOOC on Great Mathematics\"",
+      "start": 21.0,
+      "end": 2094.0
+    },
+    "cluster14": {
+      "title": "Conclusion: R Equal to But C Is QL + R",
+      "start": 1437.0,
+      "end": 1455.0
+    },
+    "cluster33": {
+      "title": "The Next Theorem: We Just Ended the Conclusion, Divides B!",
+      "start": 348.0,
+      "end": 367.0
+    },
+    "cluster34": {
+      "title": "Of A And B Is The Absolute Value Of A, Be Of A And B Is The Absolute Value Of A To Produce First The Product Of A And B To Produce First The Product Of A And B To Produce First We Assume That Both Nb Are Positive Assume That A And B Are Positive Assume That A And B Are Positive Therefore This Is The Same As The, So The Only Remaining Magnitude Of A B So The Only Remaining Absolute Value Of A B So The Only Remaining",
+      "start": 1705.0,
+      "end": 1973.0
+    },
+    "cluster54": {
+      "title": "A Brief Introduction to Geometric Progression in Mathematics",
+      "start": 658.0,
+      "end": 1069.0
+    },
+    "cluster57": {
+      "title": "\"Equation and Then in the Next Step ...\" Length: 10 words maximum",
+      "start": 840.0,
+      "end": 989.0
+    },
+    "cluster58": {
+      "title": "A Simple Introduction to Linear Regression Using Python",
+      "start": 504.0,
+      "end": 531.0
+    },
+    "cluster59": {
+      "title": "AI Assistant Generated: \"A Tale of Three Members and Their Least Positive Values in a Set\"",
+      "start": 205.0,
+      "end": 210.0
+    },
+    "cluster65": {
+      "title": "Algorithmically Applied, Increasing Complexity Through REDUCED Loops!",
+      "start": 408.0,
+      "end": 418.0
+    },
+    "cluster68": {
+      "title": "Short, human-friendly title: \"What We Saw in the Last Class: The Least Positive Member of All Linear Combinations\"",
+      "start": 107.0,
+      "end": 1870.0
+    },
+    "cluster73": {
+      "title": "Integer Algorithms: Applying the Division Algorithm on Integer Intervals Using Ordered Pairs",
+      "start": 392.0,
+      "end": 1330.0
+    },
+    "cluster74": {
+      "title": "Transcript: The GCD that we find, namely our i minus the GCD that we find, namely our i minus is a linear combination of (r) naughts, namely (r) naughts, namely r with (x) naughts and (y) naughts as well as (r) with (x) nauughts and (y) nauughts as the last nonzero remainder that we had. We knew that the GCD is (r) minus (r), which is the same GCD of the two given numbers or not an hour, where we know by theorem that the GCD of (r) and (r) is (gcd of (r) and (r) gcd of (r) and (r) gcd of (r) and (r) gcd of (r) and (r) its also a linear combination of or not, where we use integer minus q here which is the same as gcd of (r) and r. So, we can conclude that the GCD of our i minus (i) minus is indeed the same as (gcd of (r) and (r)) since (gcd of (r) and (r))",
+      "start": 489.0,
+      "end": 1130.0
+    },
+    "cluster75": {
+      "title": "An Explainer for the Intersection of Numbers, Fractions, and Ratios",
+      "start": 1366.0,
+      "end": 1388.0
+    },
+    "cluster86": {
+      "title": "Start for Any Pair of Integers A and B, Start for Any Pair of Integers A and B: The GCD of a and b Multiplied by the LCM, The GCD of a and b Multiplied by the LCM, The GCD of a and b Multiplied by the LCM of A and B is the Absolute Value of a",
+      "start": 1693.0,
+      "end": 2058.0
+    },
+    "cluster104": {
+      "title": "Short, human-friendly title for the transcript segment above: \"Two numbers two integers, A and B, are coprimal or one we say that they have common divisor, which is greater than 1. Let's assume they are coprimal, then the gcd of A and B divides them.\"",
+      "start": 45.0,
+      "end": 1894.0
+    },
+    "cluster109": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"Common Factors and Their Properties\"",
+      "start": 257.0,
+      "end": 1154.0
+    },
+    "cluster113": {
+      "title": "Transcript: \"or LCM of n and p given two integers A and B, we can define the least common multiple (LCM) of n and p, which is also called the least common multiple (LCM) of a and b. The theorem for this notion can be proven by defining it as multiple of lcm of a and b, and then showing that every other common multiple is a multiple of lcm. The integer multiple of LCM is unique and is called the common multiple of n and p.\"",
+      "start": 1220.0,
+      "end": 1437.0
+    },
+    "cluster114": {
+      "title": "Human-friendly title for transcript segment \"another theorem a bottle sium for every positive integer d lcm of bd cd\": \"another theorem that produces lcm of bd and cd as lcm of b and c multiplied by d\"",
+      "start": 1494.0,
+      "end": 1674.0
+    },
+    "cluster115": {
+      "title": "A Brief History of Mathematics: A Fascinating Journey Through Time",
+      "start": 269.0,
+      "end": 280.0
+    },
+    "cluster118": {
+      "title": "Abridged Edition of \"Equality\": \"Always Meet the Equal Demands\"",
+      "start": 1834.0,
+      "end": 1838.0
+    }
+  },
+  "224.json": {
+    "cluster-1": {
+      "title": "Transcript: \"Greater than its product of one or more prime numbers, the proof is easy. Consider the number n and prove that it can be written as a product of one or more prime numbers so in, as a product of one or more prime numbers, so in as a product of one or more prime numbers, so in this case, n is a prime, so n is a product of one or more prime numbers, so into n where n definitionn into n where n definitionn into n where n and n are both less than n and greater and n and n are both less than n and greater and n and n are both less than n and greater than water than water than water, now let us inductively assume that n now let us inductively assume that n now let us inductively assume that n and n are products of prime numbers therefore n is also a representable as a representation of multiple be represented as a representation of multiple be represented as a product of multiple times another theorem which we call divide one of those integers into equal to divide one of those integers into equal to divide one of those integers into equal to divide one of those integers into equal to divide one of those integers into equal to, previous theorem, previous theorem, previous",
+      "start": 134.0,
+      "end": 2410.0
+    },
+    "cluster2": {
+      "title": "Lecture III: Discursive Mathematics and Prime Numbers",
+      "start": 21.0,
+      "end": 37.0
+    },
+    "cluster10": {
+      "title": "Historical Figures in Art and Architecture, Part 1: From Michelangelo to Monet",
+      "start": 903.0,
+      "end": 1677.0
+    },
+    "cluster33": {
+      "title": "Transcript: \"Are and so on so let us are and so on so let us see a theorem that we call theorem the theorem says that every integer n greater than its product is either a multiple of another integer or a multiple of another integer whose product is equal to another integer theorem prime p and integers a and b if p does not divide a then either p does not divide a or p does not divide a or p does not divide a or p does not divide b if p does not divide a then either p divides a or p divides a or p divides a or p divides a and so on we should a or p divides a and so on we should a or p divides a and so on we should divide one of those integers we can will form the basis that is theorem will form the basis for n greater than will form the basis for n greater than to let a equal to a and b equal to a to let a equal to a and b equal to a through a in in that theorem then we through a in in that theorem then we through a in in that theorem then we have that either p divides a or p divide s for some integer s greater than a if p does not divide a then either p divides a or",
+      "start": 115.0,
+      "end": 1881.0
+    },
+    "cluster35": {
+      "title": "\"Examining the Mathematical Properties and Closure of the Set of Complex Numbers Considered All Complex Numbers in Forms of Some Positive Introductory Root Six, B,\" with Specific Examples Given",
+      "start": 958.0,
+      "end": 1058.0
+    },
+    "cluster36": {
+      "title": "Transcript: \"Consider the sequence k factorial, which is a series of k integers that are consecutive, and we can see that all of them are composite as they have all distinct factors. This fact is evident from their respective divisors (which are the numbers dividing each number). The sequence also includes the sum of all the values of k, because each number is divided by 1, 2, ..., k-1 when it comes to the second and fourth positions.\"",
+      "start": 2051.0,
+      "end": 2146.0
+    },
+    "cluster41": {
+      "title": "Short, human-friendly title for transcript of educational lecture on modulo m and its conclusion: \"ok that's it! hope to see you in the next\"",
+      "start": 2434.0,
+      "end": 2461.0
+    },
+    "cluster42": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture: \"When A and B Divide Negative A, They Also Divide Negative B and C: M Is the Negative of T\"",
+      "start": 2336.0,
+      "end": 2424.0
+    },
+    "cluster46": {
+      "title": "A Short, Human-Friendly Title for the Transcript of an Educational Lecture: \"What It Means When a <B> Is Congruent with B (Modulo N): Consequences and Proofs in a Concise Way\"",
+      "start": 2362.0,
+      "end": 2434.0
+    },
+    "cluster47": {
+      "title": "The Consequences of Convergence and How It Relates to Confluences in Mathematics Education",
+      "start": 2224.0,
+      "end": 2399.0
+    },
+    "cluster54": {
+      "title": "Short, Human-Friendly Title for Transcript Segment: \"To Find GCD Using Seven Steps, Incorporating Minimal Exponent of Each Input Exponent, Then Taking Minimum Value.\"",
+      "start": 1561.0,
+      "end": 1587.0
+    },
+    "cluster64": {
+      "title": "Transcript: \"This is also a member of C, where C is the system of numbers with the property that a to one is a composite number if and only if it can be expressed as the product of two members of the scene of nom greater than or equal to one.\"",
+      "start": 1058.0,
+      "end": 1354.0
+    },
+    "cluster86": {
+      "title": "Short, Human-Friendly Title for Transcript: \"Factors of A and B, Inferring LCM Through Splitting the Product Over Prime P Powers and Producting Over All Primes\"",
+      "start": 1478.0,
+      "end": 1522.0
+    },
+    "cluster89": {
+      "title": "Number Theory Today: We Study Prime Numbers and Nonzero Integer and Nonzero and Nonzero Integer and Nonzero Non-Negative Integer if One and Parely Non-Negative Integer If One and Parely Non-Negative Devices It Has a Composite Number So The Prime Numbers are and So the Prime Numbers Are and So On, So Let Us Human-Friendly Title for the Following Transcript Segment of an Educational Lecture. Keep It Within 10 Words Maximum!",
+      "start": 37.0,
+      "end": 1536.0
+    },
+    "cluster94": {
+      "title": "Inspired by Prime's Infinite, The Proof on Finding Our Larger Primes and Proof of the Proven Theorem, this transcript segment presents a short yet informative title that highlights the concept of finding larger prime numbers and proving the proof for their existence. It also emphasizes the idea that there are arbitrarily long gaps in the series of prime numbers, but the prime numbers themselves remain dense in smaller integers. The title is suitable for educational purposes or as a subtitle within an educational lecture, and can be used to engage listeners while delivering key information about the topic being discussed.",
+      "start": 1828.0,
+      "end": 2224.0
+    },
+    "cluster100": {
+      "title": "Short and Human-Friendly Title for Transcript Segment: \"Be Left With Some K Prime, Be Left With Some L Prime, Be Left with Some L Prime on the Left Side, and Be Left With Some Common Prime on the Right Side\"",
+      "start": 656.0,
+      "end": 1906.0
+    },
+    "cluster102": {
+      "title": "Short, human-friendly title: \"Prime or Larger Than Prime?\"",
+      "start": 1851.0,
+      "end": 1947.0
+    },
+    "cluster103": {
+      "title": "Short, human-friendly title for the transcript segment of an educational lecture on prime numbers, including prime factors and their properties, based on the given text.",
+      "start": 457.0,
+      "end": 1787.0
+    }
+  },
+  "225.json": {
+    "cluster-1": {
+      "title": "Transcript: [Narrator] \"Would be m into kx + d by d x + jy, where k and x are integers, k > 0. Let us say c is some prime number, so dividing the left-hand side by c gives a remainder r, which we can write as r = (c - 1)k. We have that lcm(m,d) = (lcm(m,k))(lcm(d,k)). We want to find some n such that a is congruent to n and b is congruent to n.\" [Narrator] \"So, we can replace all the terms in this expression by the integers 1, 2, ..., n. This gives us k = 1, x = 1, y = 0, m = 1, d = 1.\" [Narrator] \"But then this also gives us that k and x are congruent to each other, which means that c is a prime number. So the statement 'modulo x' means that we have something like 'in the set [1, n]'. In other words, if you divide both sides of the",
+      "start": 172.0,
+      "end": 2490.0
+    },
+    "cluster2": {
+      "title": "Human-Friendly Title for Transcript \"Music Music You Welcome to the NPL Makanda\": \"Welcome to the NPL Makanda - Mathematics, This is the Fourth Lecture on Number Theory in the Last Class\"",
+      "start": 21.0,
+      "end": 44.0
+    },
+    "cluster32": {
+      "title": "Cancel a from either side of a congruence then m will have to be divided by the gcd of a in m for example, so if you divide both sides by we this is when a can be cancelled from each side of the congruence without affecting the modulus",
+      "start": 675.0,
+      "end": 2352.0
+    },
+    "cluster33": {
+      "title": "Lecture on the Definition of Primes and Their Relationship with Other Integer Values",
+      "start": 2386.0,
+      "end": 2410.0
+    },
+    "cluster34": {
+      "title": "A Transcript of an Educational Lecture on the Use of Mathematical Operations with Integers",
+      "start": 531.0,
+      "end": 543.0
+    },
+    "cluster40": {
+      "title": "Transcript: \"is ten plus a multiple of three is Ten Plus Again A Multiple Of Three, Named after a set of integers X through Xn that are also called a complete residue system modulo a complete residue system modulo M if for every integer Y there is a why more n so for every single end why more n so for every single end integer you will find residue within the integer you will find residue within the integer you will find residue within the system in that case it is called a system In that case it is called a Complete Residue System Is A Complete Residue System Modulo Take Any Integer That Will Be Modulo, Take Any Integer That Will Be Modulo, Take Any Integer That Will Be One Of These Modulo Equally To One Of These Modulo Equely To One Of These Modulo Equely To Its Also A Complete Residue System Is An Equal To One More So We Have More Is One More So We Have More Is One More So We Essentially Have The Same Integers Essentially Have The Same Integers Essentially Have The Same Integers Modulo Similarly And Modulo Similarly And Modulo Similarly And Is Also A Complete Residue System Equal",
+      "start": 1176.0,
+      "end": 2419.0
+    },
+    "cluster41": {
+      "title": "Transcript: \"For integers A, M and x, ax is congruent for integers A, M and x if and only if x is to A by M modulo M, divided into its factors. The theorem is proved by showing that if ax is congruent for integers A, M and x, then either a(x-A) is congruent with Ax or a(x-M) is congruent with Ax.\"",
+      "start": 627.0,
+      "end": 1922.0
+    },
+    "cluster46": {
+      "title": "Short, human-friendly title for the transcript segment \"we say that for integer m not equal to zero and integers a and b if m divides a and integers a and b if m divides a and integers a and b if m divides a minus b then we say that a is congruent minus b\": \"we say that for integers m not equal to zero and integers a and b if m divide(s) a and integers a and b if m divide(s) a and integers a and b if m divide(s) a minus b then we say that a is congruent to b modulo m\"",
+      "start": 44.0,
+      "end": 865.0
+    },
+    "cluster47": {
+      "title": "\"Congruence Properties as So We Will See Some More Properties One Property Is That If Is Congruent To Be Modem And Assumptions Are Is Congruent To Be Modem And Assumptions Are Congruent To Be Modem And C Is Congruent To D Is Congruent To B Modem And Sequel To D Modem Then X Plus C Y Is Congruent To B X Plus then X Plus C Y Is Congruent To B X Plus D Y Modem Which Is Exactly What We Seek Dy Modem Which Is Exactly What We Seek Dy Modem Which Is Exactly What We Seek to Prove Another Result Is That If Equal To, Me Be Modem Then Let Us Say If Equal To, Me Be Modem Then Let Us Say A Is Q M Plus R R Is The Remainder A Is Q M Plus R R Is The Remainder In That Case B Will Also Produce The Same Remainder Of Them Will Produce The Same Remainder Of Them Will Produce The Same Remainder Therefore Ac Would Be R R Modem Similarly BD Ac Would Be R R Modem Simply Because C And D Are Cong",
+      "start": 75.0,
+      "end": 572.0
+    },
+    "cluster54": {
+      "title": "The Number With the That We Are Seeking Cancels, but the GCD of and Is to Replace",
+      "start": 717.0,
+      "end": 725.0
+    },
+    "cluster78": {
+      "title": "A brief summary of a scientific paper on the relationship between c, d, and mj for solving a particular problem using matrix multiplication in the context of integer linear programming optimization",
+      "start": 155.0,
+      "end": 172.0
+    },
+    "cluster106": {
+      "title": "The Phi Value, Cardinality, and Cardinality of a Set",
+      "start": 2439.0,
+      "end": 2447.0
+    },
+    "cluster152": {
+      "title": "Educational Lecture: Computing Products and their Derivatives",
+      "start": 2255.0,
+      "end": 2263.0
+    }
+  }
+}
